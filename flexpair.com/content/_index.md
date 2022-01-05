@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
+  title: "Flexpair makes hybrid cloud collaboration fun"
   button: "Get Premium Version"
   button_link: "https://gethugothemes.com/products/andromeda/"
   image: "images/banner-app.png"
