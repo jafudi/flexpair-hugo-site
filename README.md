@@ -58,7 +58,7 @@ Get It Now | [![download-light](https://demo.gethugothemes.com/icons/download.pn
 git clone git@github.com:gethugothemes/andromeda-light.git
 
 # cd in the project directory
-$ cd andromeda-light/exampleSite/
+$ cd andromeda-light/flexpair.com/
 
 # Start local dev server
 $ hugo server --themesDir ../..

@@ -1,5 +1,5 @@
 [build]
-  publish = "exampleSite/public"
+  publish = "flexpair.com/public"
   command = "cd flexpair.com && hugo --minify --gc --themesDir ../.."
   
 [build.environment]
