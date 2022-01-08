@@ -1,4 +1,4 @@
-# <h1 align=center>Andromeda Light | <a target="_blank" href="https://demo.gethugothemes.com/andromeda-light" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fandromeda-light%2F">Page Speed (92%)</a></h1>
+# <h1 align=center>Andromeda Light | <a target="_blank" href="https://demo.gethugothemes.com/andromeda-light" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fandromeda-light%2F">Page Speed (90%)</a></h1>
 
 
 <p align=center>
@@ -72,7 +72,7 @@ Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.fores
 
 This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your
 repository in Forestry](https://app.forestry.io/quick-start?repo=gethugothemes/andromeda-light&engine=hugo&version=0.87.0) and
-you will be able to edit and preview your site ✨.
+you will be able to edit and preview your site.
 
 Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
 
