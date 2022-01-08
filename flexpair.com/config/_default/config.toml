@@ -22,7 +22,7 @@ min = "0.83.1"
 home = ["HTML", "RSS", "WebAppManifest"]
 
 [imaging]
-quality = 90
+quality = 100
 
 [caches]
 [caches.images]
