@@ -68,7 +68,7 @@ button = "I Accept"
 enable = true
 title = "Your support is appreciated"
 content = "Help us to continuously improve Flexpair by making the donation you can afford."
-button = "Buy us a coffee&#xf0f4;"
+button = "Buy us a coffee<i class="las la-coffee"></i>"
 button_link = "https://www.buymeacoffee.com/flexpair"
 
 ############################# social site ########################
