@@ -71,7 +71,7 @@
             <div class="col-lg-10">
               {{$img:= resources.Get . }}
               {{$img:= $img.Resize "1020x webp"}}
-              <img loading="lazy" decoding="async" class="w-100 img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Banner Image">
+              <img loading="lazy" decoding="async" class="w-100 img-fluid flexpair-img" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Banner Image">
             </div>
           </div>
         </div>
