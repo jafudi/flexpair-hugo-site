@@ -11,9 +11,15 @@ banner:
 brands_carousel:
   enable: true
   brand_images:
+  - "images/brands/alibaba-cloud.png"
   - "images/brands/aws.png"
   - "images/brands/azure.png"
+  - "images/brands/digitalocean.png"
+  - "images/brands/ibm-cloud.png"
   - "images/brands/oracle.png"
+  - "images/brands/ovh-cloud.png"
+  - "images/brands/telekom-cloud.png"
+  - "images/brands/yandex-cloud.png"
 
 
 # features
