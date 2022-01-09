@@ -11,8 +11,9 @@ banner:
 brands_carousel:
   enable: true
   brand_images:
-  - "images/brands/01-colored.png"
-  - "images/brands/azure.svg"
+  - "images/brands/aws.png"
+  - "images/brands/azure.png"$
+  - "images/brands/oracle.png"
 
 
 # features
