@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/andromeda-light/"
-title = "Andromeda-light - Software and SAAS Landing Hugo Theme"
+title = "Flexpair"
 theme = "andromeda-light"
 # post pagination
 paginate = "6"
@@ -22,7 +22,7 @@ min = "0.83.1"
 home = ["HTML", "RSS", "WebAppManifest"]
 
 [imaging]
-quality = 90
+quality = 100
 
 [caches]
 [caches.images]

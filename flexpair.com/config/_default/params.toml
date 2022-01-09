@@ -2,11 +2,11 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo.svg"
+logo = "images/tailorbrands.png"
 # use `x` with logo_width, example: "100x"
 logo_width = "240x"
 # logo text will only show when logo is missing.
-logo_text = "Andromeda"
+logo_text = "Flexpair"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Themefisher"
@@ -65,7 +65,7 @@ button = "I Accept"
 # call-to-action
 [cta]
 enable = true
-title = "Get Andromeda-Premium Now"
+title = "Get Flexpair-Premium Now"
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
 button = "Download The Theme"
 button_link = "https://gethugothemes.com/products/andromeda/"

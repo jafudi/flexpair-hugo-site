@@ -94,11 +94,6 @@ issues](https://github.com/gethugothemes/andromeda-light/issues). Someone may ha
 If your problem or idea has not been addressed yet, feel free to [open a new
 issue](https://github.com/gethugothemes/andromeda-light/issues).
 
-<!-- ## andromeda light Hugo  Powered Websites
-
-
-
-View all the websites powered by andromeda-light Hugo  [here](https://github.com/gethugothemes/andromeda-light/wiki/Popular-sites-powered-by-Andromeda-Light-Hugo). Want to submit your own website powered by andromeda-light Hugo ? You can submit it [here](https://github.com/gethugothemes/andromeda-light/discussions/3). -->
 
 <!-- licence -->
 ## License
@@ -126,8 +121,4 @@ share those images.
 We are available for **Hiring** for your next HUGO project. Please, check our
 [services](https://gethugothemes.com/services/?ref=github)
 
-<!-- premium themes -->
-## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Delta](https://demo.gethugothemes.com/thumbnails/delta.webp)](https://gethugothemes.com/products/delta/) | [![Bizcraft](https://demo.gethugothemes.com/thumbnails/agico.webp)](https://gethugothemes.com/products/agico-hugo-theme/) |
-|:---:|:---:|:---:|
-| **Premium Theme Bundle (40+)** | **Delta** | **Agico** |
+ENDE
