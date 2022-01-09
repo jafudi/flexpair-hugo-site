@@ -38,7 +38,7 @@ reading_time = true
 [contact_info]
 address = "2118 Thornridge Cir. Syracuse, Connecticut 35624"
 phone = ["+704-555-0127", "+205-857-2321", "+002-569-6969"]
-email = ["info@andromeda.io", "smith@anderson.io", "john@anderson.io"]
+email = ["flexpair@icloud.com", "jens@flexpair.com"]
 
 # imaging processing
 [imaging]
@@ -68,26 +68,26 @@ button = "I Accept"
 enable = true
 title = "Get Flexpair-Premium Now"
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
-button = "Download The Theme"
-button_link = "https://gethugothemes.com/products/andromeda/"
+button = "Buy me a coffee"
+button_link = "https://www.buymeacoffee.com/flexpair"
 
 ############################# social site ########################
 [[social]]
-title = "Andromeda"
+title = "Flexpair"
 icon = "lab la-facebook-f" # https://icons8.com/line-awesome
 link = "#!"
 
 [[social]]
-title = "AndromedaTweet"
+title = "FlexpairTweet"
 icon = "lab la-twitter" # https://icons8.com/line-awesome
 link = "#!"
 
 [[social]]
-title = "AndromedaIn"
+title = "FlexpairIn"
 icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
 link = "#!"
 
 [[social]]
-title = "AndromedaPin"
+title = "FlexpairPin"
 icon = "lab la-pinterest" # https://icons8.com/line-awesome
 link = "#!"
