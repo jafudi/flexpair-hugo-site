@@ -1,6 +1,6 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.jpg"
+favicon = "images/favicon.png"
 # logo
 logo = "images/tailorbrands.png"
 # use `x` with logo_width, example: "100x"
@@ -47,7 +47,7 @@ quality = 100
 # Preloader
 [preloader]
 enable = true
-preloader = "images/favicon.jpg" # use jpg, png, svg or gif format.
+preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
