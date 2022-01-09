@@ -1,4 +1,5 @@
 #################### default parameters ################################
+# https://docs.gethugothemes.com/andromeda/basic-configuration/#default-parameters
 # favicon
 favicon = "images/favicon.png"
 # logo
@@ -9,8 +10,8 @@ logo_width = "240x"
 logo_text = "Flexpair"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
-author = "Themefisher"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+author = "Jens F."
+image = "images/tailorbrands.png" # this image will be used as fallback if a page has no image of its own
 
 # footer information
 footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."

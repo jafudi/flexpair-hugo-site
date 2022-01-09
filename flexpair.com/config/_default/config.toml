@@ -1,5 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/andromeda-light/"
+# https://docs.gethugothemes.com/andromeda/basic-configuration/#default-configuration
+baseURL = "https://flexpair.com/"
+languageCode = "en"
 title = "Flexpair"
 theme = "andromeda-light"
 # post pagination
