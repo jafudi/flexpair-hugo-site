@@ -28,7 +28,7 @@
     height: calc(50% + 160px);
     width: calc(100% - 30px);
     border-radius: 30px;
-    background-color: lighten(saturate(adjust-hue($primary-color, 16), 0.87), 70);
+    background-color: lighten(saturate(adjust-hue($primary-color, 16), 0.87), 65);
     z-index: 1;
 
     &::before,
