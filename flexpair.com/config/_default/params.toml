@@ -66,9 +66,9 @@ button = "I Accept"
 # call-to-action
 [cta]
 enable = true
-title = "Get Flexpair-Premium Now"
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
-button = "Buy me a coffee"
+title = "Your support is appreciated"
+content = "Help us to continuously improve Flexpair by making the donation you can afford."
+button = "Buy us a coffee"
 button_link = "https://www.buymeacoffee.com/flexpair"
 
 ############################# social site ########################
