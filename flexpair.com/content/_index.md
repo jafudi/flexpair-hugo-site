@@ -12,7 +12,7 @@ brands_carousel:
   enable: true
   brand_images:
   - "images/brands/aws.png"
-  - "images/brands/azure.png"$
+  - "images/brands/azure.png"
   - "images/brands/oracle.png"
 
 
