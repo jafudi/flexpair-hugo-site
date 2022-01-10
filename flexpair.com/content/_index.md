@@ -35,7 +35,7 @@ features:
   enable: true
   subtitle: "Nobody Ever"
   title: "But it worked on my machine…"
-  description: "If you heard this too often, don't despair. Flexpair with your distributed team in an infrastructure-as-code staging environment. Replicate it at the push of a button for each new feature branch including all software packages that your project depends on.</br> With audio conferencing and mouse sharing built right into this collaborative cloud desktop, task handovers as well as review sessions have never been that interactive and resource effective. Simply scale up and down as needed—across all major cloud providers."
+  description: "If you heard this too often, don't despair. Flexpair with your distributed team in an infrastructure-as-code staging environment.</br> Replicate it at the push of a button for each new feature branch including all software packages that your project depends on.</br> With audio conferencing and mouse sharing built right into this collaborative cloud desktop, task handovers as well as review sessions have never been that interactive and resource effective.</br> Simply scale up and down as needed—across all major cloud providers."
   features_blocks:
   - icon: "las la-lock"
     title: "Updated Security"
