@@ -76,13 +76,6 @@ you will be able to edit and preview your site.
 
 Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
 
-## Deployment and hosting
-
-[![Deploy to
-Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gethugothemes/andromeda-light)
-
-Follow the steps.
-
 ## Prefer a video? (Hugo + Netlify + Forestry)
 Build your website with **Andromeda Light Hugo** theme by following these easy steps (No Coding Required!)
 [Video Tutorial](https://youtu.be/ResipmZmpDU).
@@ -121,4 +114,3 @@ share those images.
 We are available for **Hiring** for your next HUGO project. Please, check our
 [services](https://gethugothemes.com/services/?ref=github)
 
-ENDE

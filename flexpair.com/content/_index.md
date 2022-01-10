@@ -11,17 +11,23 @@ banner:
 brands_carousel:
   enable: true
   brand_images:
-  - "images/brands/01-colored.png"
-  - "images/brands/02-colored.png"
-  - "images/brands/04-colored.png"
-  - "images/brands/03-colored.png"
-  - "images/brands/05-colored.png"
-  - "images/brands/06-colored.png"
-  - "images/brands/04-colored.png"
-  - "images/brands/02-colored.png"
-  - "images/brands/01-colored.png"
-  - "images/brands/06-colored.png"
-  - "images/brands/05-colored.png"
+  - "images/brands/terraform.png"
+  - "images/brands/guacamole.png"
+  - "images/brands/ubuntu.png"
+  - "images/brands/cloud-init.png"
+  - "images/brands/aws.png"
+  - "images/brands/alibaba-cloud.png"
+  - "images/brands/azure.png"
+  - "images/brands/digitalocean.png"
+  - "images/brands/ibm-cloud.png"
+  - "images/brands/oracle.png"
+  - "images/brands/ovh-cloud.png"
+  - "images/brands/yandex-cloud.png"
+  - "images/brands/telekom-cloud.png"
+  - "images/brands/dnsimple.png"
+  - "images/brands/docker.png"
+  - "images/brands/mumble.png"
+  - "images/brands/letsencrypt.png"
 
 
 # features
