@@ -33,9 +33,9 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Special Features"
-  title: "Elements to <br> get you started"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  subtitle: "Nobody Ever"
+  title: "But it worked on my machine…"
+  description: "If you heard this too often, don't despair. Flexpair with your distributed team in an infrastructure-as-code staging environment. Replicate it at the push of a button for each new feature branch including all software packages that your project depends on. With audio conferencing and mouse sharing built right into this collaborative cloud desktop, task handovers as well as review sessions have never been that interactive and resource effective. Simply scale up and down as needed—across all major cloud providers."
   features_blocks:
   - icon: "las la-lock"
     title: "Updated Security"
