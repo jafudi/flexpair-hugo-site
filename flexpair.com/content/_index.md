@@ -28,6 +28,9 @@ brands_carousel:
   - "images/brands/docker.png"
   - "images/brands/mumble.png"
   - "images/brands/letsencrypt.png"
+  - "images/brands/lubuntu.png"
+  - "images/brands/vscode.png"
+  - "images/brands/google-cloud.png"
 
 
 # features
