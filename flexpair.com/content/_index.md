@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "In your own creative rhythm, yet never on your own"
+  title: "Be in your own creative rhythm, yet never on your own"
   button: "Get Premium Version"
   button_link: "https://gethugothemes.com/products/andromeda/"
   image: "images/banner-app.png"
