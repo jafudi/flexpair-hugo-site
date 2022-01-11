@@ -3,7 +3,7 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo.svg"
+logo = "images/SyncopateBoldFlexPAIR.svg"
 # use `x` with logo_width, example: "100x"
 logo_width = "240x"
 # logo text will only show when logo is missing.
@@ -11,7 +11,7 @@ logo_text = "Flexpair"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Jens F."
-image = "images/logo.svg" # this image will be used as fallback if a page has no image of its own
+image = "images/SyncopateBoldFlexPAIR.svg" # this image will be used as fallback if a page has no image of its own
 
 # footer information
 footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
