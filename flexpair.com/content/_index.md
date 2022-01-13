@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "Be in your own creative rhythm, yet never on your own"
+  title: "Transition between sync and async team work, not between different software environments"
   button: "Get Premium Version"
   button_link: "https://gethugothemes.com/products/andromeda/"
   image: "images/banner-app.png"
