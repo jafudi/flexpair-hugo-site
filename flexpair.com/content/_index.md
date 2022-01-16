@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "Alternate between sync and async team work. Not between different software environments."
+  title: "Comfortably alternate between sync and async team work. Not between different software environments."
   button: "Get Premium Version"
   button_link: "https://gethugothemes.com/products/andromeda/"
   image: "images/banner-app.png"
