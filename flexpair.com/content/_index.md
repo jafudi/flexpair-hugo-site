@@ -49,7 +49,7 @@ features:
   - icon: "las la-tachometer-alt"
     title: "Transparent Pricing"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "Resource Efficient"
+  - icon: "las la-lock"
     title: "Live or Asynchronous"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-lock"
@@ -58,6 +58,10 @@ features:
   - icon: "las la-magnet"
     title: "Diversity Friendly"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+  - icon: "las la-magnet"
+    title: "Resource Efficient"
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+
 
 
 # intro_video
