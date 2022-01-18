@@ -50,7 +50,7 @@ features:
     title: "Transparent Pricing"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "Resource Efficient"
-    title: "Instant Link Sharing"
+    title: "Live or Asynchronous"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-lock"
     title: "Respecting Privacy"
