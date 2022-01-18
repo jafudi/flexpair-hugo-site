@@ -53,7 +53,7 @@ features:
     title: "Live or Asynchronous"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-lock"
-    title: "Respecting Privacy"
+    title: "Respect for Privacy"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-magnet"
     title: "Diversity Friendly"
