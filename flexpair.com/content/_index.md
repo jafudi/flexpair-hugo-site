@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "Flexpair makes hybrid cloud collaboration fun"
+  title: "The full spectrum of collaboration modes in one environment"
   button: "Get Premium Version"
   button_link: "https://gethugothemes.com/products/andromeda/"
   image: "images/banner-app.png"
@@ -41,23 +41,27 @@ features:
   description: "If you heard this too often, don't despair. Flexpair with your distributed team in an infrastructure-as-code staging environment.</br> Replicate it at the push of a button for each new feature branch including all software packages that your project depends on.</br> With audio conferencing and mouse sharing built right into this collaborative cloud desktop, task handovers as well as review sessions have never been that interactive and resource effective.</br> Simply scale up and down as needed—across all major cloud providers."
   features_blocks:
   - icon: "las la-lock"
-    title: "Updated Security"
+    title: "Fully Reproducible"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-magnet"
-    title: "Magnetic Turning"
+    title: "Hybrid & Multicloud"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-tachometer-alt"
-    title: "Secured &amp; up-to-date"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-link"
-    title: "Instant Link Sharing"
+    title: "Transparent Pricing"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-lock"
-    title: "Updated Security"
+    title: "Live or Asynchronous"
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+  - icon: "las la-lock"
+    title: "Respect for Privacy"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-magnet"
-    title: "Magnetic Turning"
+    title: "Diversity Friendly"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+  - icon: "las la-magnet"
+    title: "Resource Efficient"
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+
 
 
 # intro_video
