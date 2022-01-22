@@ -48,7 +48,7 @@ quality = 100
 # Preloader
 [preloader]
 enable = true
-preloader = "images/favicons/favicon.svg" # use jpg, png, svg or gif format.
+preloader = "images/favicons/favicon.svg" # use svg
 
 # Navigation button
 [navigation_button]
