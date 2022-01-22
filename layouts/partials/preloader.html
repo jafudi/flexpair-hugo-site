@@ -5,10 +5,7 @@
   {{ if fileExists (add `assets/` $favicon) }}
   {{ $favicon:= resources.Get $favicon }}
   {{ $favicon_180:= $favicon.Resize "180x png"}}
-
-  <img class="img-fluid la-spin" loading="preload" decoding="async" src="{{$favicon_180.RelPermalink}}" aria-label="preloader" title="preloader"
-   alt="preloader">
-  <!-- /check image existence -->
-
+  <img class="img-fluid la-spin" loading="preload" decoding="async" src="{{$favicon_180.RelPermalink}}" aria-label="preloader" title="preloader" alt="preloader">
+  {{ end }}
 </div>
 {{ end }}
