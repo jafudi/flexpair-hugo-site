@@ -8,31 +8,15 @@
   <!-- check image existence -->
   {{ if fileExists (add `assets/` $preloaderPath) }}
   {{ $preloader:= resources.Get $preloaderPath }}
-
-  <!-- image extension -->
-  {{ $preloader_ext := path.Ext $preloader }}
   
-  <!-- image width for non-svg -->
-  {{ if ne $preloader_ext ".svg" }}
-  {{ $preloader_width := $preloader.Width }}
-  <!-- image width for svg -->
-  {{ else }}
   {{ $preloader_width := "180" }}
-  {{ end }}
 
-  <!-- not gif -->
-  {{ if ne $preloader_ext ".gif" }}
   <!-- webp image -->
   {{ $option_webp := add (add (string $preloader_width) "x") " webp" }}
   {{ .Scratch.Set "preloader" ($preloader.Resize $option_webp).RelPermalink }}
   <!-- fallback image -->
   {{ $option := add (string $preloader_width) "x" }}
   {{ .Scratch.Set "preloader_fallback" ($preloader.Resize $option).RelPermalink }}
-
-  <!-- gif image -->
-  {{ else }}
-  {{ .Scratch.Set "preloader" $preloader.RelPermalink }}
-  {{ end }}
 
   <img class="img-fluid la-spin" loading="preload" decoding="async" src="{{.Scratch.Get `preloader`}}" aria-label="preloader" title="preloader"
     onerror="this.onerror=null;this.src='{{.Scratch.Get `preloader_fallback`}}'" alt="preloader">
