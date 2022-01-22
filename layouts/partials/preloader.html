@@ -1,27 +1,13 @@
 {{ if site.Params.preloader.enable }}
 <div class="preloader">
-
-  <!-- get image path -->
-  {{ $preloaderPath:= site.Params.preloader.preloader }}
-  {{ if $preloaderPath }}
-
-  <!-- check image existence -->
-  {{ if fileExists (add `assets/` $preloaderPath) }}
-  {{ $preloader:= resources.Get $preloaderPath }}
   
-  {{ $preloader_width := "180" }}
+  {{ $favicon:= site.Params.favicon }}
+  {{ if fileExists (add `assets/` $favicon) }}
+  {{ $favicon:= resources.Get $favicon }}
+  {{ $favicon_180:= $favicon.Resize "180x png"}}
 
-  <!-- webp image -->
-  {{ $option_png := add (add (string $preloader_width) "x") " png" }}
-  {{ .Scratch.Set "preloader" ($preloader.Resize $option_png).RelPermalink }}
-  <!-- fallback image -->
-  {{ $option := add (string $preloader_width) "x" }}
-  {{ .Scratch.Set "preloader_fallback" ($preloader.Resize $option).RelPermalink }}
-
-  <img class="img-fluid la-spin" loading="preload" decoding="async" src="{{.Scratch.Get `preloader`}}" aria-label="preloader" title="preloader"
-    onerror="this.onerror=null;this.src='{{.Scratch.Get `preloader_fallback`}}'" alt="preloader">
-  {{ end }}
-  {{ end }}
+  <img class="img-fluid la-spin" loading="preload" decoding="async" src="{{$favicon_180.RelPermalink}}" aria-label="preloader" title="preloader"
+   alt="preloader">
   <!-- /check image existence -->
 
 </div>
