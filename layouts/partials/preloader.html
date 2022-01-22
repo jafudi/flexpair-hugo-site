@@ -1,11 +1,5 @@
 {{ if site.Params.preloader.enable }}
 <div class="preloader">
-  
-  {{ $preloader_path:= site.Params.preloader }}
-  {{ if fileExists (add `assets/` $preloader_path) }}
-  {{ $preloader:= resources.Get $preloader_path }}
-  {{ $preloader_resized:= $preloader.Resize "100x webp"}}
-  <img class="img-fluid la-spin" loading="preload" decoding="async" src="{{$preloader_resized.RelPermalink}}" aria-label="preloader" title="preloader" alt="preloader">
-  {{ end }}
+  <div></div><div></div>
 </div>
 {{ end }}
