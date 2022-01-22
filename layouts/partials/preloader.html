@@ -11,11 +11,17 @@
 
   <!-- image extension -->
   {{ $preloader_ext := path.Ext $preloader }}
-  <!-- image width -->
-  {{ $preloader_width := $preloader.Width }}
-
-  <!-- not svg -->
+  
+  <!-- image width for non-svg -->
   {{ if ne $preloader_ext ".svg" }}
+  {{ $preloader_width := $preloader.Width }}
+  <!-- image width for svg -->
+  {{ else }}
+  {{ $preloader_width := 180 }}
+  {{ end }}
+
+  <!-- not gif -->
+  {{ if ne $preloader_ext ".gif" }}
   <!-- webp image -->
   {{ $option_webp := add (add (string $preloader_width) "x") " webp" }}
   {{ .Scratch.Set "preloader" ($preloader.Resize $option_webp).RelPermalink }}
@@ -23,9 +29,9 @@
   {{ $option := add (string $preloader_width) "x" }}
   {{ .Scratch.Set "preloader_fallback" ($preloader.Resize $option).RelPermalink }}
 
-  <!-- svg image -->
+  <!-- gif image -->
   {{ else }}
-  {{ .Scratch.Set "preloader" $favicon_180.RelPermalink }}
+  {{ .Scratch.Set "preloader" $preloader.RelPermalink }}
   {{ end }}
 
   <img class="img-fluid la-spin" loading="preload" decoding="async" src="{{.Scratch.Get `preloader`}}" aria-label="preloader" title="preloader"
