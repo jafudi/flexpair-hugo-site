@@ -1,11 +1,11 @@
 {{ if site.Params.preloader.enable }}
 <div class="preloader">
   
-  {{ $favicon:= site.Params.favicon }}
-  {{ if fileExists (add `assets/` $favicon) }}
-  {{ $favicon:= resources.Get $favicon }}
-  {{ $preloader:= $favicon.Resize "100x webp"}}
-  <img class="img-fluid la-spin" loading="preload" decoding="async" src="{{$preloader.RelPermalink}}" aria-label="preloader" title="preloader" alt="preloader">
+  {{ $preloader_path:= site.Params.preloader }}
+  {{ if fileExists (add `assets/` $preloader_path) }}
+  {{ $preloader:= resources.Get $preloader_path }}
+  {{ $preloader_resized:= $favicon.Resize "100x webp"}}
+  <img class="img-fluid la-spin" loading="preload" decoding="async" src="{{$preloader_resized.RelPermalink}}" aria-label="preloader" title="preloader" alt="preloader">
   {{ end }}
 </div>
 {{ end }}

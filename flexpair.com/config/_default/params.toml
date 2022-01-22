@@ -1,7 +1,7 @@
 #################### default parameters ################################
 # https://docs.gethugothemes.com/andromeda/basic-configuration/#default-parameters
 # favicon
-favicon = "images/favicons/ms-icon-310x310.png"
+favicon = "images/favicons/favicon.png"
 # logo
 logo = "images/SyncopateBoldFlexPAIR.svg"
 # use `x` with logo_width, example: "100x"
@@ -48,7 +48,7 @@ quality = 100
 # Preloader
 [preloader]
 enable = true
-preloader = "images/favicons/favicon.svg" # use svg
+preloader = "images/favicons/loader.svg" # use svg
 
 # Navigation button
 [navigation_button]
