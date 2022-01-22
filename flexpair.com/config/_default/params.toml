@@ -26,7 +26,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 custom_script= "" 
 
 # buy premium popup
-buy_premium_popup = true
+buy_premium_popup = false
 
 # Main Sections
 mainSections= ["blog"]
