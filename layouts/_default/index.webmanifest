@@ -8,7 +8,7 @@
   "icons": [
     {{ $favicon48:= site.Params.favicon48 }}
     {{ if fileExists (add `assets/` $favicon48) }}
-    {{ $favicon_48:= resources.Get $favicon48 }}
+    {{ $icon_48:= resources.Get $favicon48 }}
     {
       "src": "{{$icon_48.RelPermalink}}",
       "sizes": "48x48",
@@ -17,7 +17,7 @@
     {{ end }}
     {{ $favicon72:= site.Params.favicon72 }}
     {{ if fileExists (add `assets/` $favicon72) }}
-    {{ $favicon_72:= resources.Get $favicon72 }}
+    {{ $icon_72:= resources.Get $favicon72 }}
     {
       "src": "{{$icon_72.RelPermalink}}",
       "sizes": "72x72",
@@ -26,7 +26,7 @@
     {{ end }}
     {{ $favicon96:= site.Params.favicon96 }}
     {{ if fileExists (add `assets/` $favicon96) }}
-    {{ $favicon_96:= resources.Get $favicon96 }}
+    {{ $icon_96:= resources.Get $favicon96 }}
     {
       "src": "{{$icon_96.RelPermalink}}",
       "sizes": "96x96",
@@ -35,7 +35,7 @@
     {{ end }}
     {{ $favicon144:= site.Params.favicon144 }}
     {{ if fileExists (add `assets/` $favicon144) }}
-    {{ $favicon_144:= resources.Get $favicon144 }}
+    {{ $icon_144:= resources.Get $favicon144 }}
     {
       "src": "{{$icon_144.RelPermalink}}",
       "sizes": "144x144",
@@ -44,7 +44,7 @@
     {{ end }}
     {{ $favicon192:= site.Params.favicon192 }}
     {{ if fileExists (add `assets/` $favicon192) }}
-    {{ $favicon_192:= resources.Get $favicon192 }}
+    {{ $icon_192:= resources.Get $favicon192 }}
     {
       "src": "{{$icon_192.RelPermalink}}",
       "sizes": "192x192",
@@ -53,7 +53,7 @@
     {{ end }}
     {{ $favicon512:= site.Params.favicon512 }}
     {{ if fileExists (add `assets/` $favicon512) }}
-    {{ $favicon_512:= resources.Get $favicon512 }}
+    {{ $icon_512:= resources.Get $favicon512 }}
     {
       "src": "{{$icon_512.RelPermalink}}",
       "sizes": "512x512",
