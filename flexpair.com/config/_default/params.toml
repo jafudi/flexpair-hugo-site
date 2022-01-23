@@ -1,7 +1,17 @@
 #################### default parameters ################################
 # https://docs.gethugothemes.com/andromeda/basic-configuration/#default-parameters
+
 # favicon
-favicon = "images/favicon.png"
+favicon512 = "images/favicons/favicon512px.png"
+favicon192 = "images/favicons/favicon192px.png"
+favicon180 = "images/favicons/favicon180px.png"
+favicon144 = "images/favicons/favicon144px.png"
+favicon96 = "images/favicons/favicon96px.png"
+favicon72 = "images/favicons/favicon72px.png"
+favicon48 = "images/favicons/favicon48px.png"
+favicon32 = "images/favicons/favicon32px.png"
+favicon16 = "images/favicons/favicon16px.png"
+
 # logo
 logo = "images/SyncopateBoldFlexPAIR.svg"
 # use `x` with logo_width, example: "100x"
@@ -26,7 +36,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 custom_script= "" 
 
 # buy premium popup
-buy_premium_popup = true
+buy_premium_popup = false
 
 # Main Sections
 mainSections= ["blog"]
@@ -48,7 +58,7 @@ quality = 100
 # Preloader
 [preloader]
 enable = true
-preloader = "images/favicon.png" # use jpg, png, svg or gif format.
+preloader = "images/favicons/loader.svg" # use svg
 
 # Navigation button
 [navigation_button]
