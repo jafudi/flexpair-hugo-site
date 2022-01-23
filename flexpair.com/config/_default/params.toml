@@ -1,7 +1,11 @@
 #################### default parameters ################################
 # https://docs.gethugothemes.com/andromeda/basic-configuration/#default-parameters
+
 # favicon
-favicon = "images/favicons/favicon.png"
+favicon180 = "images/favicons/favicon180px.png"
+favicon32 = "images/favicons/favicon32px.png"
+favicon16 = "images/favicons/favicon16px.png"
+
 # logo
 logo = "images/SyncopateBoldFlexPAIR.svg"
 # use `x` with logo_width, example: "100x"

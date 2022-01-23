@@ -21,12 +21,18 @@
 {{ hugo.Generator }}
 
 <!-- favicon -->
-{{ $favicon:= site.Params.favicon }}
-{{ if fileExists (add `assets/` $favicon) }}
-{{ $favicon:= resources.Get $favicon }}
-{{ $favicon_16:= $favicon.Resize "16x png"}}
-{{ $favicon_32:= $favicon.Resize "32x png"}}
-{{ $favicon_180:= $favicon.Resize "180x png"}}
+{{ $favicon180:= site.Params.favicon180 }}
+{{ if fileExists (add `assets/` $favicon180) }}
+{{ $favicon_180:= resources.Get $favicon180 }}
+
+{{ $favicon32:= site.Params.favicon32 }}
+{{ if fileExists (add `assets/` $favicon32) }}
+{{ $favicon_32:= resources.Get $favicon32 }}
+
+{{ $favicon16:= site.Params.favicon16 }}
+{{ if fileExists (add `assets/` $favicon16) }}
+{{ $favicon_16:= resources.Get $favicon16 }}
+
 <link rel="shortcut icon" href="{{$favicon_32.RelPermalink}}" type="image/x-icon">
 <link rel="icon" href="{{$favicon_32.RelPermalink}}" type="image/x-icon">
 <link rel="icon" type="image/png" sizes="16x16" href="{{$favicon_16.RelPermalink}}">
