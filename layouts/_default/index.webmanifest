@@ -61,7 +61,6 @@
     },
     {{ end }}
   ],
-  {{ end }}
   "display": "standalone",
   "start_url": "{{ site.BaseURL | relLangURL }}?utm_source=web_app_manifest"
 }
