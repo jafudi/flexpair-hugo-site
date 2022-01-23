@@ -2,7 +2,13 @@
 # https://docs.gethugothemes.com/andromeda/basic-configuration/#default-parameters
 
 # favicon
+favicon512 = "images/favicons/favicon512px.png"
+favicon192 = "images/favicons/favicon192px.png"
 favicon180 = "images/favicons/favicon180px.png"
+favicon144 = "images/favicons/favicon144px.png"
+favicon96 = "images/favicons/favicon96px.png"
+favicon72 = "images/favicons/favicon72px.png"
+favicon48 = "images/favicons/favicon48px.png"
 favicon32 = "images/favicons/favicon32px.png"
 favicon16 = "images/favicons/favicon16px.png"
 
