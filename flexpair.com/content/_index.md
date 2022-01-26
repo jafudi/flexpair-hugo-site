@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "The full spectrum🌈 of collaboration modes in one environment"
+  title: "The full spectrum 🌈 of collaboration modes in one environment"
   button: "Get Premium Version"
   button_link: "https://gethugothemes.com/products/andromeda/"
   image: "images/banner-app.png"
