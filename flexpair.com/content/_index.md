@@ -63,7 +63,6 @@ features:
     content: "Simply scale up and down as needed—across all major cloud providers."
 
 
-
 # intro_video
 intro_video:   
   enable: true
