@@ -36,9 +36,9 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Literally Nobody, Ever 🤦"
-  title: "But it worked on my machine…"
-  description: "If you heard this too often, don't despair. Just flexpair! </br> </br> "
+  subtitle: "Literally nobody, ever 🤦"
+  title: "But it worked on my machine 🥺"
+  description: "If you heard this too often, don't despair 🤗 Just flexpair! </br> </br> "
   features_blocks:
   - icon: "las la-lock"
     title: "Fully Reproducible"
