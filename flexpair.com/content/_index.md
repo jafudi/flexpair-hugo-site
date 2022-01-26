@@ -38,7 +38,7 @@ features:
   enable: true
   subtitle: "Literally no one ever:"
   title: "Production: Great that it worked on your machine 👏"
-  description: "We: Don't despair 🤗 Just get your team access to Flexpair! So they don't have to blindly trust but get visual confirmation in a live shared staging environment.</br> </br> "
+  description: "We: Don't despair 🤗 Just get your team access to Flexpair! So they don't have to blindly trust but can get visual confirmation in a live shared staging environment.</br> </br> "
   features_blocks:
   - icon: "las la-lock"
     title: "Fully Reproducible"
