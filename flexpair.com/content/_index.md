@@ -36,13 +36,13 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Nobody Ever"
+  subtitle: "Literally Nobody, Ever 🤦"
   title: "But it worked on my machine…"
-  description: "If you heard this too often, don't despair. Flexpair with your distributed team in an infrastructure-as-code staging environment.</br> Replicate it at the push of a button for each new feature branch including all software packages that your project depends on.</br> With audio conferencing and mouse sharing built right into this collaborative cloud desktop, task handovers as well as review sessions have never been that interactive and resource effective.</br> Simply scale up and down as needed—across all major cloud providers."
+  description: "If you heard this too often, don't despair. Just flexpair! </br> </br> "
   features_blocks:
   - icon: "las la-lock"
     title: "Fully Reproducible"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: "Flexpair is an infrastructure-as-code staging environment that you can replicate it at the push of a button for each new feature branch, including all software packages that your project depends on."
   - icon: "las la-magnet"
     title: "Hybrid & Multicloud"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
@@ -51,7 +51,7 @@ features:
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-lock"
     title: "Live or Asynchronous"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: "With audio conferencing and mouse sharing built right into this collaborative cloud desktop, task handovers as well as review sessions have never been that interactive."
   - icon: "las la-lock"
     title: "Respect for Privacy"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
@@ -60,7 +60,7 @@ features:
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-magnet"
     title: "Resource Efficient"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: "Simply scale up and down as needed—across all major cloud providers."
 
 
 
