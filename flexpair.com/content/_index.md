@@ -36,7 +36,7 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Literally no one ever:\nAverage data scientist after breaking production:"
+  subtitle: "Literally no one ever:<br>Average data scientist after breaking production:"
   title: "But it worked on my computer 🥺"
   description: "We: Don't despair 🤗 Just get your team access to Flexpair! So they don't have to blindly trust but can get visual confirmation in a live shared staging environment.</br> </br> "
   features_blocks:
