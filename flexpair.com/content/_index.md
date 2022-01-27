@@ -43,7 +43,7 @@ features:
   - icon: "las la-code-branch"
     title: "Fully Reproducible"
     content: "Flexpair is a Git controlled staging environment that you can replicate at the push of a button for each new feature branch, including all software packages that your project depends on (infrastructure-as-code)."
-  - icon: "las la-cloud"
+  - icon: "las la-share-alt"
     title: "Hybrid & Multicloud"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-handshake"
