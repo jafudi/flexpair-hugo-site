@@ -37,7 +37,7 @@ brands_carousel:
 features:
   enable: true
   subtitle: "Literally no one ever:"
-  title: "Production: Great that it worked on your machine 👏"
+  title: "Average data scientist after breaking production: But it worked on my computer 🥺"
   description: "We: Don't despair 🤗 Just get your team access to Flexpair! So they don't have to blindly trust but can get visual confirmation in a live shared staging environment.</br> </br> "
   features_blocks:
   - icon: "las la-code-branch"
