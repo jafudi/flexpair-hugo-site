@@ -36,9 +36,9 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Literally no one ever:<br>Average data scientist after breaking production:"
-  title: "But it worked on my computer 🥺"
-  description: "We: Don't despair 🤗 Just get your team access to Flexpair! So they don't have to blindly trust but can get visual confirmation in a live shared staging environment.</br> </br> "
+  subtitle: "Flexpair is a cloud platform"
+  title: "for hybrid data science, DevOps and creative teams around the globe"
+  description: "that seamlessly integrates synchronous, asynchronous, co-located and remote work.</br> </br> "
   features_blocks:
   - icon: "las la-code-branch"
     title: "Fully Reproducible"
@@ -66,9 +66,9 @@ features:
 # intro_video
 intro_video:   
   enable: true
-  subtitle: "Short Intro Video"
-  title: "Built exclusively for you"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  subtitle: "Literally no one ever:<br>Average data scientist after breaking production:"
+  title: "But it worked on my computer 🥺"
+  description: "We: Don't despair 🤗 Just get your team access to Flexpair! So they don't have to blindly trust but can get visual confirmation in a live shared staging environment.</br> </br> "
   video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
   video_thumbnail: "images/video-popup.jpg"
 
