@@ -36,8 +36,8 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Flexpair is a cloud platform"
-  title: "for hybrid data science, DevOps and creative teams around the globe"
+  subtitle: "Flexpair is a hybrid cloud platform"
+  title: "for data science, DevOps and creative teams around the globe"
   description: "that seamlessly integrates synchronous, asynchronous, co-located and remote work.</br> </br> "
   features_blocks:
   - icon: "las la-code-branch"
