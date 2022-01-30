@@ -77,20 +77,25 @@ intro_video:
 how_it_works:   
   enable: true
   block:
-  - subtitle: "First Use Case"
-    title: "Task handovers with and without desktop cloning"
-    description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the."
+  - subtitle: "Collaboration Use case 1"
+    title: "Realtime Co-editing aka Pair Programming"
+    description: "Handovers occur down to the scale of seconds."
     image: "images/features-01.png"
 
-  - subtitle: "Second Use Case"
-    title: "Testing and reviewing the results together"
-    description: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
+  - subtitle: "Collaboration Use Case 2"
+    title: "Branching and merging feature development"
+    description: "From handing over the task together with the reference environment to the review of the eventual merge request."
+    image: "images/features-02.png"
+
+  - subtitle: "Collaboration Use Case 3"
+    title: "Role sharing with regular shift handovers"
+    description: "Handovers occur daily, intra-day or when people go on vacation."
     image: "images/features-02.png"
 
 
 # testimonials
 testimonials:   
-  enable: true
+  enable: false
   subtitle: "Our Testimonials"
   title: "Don't take our word for it"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
