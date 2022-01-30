@@ -70,7 +70,7 @@ intro_video:
   title: "But it worked on my computer 🥺"
   description: "We: Don't despair 🤗 Just get your team access to Flexpair! So they don't have to blindly trust but can get visual confirmation in a live shared staging environment.</br> </br> "
   video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
-  video_thumbnail: "images/video-popup.jpg"
+  video_thumbnail: "images/sebastian-herrmann-jzTQVxCyKYs-unsplash.jpg"
 
 
 # how_it_works
