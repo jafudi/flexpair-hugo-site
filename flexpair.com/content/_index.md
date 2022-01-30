@@ -80,17 +80,17 @@ how_it_works:
   - subtitle: "Collaboration Use case 1"
     title: "Realtime Co-editing aka Pair Programming"
     description: "Handovers occur down to the scale of seconds."
-    image: "images/features-01.png"
+    image: "images/new-data-services-UO-QYR28hS0-unsplash.jpg"
 
   - subtitle: "Collaboration Use Case 2"
     title: "Branching and merging feature development"
     description: "From handing over the task together with the reference environment to the review of the eventual merge request."
-    image: "images/features-02.png"
+    image: "images/yancy-min-842ofHC6MaI-unsplash.jpg"
 
   - subtitle: "Collaboration Use Case 3"
     title: "Role sharing with regular shift handovers"
     description: "Handovers occur daily, intra-day or when people go on vacation."
-    image: "images/features-02.png"
+    image: "images/nasa-Q1p7bh3SHj8-unsplash.jpg"
 
 
 # testimonials
