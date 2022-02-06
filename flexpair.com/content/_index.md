@@ -38,7 +38,7 @@ features:
   enable: true
   subtitle: "Flexpair is a cloud platform"
   title: "for data science, DevOps and creative teams around the globe"
-  description: "that combines agile and hybrid with consistency and privacy. Realtime and asynchronous co-working become seamlessly integrated, even across time zones. No unnecessary context switches depleting your concentration anymore.</br> </br> "
+  description: "that combines the benefits of agile and hybrid with consistency and privacy. Realtime and asynchronous co-working become seamlessly integrated, even across time zones. No unnecessary context switches depleting your concentration anymore.</br> </br> "
   features_blocks:
   - icon: "las la-code-branch"
     title: "Fully Reproducible"
