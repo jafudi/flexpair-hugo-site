@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "The full spectrum of collaboration modes in one environment"
+  title: "The full spectrum 🌈 of collaboration modes in <u>one</u> environment"
   button: "Get Premium Version"
   button_link: "https://gethugothemes.com/products/andromeda/"
   image: "images/banner-app.png"
@@ -36,62 +36,66 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Nobody Ever"
-  title: "But it worked on my machine…"
-  description: "If you heard this too often, don't despair. Flexpair with your distributed team in an infrastructure-as-code staging environment.</br> Replicate it at the push of a button for each new feature branch including all software packages that your project depends on.</br> With audio conferencing and mouse sharing built right into this collaborative cloud desktop, task handovers as well as review sessions have never been that interactive and resource effective.</br> Simply scale up and down as needed—across all major cloud providers."
+  subtitle: "Flexpair is a multicloud private hub"
+  title: "for data science, DevOps and creative teams around the globe"
+  description: "that combines the benefits of agile and hybrid work with a solid foundation of consistency and data privacy. Realtime and asynchronous co-working become seamlessly integrated, even across time zones. No unnecessary context switches will deplete your concentration anymore.</br> </br> "
   features_blocks:
-  - icon: "las la-lock"
+  - icon: "las la-code-branch"
     title: "Fully Reproducible"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-magnet"
+    content: "Flexpair is a Git controlled staging environment that you can replicate at the push of a button for each new feature branch, including all software packages that your project depends on (infrastructure-as-code)."
+  - icon: "las la-share-alt"
     title: "Hybrid & Multicloud"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-tachometer-alt"
+  - icon: "las la-handshake"
     title: "Transparent Pricing"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-lock"
+  - icon: "las la-random"
     title: "Live or Asynchronous"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-lock"
+    content: "With audio conferencing and mouse sharing built right into this collaborative cloud desktop, task handovers as well as review sessions have never been that interactive."
+  - icon: "las la-key"
     title: "Respect for Privacy"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-magnet"
+  - icon: "las la-ribbon"
     title: "Diversity Friendly"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-magnet"
+  - icon: "las la-leaf"
     title: "Resource Efficient"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-
+    content: "Simply scale up and down as needed—across all major cloud providers."
 
 
 # intro_video
 intro_video:   
   enable: true
-  subtitle: "Short Intro Video"
-  title: "Built exclusively for you"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
-  video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
-  video_thumbnail: "images/video-popup.jpg"
+  subtitle: "Literally no one ever:<br>Average data scientist after breaking production:"
+  title: "But it worked on my computer 🥺"
+  description: "We: Don't despair 🤗 Just get your team access to Flexpair! So they don't have to blindly trust but can get visual confirmation in a live shared staging environment.</br> </br> "
+  video_url: "https://player.vimeo.com/video/491184464?title=0&amp;portrait=0&amp;byline=0&amp;autoplay=1"
+  video_thumbnail: "images/sebastian-herrmann-jzTQVxCyKYs-unsplash.jpg"
 
 
 # how_it_works
 how_it_works:   
   enable: true
   block:
-  - subtitle: "Primary Speciality"
-    title: "You Will Not miss Your All misunderstandings"
-    description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the."
-    image: "images/features-01.png"
+  - subtitle: "Collaboration Use case 1"
+    title: "Realtime Co-editing aka Pair Programming"
+    description: "Handovers occur down to the scale of seconds."
+    image: "images/new-data-services-UO-QYR28hS0-unsplash.jpg"
 
-  - subtitle: "Secondary Speciality"
-    title: "Say hello to no-code The Advance Creation"
-    description: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
-    image: "images/features-02.png"
+  - subtitle: "Collaboration Use Case 2"
+    title: "Branching and merging feature development"
+    description: "From handing over the task together with the reference environment to the review of the eventual merge request."
+    image: "images/yancy-min-842ofHC6MaI-unsplash.jpg"
+
+  - subtitle: "Collaboration Use Case 3"
+    title: "Role sharing with regular shift handovers"
+    description: "Handovers occur daily, intra-day or when people go on vacation."
+    image: "images/nasa-Q1p7bh3SHj8-unsplash.jpg"
 
 
 # testimonials
 testimonials:   
-  enable: true
+  enable: false
   subtitle: "Our Testimonials"
   title: "Don't take our word for it"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
