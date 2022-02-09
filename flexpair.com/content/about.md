@@ -82,11 +82,11 @@ our_office:
   title: "Made with Love Of around the world With Many Offices"
   description: "We were freelance designers and developers, constantly finding <br> ourselves deep in vague feedback. This made every client and team"
   office_locations:
-  - city: "Heidelberg, Germany"
+  - city: "Heidelberg"
     country_flag: "images/about/flags/germany.png"
     address_line_one: "Bergheimerstr. 7"
     address_line_two: "69115 Heidelberg"
-  - city: "Berlin, Germany"
+  - city: "Berlin"
     country_flag: "images/about/flags/germany.png"
     address_line_one: "Postbox 448044"
     address_line_two: "11516 Berlin"
