@@ -78,25 +78,19 @@ our_team:
 # our office
 our_office:
   enable: true
-  subtitle: "Our Offices"
+  subtitle: "Our Locations"
   title: "Made with Love Of around the world With Many Offices"
   description: "We were freelance designers and developers, constantly finding <br> ourselves deep in vague feedback. This made every client and team"
   office_locations:
-  - city: "NewYork, USA"
-    country_flag: "images/about/flags/us.png"
-    address_line_one: "219 Bald Hill Drive"
-    address_line_two: "Oakland Gardens, NY 11364"
-  - city: "Australia, Perth"
-    country_flag: "images/about/flags/au.png"
-    address_line_one: "Flat 23 80 Anthony Circlet"
-    address_line_two: "Port Guiseppe, TAS 2691"
+  - city: "Heidelberg, Germany"
+    country_flag: "images/about/flags/germany.png"
+    address_line_one: "Bergheimerstr. 7"
+    address_line_two: "69115 Heidelberg"
   - city: "Berlin, Germany"
     country_flag: "images/about/flags/germany.png"
-    address_line_one: "Jl Raya Dewi Sartika Ged"
-    address_line_two: "Harapan Masa, Br Germeny"
-  - city: "China, Wohan"
-    country_flag: "images/about/flags/china.png"
-    address_line_one: "1hao Wen Ti Huo Dong"
-    address_line_two: "Zhong Xin 1ceng Jian Xing"
+    address_line_one: "Postbox 448044"
+    address_line_two: "11516 Berlin"
+
+
 
 ---
