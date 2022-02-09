@@ -1,10 +1,10 @@
 ---
-date: "2021-07-14"
+date: "2022-01-16"
 title: "How does Flexpair compare to competitors?"
 image: "images/blog/01.jpg"
 author_info: 
   name: "Jens F."
-  image: "images/author/abdullah.jpg"
+  image: "images/author/jens.jpg"
 draft: false
 ---
 
