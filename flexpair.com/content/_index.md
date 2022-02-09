@@ -2,7 +2,7 @@
 # banner
 banner:
   title: "The full spectrum 🌈 of collaboration modes in <u>one</u> environment"
-  button: "Get FREE Live Demo Now"
+  button: "Get FREE Live Demo Now ▶️"
   button_link: "https://demo.flexpair.com/"
   image: "images/banner-app.png"
 
