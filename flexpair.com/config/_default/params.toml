@@ -63,7 +63,7 @@ preloader = "images/favicons/loader.svg" # use svg
 # Navigation button
 [navigation_button]
 enable = true
-label = "Buy Premium"
+label = "Buy Premium 🚀"
 link = "https://gethugothemes.com/products/andromeda/"
 
 # cookies
