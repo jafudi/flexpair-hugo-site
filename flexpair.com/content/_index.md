@@ -2,8 +2,8 @@
 # banner
 banner:
   title: "The full spectrum 🌈 of collaboration modes in <u>one</u> environment"
-  button: "Get Premium Version"
-  button_link: "https://gethugothemes.com/products/andromeda/"
+  button: "Get Free Live Demo Now 🚀"
+  button_link: "https://demo.flexpair.com/"
   image: "images/banner-app.png"
 
 
