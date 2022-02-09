@@ -4,7 +4,7 @@ title: "Being multicloud, Flexpair helps against cloud vendor lock-in"
 image: "images/blog/02.jpg"
 author_info: 
   name: "Jens F."
-  image: "images/author/jens.jpg"
+  image: "images/author/jens.png"
 draft: false
 ---
 

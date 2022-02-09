@@ -4,7 +4,7 @@ title: "How does Flexpair compare to competitors?"
 image: "images/blog/01.jpg"
 author_info: 
   name: "Jens F."
-  image: "images/author/jens.jpg"
+  image: "images/author/jens.png"
 draft: false
 ---
 
