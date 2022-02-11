@@ -92,7 +92,7 @@
 
           {{with site.Params.contact_info}}
           <ul class="footer-links list-unstyled">
-            <li>{{.address | markdownify}}</li>
+            <li><img src="{{`images/about/address.png` | absURL}}" alt="*"></li>
             {{range first 1 .phone}}
             {{if .}}
             <li><a href="tel:{{.}}">{{.}}</a></li>
