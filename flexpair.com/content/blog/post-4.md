@@ -1,6 +1,6 @@
 ---
 date: "2022-02-11"
-title: "How does our roadmap look like? Which clouds do we plan to expand to?"
+title: "How does our road map look like? Which clouds do we plan to expand to?"
 image: "images/blog/02.jpg"
 author_info: 
   name: "Jens F."
