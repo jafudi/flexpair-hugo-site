@@ -97,7 +97,7 @@
               <img loading="lazy" decoding="async" class="img-fluid" src="{{$address_img.RelPermalink}}">
               {{ else }}
               {{.address | markdownify}}
-              {{ end
+              {{ end }}
             </a></li>
             {{range first 1 .phone}}
             {{if .}}
