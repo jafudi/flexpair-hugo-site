@@ -2,10 +2,11 @@
 # banner
 banner:
   title: "The full spectrum 🌈 of collaboration modes in <u>one</u> environment"
-  button: "Get Premium Version"
-  button_link: "https://gethugothemes.com/products/andromeda/"
+  button: "Get FREE Live Demo Now ▶️"
+  button_link: "https://demo.flexpair.com/"
   image: "images/banner-app.png"
 
+# Falls ihr schon einen ersten Prototypen, Klick-Dummy oder sonstiges Vorzeigbares habt – her damit! Es ist immer sinnvoll Bilder oder Videos eures Produktes zu zeigen, um eure Lösung und euren Nutzen zu verdeutlichen und mögliche Zweifel zu eliminieren. Hebt die Produkteigenschaften hervor, hinterlasst bleibenden Eindruck und – noch wichtiger – Verständnis für eure Idee.
 
 # brands
 brands_carousel:
@@ -34,6 +35,7 @@ brands_carousel:
 
 
 # features
+# Was macht euch und euer Geschäft einzigartig? Bis hierhin sollte es einfach zu verstehen sein, was eure Stärken sind und welche Vorteile ihr bieten könnt. Welche Technologien oder Innovationen setzt ihr ein, die euer Startup einzigartig machen? 
 features:
   enable: true
   subtitle: "Flexpair is a multicloud private hub"

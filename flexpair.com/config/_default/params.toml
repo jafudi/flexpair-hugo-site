@@ -46,9 +46,11 @@ reading_time = true
 
 # contact information
 [contact_info]
-address = "2118 Thornridge Cir. Syracuse, Connecticut 35624"
-phone = ["+704-555-0127", "+205-857-2321", "+002-569-6969"]
+address = "Bergheimerstr. 7, Heidelberg, Germany"
+phone = ["+49-6221-7189618"]
 email = ["flexpair@icloud.com", "jens@flexpair.com"]
+address_img = "images/address.png"
+maps_link = "https://goo.gl/maps/ikqiZGc6SZQzxaeL7"
 
 # imaging processing
 [imaging]
@@ -63,7 +65,7 @@ preloader = "images/favicons/loader.svg" # use svg
 # Navigation button
 [navigation_button]
 enable = true
-label = "Buy Premium"
+label = "Buy Premium 🚀"
 link = "https://gethugothemes.com/products/andromeda/"
 
 # cookies
@@ -82,22 +84,18 @@ button = "Buy us a coffee or ☕☕"
 button_link = "https://www.buymeacoffee.com/flexpair"
 
 ############################# social site ########################
-[[social]]
-title = "Flexpair"
-icon = "lab la-facebook-f" # https://icons8.com/line-awesome
-link = "#!"
 
 [[social]]
-title = "FlexpairTweet"
-icon = "lab la-twitter" # https://icons8.com/line-awesome
-link = "#!"
-
-[[social]]
-title = "FlexpairIn"
+title = "LinkedIn"
 icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
-link = "#!"
+link = "https://de.linkedin.com/in/fielenbach"
 
 [[social]]
-title = "FlexpairPin"
-icon = "lab la-pinterest" # https://icons8.com/line-awesome
-link = "#!"
+title = "XING"
+icon = "lab la-xing" # https://icons8.com/line-awesome
+link = "https://www.xing.com/profile/Jens_FielenbachDiplMath/cv"
+
+[[social]]
+title = "Facebook"
+icon = "lab la-facebook-f" # https://icons8.com/line-awesome
+link = "https://m.facebook.com/profile.php?id=100002090784709"
