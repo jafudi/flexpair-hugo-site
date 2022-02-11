@@ -46,9 +46,11 @@ reading_time = true
 
 # contact information
 [contact_info]
-address = "Heidelberg, Germany"
+address = "Bergheimerstr. 7, Heidelberg, Germany"
 phone = ["+49-6221-7189618"]
 email = ["flexpair@icloud.com", "jens@flexpair.com"]
+address_img = "images/address.png"
+maps_link = "https://goo.gl/maps/ikqiZGc6SZQzxaeL7"
 
 # imaging processing
 [imaging]
