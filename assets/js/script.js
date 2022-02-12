@@ -19,10 +19,6 @@ $(window).on('load', function () {
 	setTimeout (function(){
 		$('.preloader').fadeOut(200);
 
-		setTimeout(() => {
-			$('.buy-premium').addClass('show');
-		}, 8000);
-
 		// aos scroll-animation Init
 		function aosAnim() {
 			AOS.init({
@@ -34,11 +30,6 @@ $(window).on('load', function () {
 			aosAnim();
 		},100);
 	},50);
-});
-
-// buy-premium
-$('.buy-premium .close').on('click', function () {
-	$('.buy-premium').removeClass('show');
 });
 
 // header sticky
@@ -66,7 +57,7 @@ $(document).ready(function () {
 	function videoInit() {
 		$('.video-play-btn').on('click', function () {
 			var thumbWidth = $(this).siblings('.video-thumb').width();
-			var video = '<div class="embed-responsive embed-responsive-16by9 mx-auto bg-dark" style="max-width:'+ thumbWidth +'px"><iframe class="embed-responsive-item" src="' + $(this).data('src') + '?autoplay=1&amp;modestbranding=1&amp;showinfo=0' + '" allowscriptaccess="always" allow="autoplay"></iframe></div>';
+			var video = '<div class="embed-responsive embed-responsive-16by9 mx-auto bg-dark" style="max-width:'+ thumbWidth +'px"><iframe class="embed-responsive-item" src="' + $(this).data('src') + '?autoplay=1&amp;modestbranding=1&amp;showinfo=0' + '" allowscriptaccess="always" allow="autoplay" allowfullscreen></iframe></div>';
 			$(this).fadeOut(100);
 			$(this).siblings('.video-thumb').replaceWith(video);
 		});
@@ -217,6 +208,48 @@ $(document).ready(function () {
 		});
 	}
 	testimonialsCarousel();
+
+	if($(".pricing-check").length !== 0) {
+		// pricing init
+		function pricingInit() {
+			var toggleSwitch = $('.pricing-check');
+			var dataCount = $('.data-count');
+			$(toggleSwitch).change(function () {
+				if ($(toggleSwitch).is(':checked')) {
+					dataCount.each(function () {
+						$(this).html($(this).data('count-annually'));
+						$(this).prop('Counter', 999).animate({
+							Counter: $(this).text()
+						}, {
+							duration: 250,
+							easing: 'swing',
+							step: function (now) {
+								$(this).text(Math.ceil(now));
+							}
+						});
+					});
+					$('.text-monthly').addClass('d-none').removeClass('d-inline');
+					$('.text-annually').addClass('d-inline').removeClass('d-none');
+				} else if ($(toggleSwitch).is(':not(:checked)')) {
+					dataCount.each(function () {
+						$(this).html($(this).data('count-monthly'));
+						$(this).prop('Counter', 999).animate({
+							Counter: $(this).text()
+						}, {
+							duration: 250,
+							easing: 'swing',
+							step: function (now) {
+								$(this).text(Math.ceil(now));
+							}
+						});
+					});
+					$('.text-monthly').addClass('d-inline').removeClass('d-none');
+					$('.text-annually').addClass('d-none').removeClass('d-inline');
+				}
+			});
+		}
+		pricingInit();
+	}
 
 	// Form validation Init
 	(function() {

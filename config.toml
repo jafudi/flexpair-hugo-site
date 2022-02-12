@@ -8,28 +8,35 @@
 ######################### site variables ##############################
 # customize your color and font from here.
 [params.variables]
+primary_color = "#157878"
+border_color = "#e4e4e4"
 white = "#ffffff"
 black = "#000000"
 light = "#FAFAFA"
-primary_color = "#157878"
 
-# font variable
-h1 = "48px"
-h1_md = "38px"
-h2 = "38px"
-h2_md = "30px"
-h3 = "22px"
-h3_md = "20px"
-h4 = "18px"
-h5 = "16px"
-h6 = "15px"
-# Give your font name from google font. add font weight using ":wght@" and separate by ";"
-# example: "Work Sans:wght@400;500;600"
-primary_font = "Open Sans:wght@400;500;600"
-primary_font_type = "sans-serif" # [serif/sans-serif]
-secondary_font = ""
-secondary_font_type = "" # [serif/sans-serif]
-icon_font = "Line Awesome Free"
+# font variables
+# base font size for full website, 
+font_size = "16px" # default is 16px
+
+# Font Scale Sizes
+# "minorSecond": 1.067,
+# "majorSecond": 1.125,
+# "minorThird": 1.2,
+# "majorThird": 1.25,
+# "perfectFourth": 1.333,
+# "augmentedFourth": 1.414,
+# "perfectFifth": 1.5,
+# "goldenRatio": 1.618
+font_scale = "1.2" # default is "minorThird": 1.2
+
+
+# go to https://fonts.google.com/ to find the font you want to use. select your font and copy only the bold part from the URL. and paste it here.
+# example: "Work+Sans:wght@400;500;600"
+font_primary = "Open Sans:wght@400;500;600"
+font_primary_type = "sans-serif" # [serif/sans-serif]
+font_secondary = ""
+font_secondary_type = "" # [serif/sans-serif]
+font_icon = "Line Awesome Free"
 
 
 ############################# Plugins ##############################

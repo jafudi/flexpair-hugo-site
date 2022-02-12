@@ -18,10 +18,8 @@ logo = "images/SyncopateBoldFlexPAIR.svg"
 logo_width = "240x"
 # logo text will only show when logo is missing.
 logo_text = "Flexpair"
-# OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Jens F."
-image = "images/SyncopateBoldFlexPAIR.svg" # this image will be used as fallback if a page has no image of its own
+# image gallery shortcode
+image_gallery = true
 
 # footer information
 footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
@@ -29,20 +27,14 @@ footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo t
 # contact form action
 contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
 
-# copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+# career form action
+career_form_action = "#" # career form works with https://formspree.io
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= "" 
 
-# buy premium popup
-buy_premium_popup = false
-
 # Main Sections
 mainSections= ["blog"]
-
-# reading time for blog posts
-reading_time = true
 
 # contact information
 [contact_info]
@@ -65,8 +57,43 @@ preloader = "images/favicons/loader.svg" # use svg
 # Navigation button
 [navigation_button]
 enable = true
-label = "Buy Premium 🚀"
-link = "https://gethugothemes.com/products/andromeda/"
+label = "Sign Up Now 🚀"
+link = "signup/"
+
+# seo meta data for OpenGraph / Twitter Card
+[metadata]
+keywords = ["Hugo", "Themefisher", "GetHugoThemes"]
+description = "Software and SAAS Landing Hugo Theme"
+author = "Themefisher"
+image = "images/og-image.jpg" # this image will be used as fallback if a page has no image of its own
+
+# matomo tracking: see https://matomo.org/
+[matomo]
+enable = false
+url = "" # your matomo url
+id = "" # your matomo id
+
+# baidu analytics: see https://tongji.baidu.com/
+[baidu]
+enable = false
+analytics_id = "" # Your ID
+
+# plausible analytics: see https://plausible.io/
+[plausible]
+enable = false
+domain = "" # yourdomain.com
+
+# counter analytics: see https://counter.dev/setup.html
+[counter]
+enable = false
+username = "" # your username
+
+# site verifications
+[site_verification]
+google = "" # Your verification code
+bing = "" # Your verification code
+baidu = "" # Your verification code
+facebook = "" # Your verification code
 
 # cookies
 [cookies]

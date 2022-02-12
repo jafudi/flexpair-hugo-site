@@ -2,8 +2,11 @@
   "name": "{{site.Title}}",
   "short_name": "{{site.Title}}",
   "lang": "{{ site.LanguageCode | default `en-us` }}",
-  {{ with site.Params.variables.primary_color }}"theme_color": "{{.}}",{{ end }}
-  {{ with site.Params.variables.body_color }}"background_color": "{{.}}",{{ end }}
+  "display": "fullscreen",
+  "orientation" : "portrait",
+  "start_url": "{{ site.BaseURL | relLangURL }}?utm_source=web_app_manifest",
+  "background_color": "{{ site.Params.variables.body_color | default `#fff`}}",
+  "theme_color": "{{ site.Params.variables.color_primary | default `#000`}}",
 
   "icons": [
     {{ $favicon48:= site.Params.favicon48 }}
@@ -48,7 +51,8 @@
     {
       "src": "{{$icon_192.RelPermalink}}",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {{ end }}
     {{ $favicon512:= site.Params.favicon512 }}
@@ -60,7 +64,5 @@
       "type": "image/png"
     },
     {{ end }}
-  ],
-  "display": "standalone",
-  "start_url": "{{ site.BaseURL | relLangURL }}?utm_source=web_app_manifest"
+  ]
 }
