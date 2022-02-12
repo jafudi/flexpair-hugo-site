@@ -3,6 +3,8 @@ title: "À propos de"
 layout: "about"
 draft: false
 
+# Die Team-Folie ist für uns essenziell. Wir wollen sehen, wen wir womöglich in die CyberLab Community aufnehmen. Diese Folie zeigt die Gründer*innen und die Schlüsselpersonen, die euer Startup voranbringen sollen. Hier ist es wichtig zu zeigen, welche Aufgabenbereiche ihr in eurem Unternehmen habt und dass ihr ein komplementär aufgestelltes Team seid. Wir möchten also kurz und bündig sehen, welche Personen sich zusammengefunden haben, um das Startup zu langfristigen Erfolg zu bringen.
+
 # who_we_are
 who_we_are:
   enable: true
@@ -74,7 +76,7 @@ our_team:
     image: "images/about/team/03.jpg"
     designation: "Engineering"
 
-
+    
 # our office
 our_office:
   enable: true
@@ -82,21 +84,79 @@ our_office:
   title: "Fabriqué avec amour dans le monde entier avec de nombreux bureaux"
   description: "We were freelance designers and developers, constantly finding <br> ourselves deep in vague feedback. This made every client and team"
   office_locations:
-  - city: "NewYork, USA"
-    country_flag: "images/about/flags/us.png"
-    address_line_one: "219 Bald Hill Drive"
-    address_line_two: "Oakland Gardens, NY 11364"
-  - city: "Australia, Perth"
-    country_flag: "images/about/flags/au.png"
-    address_line_one: "Flat 23 80 Anthony Circlet"
-    address_line_two: "Port Guiseppe, TAS 2691"
-  - city: "Berlin, Germany"
+  - city: "Heidelberg"
     country_flag: "images/about/flags/germany.png"
-    address_line_one: "Jl Raya Dewi Sartika Ged"
-    address_line_two: "Harapan Masa, Br Germeny"
-  - city: "China, Wohan"
-    country_flag: "images/about/flags/china.png"
-    address_line_one: "1hao Wen Ti Huo Dong"
-    address_line_two: "Zhong Xin 1ceng Jian Xing"
+    address_line_one: "Bergheimerstr. 7"
+    address_line_two: "69115 Heidelberg"
+  - city: "Berlin"
+    country_flag: "images/about/flags/germany.png"
+    address_line_one: "Postbox 448044"
+    address_line_two: "11516 Berlin"
+
+
 
 ---
+
+<!-- ### User experience
+- Papa um uns Unterlagen für Wipperfliess zu zeigen
+- Lea für Stationsversammlung
+- Samy Amara
+- Werner Merkl => Qt-Grafik
+- Selbsthilfebüro für Karaoke-Abend
+- Olga Heismann => Agile Coach
+- Elisabeth Hirtl => Coworking
+- Achim bei der Bahn für Mob Programming
+- Cornelia May => Projekt Management
+- Claudia Peters
+- Natascha Rausch => Juristin
+- [Stephan Teiwes](https://www.xing.com/profile/Stephan_Teiwes/cv) => Blogging
+- Philipp Nowak und Tonia Nikolova => Mindfulness
+- Hans Christian Hochkeppel (Sohn von Jürgen) => Design
+- Mathias Rodenstein => Coach
+
+### Technical review
+- [Ying Gu](mailto:connygy@gmail.com) zum Demonstrieren Ihrer eigenen App
+- [Lukas Camenzind](mailto:me@looke.ch) => IT Security
+- [Stefan Lörwald](mailto:stefan.loerwald@gmail.com) => Software-Architektur
+- [Christian Hallqvist](mailto:hall@id.ethz.ch) => IT Security
+- [Björn Bastian](mailto:bjoernbastian@posteo.de) für CdE-Orga, freie Software
+- [Oliver Kalz](https://www.xing.com/profile/Oliver_Kalz/cv) => IT Consulting
+- Adrian Ngo => Webentwicklung
+- Christophe Serra => IT Security
+- [Christian Theel](https://www.linkedin.com/in/the-quantonomic/) => Online-Marketing
+- Philipp Wollermann => Google
+- [Peter Ziegenhein](mailto:peter.ziegenhein@gmail.com) => High Performance Computing
+- [Ana Batanero](https://www.linkedin.com/in/ana-batanero-akerman-56825057/?midToken=AQFlMHtgh8kq9A&trk=eml-email_accept_invite_single_01-hero-2-prof%7Ecta&trkEmail=eml-email_accept_invite_single_01-hero-2-prof%7Ecta-null-6urekz%7Ej59q0f46%7Ez1-null-neptune%2Fprofile%7Evanity%2Eview) => Data Science
+- [Thomas Locher](https://www.linkedin.com/in/thomas-locher-b68848102/) => Lead Consultant DevOps at Credit Suisse
+- [Benjamin Knecht](mailto:knecht.ben@gmail.com) => Magic Leap
+- Jannik Strötgen => Bosch
+- Urs Burkhard
+
+### Sales
+- Jörg Gerigk => Mentor, excubo AG
+- Ralf Anders => Market Intelligence
+- [Miriam Godau](https://www.linkedin.com/in/miriamgodau/) => Founder of 42medien
+- [Holger Greif](https://www.linkedin.com/in/holgergreif/) =>  COO at swissQuant
+- Jürgen Hess
+- Sebastian Knecht => Print und Digitalmedien
+- Thomas Koch => IT Security and Sales
+- Christian Kukuk
+- Olaf Lahrsen
+- Björn Münstermann
+- Ali Özkan
+- Henning Rusche
+- Dr. Jürgen Schatz
+- Dr. Thilo Simon => Fresenius Netcare
+- Dr. Peter Strobel
+- Georg Weissmüller => SAP
+- Michael Fielenbach und Politik
+- Prabhash Chaudhary => BlackRock
+- Flurin Capaul => Hatte mal bei PwC präsentiert eine ähnliche Lösung
+- Chiara Vedaldi => Novartis, Haben zusammen bei PwC Consulting I gemacht
+- Ritesh Ramesh => CTO
+- Christina Cappenberg => Dezernat für Bildung
+- Riva-Melissa Tez => Intel
+- Gianfranco Mautone => PwC Schweiz
+- Reiko Mito => Investment Banking
+- Kaisa Karvonen
+ -->
