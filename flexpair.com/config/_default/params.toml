@@ -40,7 +40,7 @@ mainSections= ["blog"]
 [contact_info]
 address = "Bergheimerstr. 7, Heidelberg, Germany"
 phone = ["+49-6221-7189618"]
-email = ["flexpair@icloud.com", "jens@flexpair.com"]
+email = ["flexpair@icloud.com"]
 address_img = "images/address.png"
 maps_link = "https://goo.gl/maps/ikqiZGc6SZQzxaeL7"
 
@@ -121,6 +121,16 @@ link = "https://de.linkedin.com/in/fielenbach"
 title = "XING"
 icon = "lab la-xing" # https://icons8.com/line-awesome
 link = "https://www.xing.com/profile/Jens_FielenbachDiplMath/cv"
+
+[[social]]
+title = "GitHub"
+icon = "lab la-github" # https://icons8.com/line-awesome
+link = "https://github.com/jafudi"
+
+[[social]]
+title = "GitLab"
+icon = "lab la-gitlab" # https://icons8.com/line-awesome
+link = "https://gitlab.com/Jafudi"
 
 [[social]]
 title = "Facebook"
