@@ -1,23 +1,190 @@
 ---
-date: "2021-07-14"
-title: "The Real Product From the Buyers improvements in Overflow basis."
+date: "2022-01-16"
+title: "How does Flexpair compare to competitors?"
 image: "images/blog/01.jpg"
-author: "Abdullah Al Shifat"
+author_info: 
+  name: "Jens F."
+  image: "images/author/jens.png"
 draft: false
 ---
 
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget
+<!-- Bei dieser Folie sollte die Grafik bzw. die Tabelle deutlich machen, wie die Funktionen eurer Lösung dazu beitragen, dass ihr euch von euren Mitbewerber*innen in wesentlichen Punkten unterscheidet. Das Analysieren und Anerkennen eurer Konkurrenz ist wichtig. Es zeigt, wie informiert ihr über euer Geschäftsfeld seid und wie kompetitiv euer Markt einzuschätzen ist.
+ -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent
+ We do not waste valuable bandwidth for stuttering video. We instead focus on live co-editing and pleasant, high quality audio.
 
-Pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet Faucibus consectetur tempus adipiscing vitae. Nec blandit tincidunt nibh nisi, quam volutpat. In lacus laoreet diam risus. Mauris, risus faucibus sagittis sagittis tincidunt id justo. Diam massa pretium consequat mauris viverra. Sagittis eu libero
+|                         | Share via Zoom | VS Code Live Share | Virtual desktops | Cloud IDEs (Gitpod) | Flexpair |
+|-------------------------|----------------|--------------------|------------------|---------------------|----------|
+| Appear on screen        | Yes            | No                 | No               | No                  | No       |
+| Hear each other         | Yes            | Yes                | No               | No                  | Yes      |
+| Share the mouse         | Yes            | No                 | No               | No                  | Yes      |
+| Pair programming        | Yes            | Yes                | No               | Yes                 | Yes      |
+| Listen together         | No             | No                 | No               | No                  | Yes      |
+| Team email inbox        | No             | No                 | No               | No                  | Yes      |
+| Asynchronous access     | No             | No                 | Yes              | Yes                 | Yes      |
+| Zero local installation | No             | No                 | Depends          | Yes                 | Yes      |
+| Git controlled config   | No             | No                 | No               | Yes                 | Yes      |
+| Re-deploy in minutes    | No             | No                 | No               | Yes                 | Yes      |
+| Persistent workspace    | Yes            | Yes                | Yes              | No                  | Yes      |
+| Requires fast upload    | Yes            | No                 | No               | No                  | No       |
+| Combine multi-cloud     | Not applicable | Not applicable     | No               | No                  | Yes      |
+| Usable beyond coding    | Yes            | No                 | Yes              | No                  | Yes      |
+| Windows environment     | Yes            | Yes                | Yes              | No                  | No       |
+| Own your own data       | No             | Yes                | Yes              | No                  | Yes      |
 
->Facing a challenge in life is kind of a turn-on for an easy rider. When life gives you lemons, use them in your designs
->
-> <cite>!Alexender Smith</cite>
-
-Consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent volutpat tortor. Ipsum eget sed tempus luctus nisl. Ut etiam molestie mattis at faucibus mi at pellentesque. Pellentesque morbi nunc, curabitur arcu euismod suscipit. Duis mi sapien, donec non dictum
-
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis cursus id.
-
-Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet dignissim. Faucibus non tristique eu.
+<!-- https://www.tablesgenerator.com -->
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-bobw{font-weight:bold;text-align:center;vertical-align:bottom}
+.tg .tg-18q7{background-color:#70AD47;text-align:center;vertical-align:bottom}
+.tg .tg-31j1{background-color:#FFC000;text-align:center;vertical-align:bottom}
+.tg .tg-j6zm{font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-7zrl{text-align:left;vertical-align:bottom; white-space:nowrap;}
+.tg .tg-rtra{background-color:#ED7D31;text-align:center;vertical-align:bottom}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+<div class="tg-wrap"><table class="tg">
+<thead>
+  <tr>
+    <th class="tg-j6zm"></th>
+    <th class="tg-bobw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Share via Zoom</span></th>
+    <th class="tg-bobw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">VS Code Live Share</span></th>
+    <th class="tg-bobw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Virtual desktops</span></th>
+    <th class="tg-bobw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Cloud IDEs (Gitpod)</span></th>
+    <th class="tg-bobw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Flexpair</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Appear on screen</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-31j1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#FFC000">No</span></td>
+    <td class="tg-31j1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#FFC000">No</span></td>
+    <td class="tg-31j1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#FFC000">No</span></td>
+    <td class="tg-31j1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#FFC000">No</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Hear each other</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Share the mouse</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Pair programming</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Play music together</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Team email inbox</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Asynchronous access</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Zero local installation</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-31j1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#FFC000">Depends</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Git controlled config</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Re-deploy in minutes</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Persistent workspace</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Requires fast upload</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">Yes</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">No</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Combine multi-cloud</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">Not applicable</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">Not applicable</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Usable beyond coding</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Windows environment</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">No</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Own your own data</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
+    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
+  </tr>
+</tbody>
+</table></div>

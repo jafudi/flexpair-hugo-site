@@ -1,23 +1,91 @@
 ---
-date: "2021-07-11"
-title: "Five eCommerce lessons to learn from Bloom & Wild"
-image: "images/blog/04.jpg"
-author: "abdullah-al-shifat"
+date: "2022-02-11"
+title: "How does our road map look like? Which clouds do we plan to expand to?"
+image: "images/blog/02.jpg"
+author_info: 
+  name: "Jens F."
+  image: "images/author/jens.png"
 draft: false
 ---
 
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget
+<!-- Solch eine Folie am Ende des Pitch Decks erzeugt Glaubwürdigkeit. Hier solltet ihr zeigen was ihr bis zum Status Quo alles erreicht und unternommen habt, um eure Idee zu validieren. Genauso interessant ist es auch zu wissen, was eure nächsten Schritte sind bzw. sein könnten. Solltet ihr bis dato schon Erfolge oder relevante Zahlen, wie Umsatz, Anzahl Kunden und/oder Nutzer, etc. generiert haben: platziert sie präsent auf dieser Folie. -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent
+## Cloud-init support and 12 months free tier
 
-Pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet Faucibus consectetur tempus adipiscing vitae. Nec blandit tincidunt nibh nisi, quam volutpat. In lacus laoreet diam risus. Mauris, risus faucibus sagittis sagittis tincidunt id justo. Diam massa pretium consequat mauris viverra. Sagittis eu libero
+### Oracle Cloud Infrastructure (already adopted)
 
->Facing a challenge in life is kind of a turn-on for an easy rider. When life gives you lemons, use them in your designs
->
-> <cite>!Alexender Smith</cite>
+- 2% global market share, 19 cities
+- [Fixed startup discount](https://www.oracle.com/de/startup/) of 500 USD
+- `oci_core_instance` ([Official API](https://registry.terraform.io/providers/hashicorp/oci/latest/docs/resources/core_instance))
 
-Consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent volutpat tortor. Ipsum eget sed tempus luctus nisl. Ut etiam molestie mattis at faucibus mi at pellentesque. Pellentesque morbi nunc, curabitur arcu euismod suscipit. Duis mi sapien, donec non dictum
+### Amazon EC2 (already adopted)
 
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis cursus id.
+- 33% global market share, 21 cities
+- [Fixed startup discount](https://aws.amazon.com/de/activate/founders/) of 1350 USD
+- `aws_instance` ([Official API](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance))
 
-Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet dignissim. Faucibus non tristique eu.
+### Microsoft Azure
+
+- 18% global market share, 52 cities
+- Only B2B startups can receive credits beyond the free account
+- `azurerm_linux_virtual_machne` ([Official API](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/linux_virtual_machine))
+- Public IP address attribute: `public_ip_address`
+
+### Alibaba Cloud
+
+- 6% global market share, 22 cities
+- [Startups can apply for](https://www.alibabacloud.com/de/startup/join-us) up to 10k USD
+- `alicloud_instance` ([Verified API](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/resources/instance))
+- Public IP address attribute: `public_ip`
+
+## Cloud-init support and 1 month free tier
+
+### IBM Cloud
+
+- 5% global market share, 8 cities
+- [Startups can apply for](https://developer.ibm.com/startups/) up to 12k USD
+- `ibm_compute_vm_instance` ([Community API](https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs/resources/compute_vm_instance))
+- Public IP address attribute: `ipv4_address`
+
+### OVH Cloud
+
+- 11 cities
+- [Startups can apply for](https://startup.ovhcloud.com/en/starters/) up to 10k EUR
+- `openstack_compute_instance_v2` ([Verified API](https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs/resources/compute_instance_v2))
+- Public IP address attribute: `access_ip_v4`
+
+### Digital Ocean
+- 11 cities
+- Only approved accelerators
+- `digitalocean_droplet` ([Verified API](https://registry.terraform.io/providers/digitalocean/digitalocean/latest/docs/resources/droplet))
+- Public IP address attribute: `ipv4_address`
+
+### OpenTelekomCloud
+
+- 2 cities
+- [Startups can apply for](https://telekomhilft.telekom.de/t5/TechBoost/ct-p/techboost) 15k EUR
+- `opentelekomcloud_compute_instance_v2` ([Community API](https://registry.terraform.io/providers/opentelekomcloud/opentelekomcloud/latest/docs/resources/compute_instance_v2))
+- Public IP address attribute: `access_ip_v4`
+
+### Yandex.Cloud
+
+- 3 cities
+- [Startups can apply for](https://cloud.yandex.com/cloud-boost) up to 12k USD
+- `yandex_compute_instance` ([Community API](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/compute_instance))
+- Public IP address attribute: `network_interface.0.nat_ip_address`
+
+## Cloud-init support but no free tier with sufficient RAM allowance
+
+### Google Compute Engine
+
+- 9% global market share, 3 cities
+- Only approved accelerators
+- `google_compute_instance` ([Official API](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/compute_instance))
+- Public IP address attribute: `network_interface.0.access_config.0.nat_ip`
+
+### TencentCloud
+
+- 2% global market share, 15 cities
+- No startup program
+- `tencentcloud_instance` ([Verified API](https://registry.terraform.io/providers/tencentcloudstack/tencentcloud/latest/docs/resources/instance))
+- Public IP address attribute: `public_ip`
