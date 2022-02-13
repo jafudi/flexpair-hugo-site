@@ -5,7 +5,7 @@ image: images/blog/01.jpg
 author_info:
   name: Jens F.
   image: images/author/jens.png
-author: Jens F.
+author: jens
 
 ---
 ## Problem
