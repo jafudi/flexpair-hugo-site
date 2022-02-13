@@ -1,5 +1,5 @@
 ---
-title: Derick Barker
+title: Jens F.
 image: "/images/author/jens.png"
 email: flexpair@icloud.com
 social:
