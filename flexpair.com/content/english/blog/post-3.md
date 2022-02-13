@@ -1,13 +1,13 @@
 ---
-date: "2021-01-13"
-title: "What market size do we expect?"
-image: "images/blog/02.jpg"
-author_info: 
-  name: "Jens F."
-  image: "images/author/jens.png"
-draft: false
----
+date: 2021-01-13
+title: What market size do we expect?
+image: images/blog/02.jpg
+author_info:
+  name: Jens F.
+  image: images/author/jens.png
+author: Jens
 
+---
 <!-- Die Folie über eure potenzielle Marktgröße ist enorm wichtig, denn sie gibt uns erste Eindrücke darüber, wie ihr eure Geschäfts- und Wachstumsmöglichkeiten einschätzt. Es gibt hier verschiedenste Möglichkeiten eure Marktanalyse darzustellen. Ob Bottom Up, Top Down, TAM, SAM, SOM oder Szenario-Analysen – eurer Kreativität sind hier keine Grenzen gesetzt. Wichtig ist, dass die Größe eures Zielmarktes realistisch berechnet ist und das damit verbundene Potential ersichtlich wird. -->
 
 According to a press release from Gartner in July 2020 the market demand for cloud-based desktop-as-a-service (DaaS) will rise to 2.535 billion USD in 2022. This consitutes the Total Addressable Market (TAM) which is, of course, totally unrealistic to achieve with our product in the near future.
