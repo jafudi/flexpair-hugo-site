@@ -9,7 +9,7 @@
           <p class="text-primary">{{.Params.job_nature | markdownify}}</p>
         </div>
 
-        <form action="{{site.Params.career_form_action}}" method="POST" class="needs-validation" novalidate>
+        <form netlify action="{{site.Params.career_form_action}}" method="POST" class="needs-validation" novalidate>
           <div class="form-group mb-4">
             <label for="name">{{i18n `fname`}}<span class="text-primary">*</span></label>
             <input class="form-control shadow-none" id="name" type="text" placeholder="{{i18n `fname`}}" required>
