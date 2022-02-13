@@ -1,5 +1,5 @@
 ---
-title: Jens F.
+title: Jens
 image: "/images/author/jens.png"
 email: flexpair@icloud.com
 social:
