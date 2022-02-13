@@ -169,7 +169,7 @@ sections:
   label: i18n Translations
   create: all
   match: "**/*"
-upload_dir: exampleSite/assets/images
+upload_dir: flexpair.com/assets/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
