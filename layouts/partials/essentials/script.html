@@ -84,7 +84,7 @@
 <script>
   if ('serviceWorker' in navigator){navigator.serviceWorker.register({{`/service-worker.js` | relURL}});}
 
-  // gallary
+  // gallery
   {{ if site.Params.image_gallery }}
   window.addEventListener('load', (e) => {
     // gallery init
