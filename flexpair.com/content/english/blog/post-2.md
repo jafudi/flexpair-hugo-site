@@ -6,6 +6,7 @@ author_info:
   name: Jens F.
   image: images/author/jens.png
 author: jens
+draft: true
 
 ---
 According to TechCrunch: [European cloud firms call for clearer ‘ex ante’ rules to end abusive software licensing](https://techcrunch.com/2022/02/09/cloud-firms-open-letter-dma/)

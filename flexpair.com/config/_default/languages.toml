@@ -1,3 +1,16 @@
+# Language is a loop item. So you can duplicate it as many times as you want. 
+# Then change the name of the language.
+# See https://gohugo.io/content-management/multilingual/ for more information.
+
+# languageCode is the code of the language. 
+# You can get your language code from the ISO 639-1 or ISO 639-2 codes.
+
+# contentDir is the directory where the content of the language is stored. 
+# For example, if you want to create a Spanish language, you need to create 
+# a directory called content/spanish.
+
+# weight is the weight of the language. Smaller weight will be the first language.
+
 ################################### English language #####################################
 [en]
 languageName = "En"

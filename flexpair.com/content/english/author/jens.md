@@ -3,12 +3,12 @@ title: Jens
 image: "/images/author/jens.png"
 email: flexpair@icloud.com
 social:
-- icon: lab la-linkedin-in
-  name: linkedin
-  link: "#!"
-- icon: lab la-twitter
-  name: twitter
-  link: "#!"
+- icon: lab la-xing
+  name: XING
+  link: "https://www.xing.com/profile/Jens_FielenbachDiplMath/cv"
+- icon: lab la-facebook-f
+  name: Facebook
+  link: "https://m.facebook.com/profile.php?id=100002090784709"
 
 ---
 

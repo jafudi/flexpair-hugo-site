@@ -6,6 +6,7 @@ author_info:
   name: Jens F.
   image: images/author/jens.png
 author: jens
+draft: false
 
 ---
 <!-- Bei dieser Folie sollte die Grafik bzw. die Tabelle deutlich machen, wie die Funktionen eurer Lösung dazu beitragen, dass ihr euch von euren Mitbewerber*innen in wesentlichen Punkten unterscheidet. Das Analysieren und Anerkennen eurer Konkurrenz ist wichtig. Es zeigt, wie informiert ihr über euer Geschäftsfeld seid und wie kompetitiv euer Markt einzuschätzen ist.
