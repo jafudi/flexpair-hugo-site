@@ -11,28 +11,28 @@ AUTHOR WEBSITE: https://gethugothemes.com
 <html lang="{{ site.LanguageCode | default `en-US` }}">
 
 <head>
-	{{ partial "essentials/head.html" . }}
+  {{ partial "essentials/head.html" . }}
 
-	<!-- cache partial only in production -->
-	{{ if hugo.IsProduction }}
-	{{ partialCached "essentials/style.html" . }}
-	{{ else }}
-	{{ partial "essentials/style.html" . }}
-	{{ end }}
+  <!-- cache partial only in production -->
+  {{ if hugo.IsProduction }}
+  {{ partialCached "essentials/style.html" . }}
+  {{ else }}
+  {{ partial "essentials/style.html" . }}
+  {{ end }}
 </head>
 
 <body>
-	<!-- cache partial only in production -->
-	{{ if hugo.IsProduction }}
-	{{ partialCached "components/preloader.html" . }}
-	{{ partialCached "essentials/header.html" . }}
-	{{ else }}
-	{{ partial "components/preloader.html" . }}
-	{{ partial "essentials/header.html" . }}
-	{{ end }}
+  <!-- cache partial only in production -->
+  {{ if hugo.IsProduction }}
+  {{ partialCached "components/preloader.html" . }}
+  {{ partialCached "essentials/header.html" . }}
+  {{ else }}
+  {{ partial "components/preloader.html" . }}
+  {{ partial "essentials/header.html" . }}
+  {{ end }}
 
-	<main>
-		<section class="section user-access">
+  <main>
+    <section class="section user-access">
       <div class="container">
         <div class="row justify-content-around align-items-center">
           <div class="col-lg-4 col-md-7 col-sm-10 col-11" data-aos="fade-up">
@@ -41,7 +41,9 @@ AUTHOR WEBSITE: https://gethugothemes.com
                 {{ $logo:= site.Params.logo }}
                 {{ if fileExists (add `assets/` $logo) }}
                 {{ $logo:= resources.Get $logo }}
-                <img loading="prelaod" decoding="async" class="img-fluid" width="{{site.Params.logo_width}}" height="45" src="{{$logo.RelPermalink}}" alt="{{ site.Title }}" onerror="this.onerror=null;this.src='{{$logo.RelPermalink}}'">
+                <img loading="prelaod" decoding="async" class="img-fluid" width="{{site.Params.logo_width}}" height="45"
+                  src="{{$logo.RelPermalink}}" alt="{{ site.Title }}"
+                  onerror="this.onerror=null;this.src='{{$logo.RelPermalink}}'">
                 {{ else }}
                 {{site.Params.logo_text | markdownify}}
                 {{ end }}
@@ -51,15 +53,27 @@ AUTHOR WEBSITE: https://gethugothemes.com
                 {{ if fileExists (add `assets/` .Params.image) }}
                 {{$img:= resources.Get .Params.image }}
                 {{$img:= $img.Resize "475x"}}
-                <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="cobtact image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+                <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}"
+                  src="{{$img.RelPermalink}}" alt="cobtact image"
+                  onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
                 {{end}}
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-8 col-sm-10 col-11 user-access-form" data-aos="fade-up" data-aos-delay="150">
             <div class="section-title text-center">
-              <h2 class="title">Sing In</h2>
+              <h2 class="title">Sign In</h2>
             </div>
+            <!-- Add a menu:
+            Log in / Sign up - when the user is not logged in
+            Username / Log out - when the user is logged in
+            -->
+            <div data-netlify-identity-menu></div>
+
+            <!-- Add a simpler button:
+              Simple button that will open the modal.
+            -->
+            <div data-netlify-identity-button>Login with Netlify Identity</div>
             <form method="POST" class="needs-validation" novalidate>
               <div class="form-group">
                 <label for="email">Email Address</label>
@@ -77,23 +91,25 @@ AUTHOR WEBSITE: https://gethugothemes.com
                 <input type="checkbox" class="custom-control-input" id="save-info" checked>
                 <label for="save-info" class="custom-control-label font-weight-500" role="button">Remember Me</label>
               </div>
-              <button class="btn btn-primary w-100 mt-4 text-uppercase" type="submit" aria-label="Sign In">Sign in</button>
+              <button class="btn btn-primary w-100 mt-4 text-uppercase" type="submit" aria-label="Sign In">Sign
+                in</button>
             </form>
-    
-            <p class="text-center mb-0 mt-3">Dont Have An Account? <a class="link-primary" href="{{`signup/` | relLangURL }}">Sing Up</a>
+
+            <p class="text-center mb-0 mt-3">Dont Have An Account? <a class="link-primary"
+                href="{{`signup/` | relLangURL }}">Sing Up</a>
             </p>
           </div>
         </div>
       </div>
     </section>
-	</main>
+  </main>
 
-	<!-- cache partial only in production -->
-	{{ if hugo.IsProduction }}
-	{{ partialCached "essentials/script.html" . }}
-	{{ else }}
-	{{ partial "essentials/script.html" . }}
-	{{ end }}
+  <!-- cache partial only in production -->
+  {{ if hugo.IsProduction }}
+  {{ partialCached "essentials/script.html" . }}
+  {{ else }}
+  {{ partial "essentials/script.html" . }}
+  {{ end }}
 </body>
 
 </html>
