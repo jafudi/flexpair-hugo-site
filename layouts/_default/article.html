@@ -16,26 +16,29 @@
     <h3 class="card-title"><a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a></h3>
     <p>{{ .Plain | truncate 120 }}</p>
   </div>
+  {{ $publishDate := .PublishDate.Format "Jan 02, 2006" }}
+  {{ with site.GetPage (string .Params.Author | urlize | lower) }}
   <div class="card-footer bg-transparent border-top-0">
     <div class="card-author">
       <div class="d-flex align-items-center">
-        {{ with .Params.author_info }}
         <div class="user-image mr-3">
-          {{ if .image }}
-          {{ $img:= resources.Get (.image) }}
-          {{ $img:= $img.Fill "70x70" }}
-          {{ $imgWebp:= $img.Fill "70x70 webp" }}
-          <img loading="lazy" decoding="async" class="rounded-circle" src="{{ $imgWebp.RelPermalink }}" alt="author image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
-          {{ end }}
+          <a href="{{.RelPermalink}}" title="{{.Title}}">
+            {{ if .Params.image }}
+            {{ $img:= resources.Get (.Params.image) }}
+            {{ $img:= $img.Fill "70x70" }}
+            {{ $imgWebp:= $img.Fill "70x70 webp" }}
+            <img loading="lazy" decoding="async" class="rounded-circle" src="{{ $imgWebp.RelPermalink }}" alt="author image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+            {{ else if .Params.Email }}
+            <img loading="lazy" decoding="async" class="rounded-circle" src="https://www.gravatar.com/avatar/{{ md5 . }}?s=70&pg&d=identicon">
+            {{ end }}
+          </a>
         </div>
-        {{ end }}
         <div class="user-info">
-          {{ with .Params.author_info }}
-          <p class="font-weight-500 mb-0 h5">{{ .name }}</p>
-          {{ end }}
-          <span>{{.PublishDate.Format "Jan 02, 2006"}}{{if site.Params.reading_time}} - {{.ReadingTime}} Min read{{end}}</span>
+          <p class="font-weight-500 mb-0 h5"><a href="{{.RelPermalink}}">{{ .Title }}</a></p>
+          <span>{{$publishDate}} - {{.ReadingTime}} {{i18n `min_read`}}</span>
         </div>
       </div>
     </div>
   </div>
+  {{ end }}
 </article>

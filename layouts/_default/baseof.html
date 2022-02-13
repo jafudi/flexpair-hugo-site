@@ -8,27 +8,29 @@ AUTHOR WEBSITE: https://gethugothemes.com
 -->
 
 <!DOCTYPE html>
-<html lang="{{ site.LanguageCode | default `en-US` }}">
+<html lang="{{ site.LanguageCode | default `en-US` }}" itemscope itemtype="http://schema.org/WebPage">
 
 <head>
-	{{ partial "head.html" . }}
+	{{ partial "essentials/head.html" . }}
 
 	<!-- cache partial only in production -->
 	{{ if hugo.IsProduction }}
-	{{ partialCached "style.html" . }}
+	{{ partialCached "essentials/style.html" . }}
 	{{ else }}
-	{{ partial "style.html" . }}
+	{{ partial "essentials/style.html" . }}
 	{{ end }}
 </head>
 
 <body>
 	<!-- cache partial only in production -->
 	{{ if hugo.IsProduction }}
-	{{ partialCached "preloader.html" . }}
+	{{ partialCached "components/preloader.html" . }}
+	{{ partial "essentials/header.html" . }}
+	{{ partialCached "datasets/gtm-noscript.html" . }}
 	{{ else }}
-	{{ partial "preloader.html" . }}
+	{{ partial "components/preloader.html" . }}
+	{{ partial "essentials/header.html" . }}
 	{{ end }}
-	{{ partial "header.html" . }}
 
 	<main>
 		{{ block "main" . }}{{ end }}
@@ -36,11 +38,11 @@ AUTHOR WEBSITE: https://gethugothemes.com
 
 	<!-- cache partial only in production -->
 	{{ if hugo.IsProduction }}
-	{{ partialCached "script.html" . }}
-	{{ partialCached "footer.html" . }}
+	{{ partialCached "essentials/script.html" . }}
+	{{ partialCached "essentials/footer.html" . }}
 	{{ else }}
-	{{ partial "script.html" . }}
-	{{ partial "footer.html" . }}
+	{{ partial "essentials/script.html" . }}
+	{{ partial "essentials/footer.html" . }}
 	{{ end }}
 </body>
 

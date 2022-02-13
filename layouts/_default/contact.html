@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "page-header.html" . }}
+{{ partial "components/page-header.html" . }}
 
 <section class="section">
   <div class="container">
@@ -18,24 +18,24 @@
       <div class="col-lg-5 col-md-10" data-aos="fade-up">
         <div class="contact-form">
           <div class="mb-4">
-            <h3>Send A Message</h3>
+            <h3>{{i18n `send_a_message`}}</h3>
           </div>
           <form id="contact-form" action="{{.}}" method="POST">
             <p id="form-status" class="form-status"></p>
             <div class="form-group">
-              <label for="name">Full Name</label>
-              <input class="form-control shadow-none" id="name" name="full_name" type="text" placeholder="Full Name" required>
+              <label for="name">{{i18n `full_name`}}</label>
+              <input class="form-control shadow-none" id="name" name="{{i18n `full_name`}}" type="text" placeholder="{{i18n `full_name`}}" required>
             </div>
             <div class="form-group">
-              <label for="email">Email Address</label>
-              <input class="form-control shadow-none" id="email" name="email" type="email" placeholder="Email Address" required>
+              <label for="email">{{i18n `email`}}</label>
+              <input class="form-control shadow-none" id="email" name="{{i18n `email`}}" type="email" placeholder="{{i18n `email`}}" required>
             </div>
             <div class="form-group">
-              <label for="message">Your Message</label>
+              <label for="message">{{i18n `your_message`}}</label>
               <textarea class="form-control shadow-none" id="message" name="Comment" rows="4" required></textarea>
             </div>
 
-            <button class="btn btn-primary w-100 mt-4" type="submit" aria-label="Send Message">Send Message</button>
+            <button class="btn btn-primary w-100 mt-4" type="submit" aria-label="Send Message">{{i18n `send_message`}}</button>
           </form>
         </div>
       </div>
@@ -53,10 +53,10 @@
               'Accept': 'application/json'
             }
           }).then(response => {
-            status.innerHTML = "Thanks for your submission!";
+            status.innerHTML = "{{i18n `form_thanks_message`}}";
             form.reset()
           }).catch(error => {
-            status.innerHTML = "Oops! There was a problem submitting your form";
+            status.innerHTML = "{{i18n `form_error_message`}}";
           });
         }
         form.addEventListener("submit", handleSubmit)
@@ -68,15 +68,15 @@
       <div class="row justify-content-center">
         <div class="col-12">
           <div class="section-title text-center" data-aos="fade-up">
-            <p class="text-uppercase">Contact us</p>
-            <h2 class="title">Get In Touch</h2>
+            <p class="text-uppercase">{{i18n `contact_us`}}</p>
+            <h2 class="title">{{i18n `get_in_touch`}}</h2>
           </div>
         </div>
 
         {{with site.Params.contact_info.phone}}
         <div class="col-xl-3 col-lg-4 col-md-6 contact-widget" data-aos="fade-up">
           <div class="block text-center">
-            <h3 class="mb-4">Phone</h3>
+            <h3 class="mb-4">{{i18n `phone`}}</h3>
             <ul class="list-unstyled">
               {{range .}}
               {{if .}}
@@ -91,7 +91,7 @@
         {{with site.Params.contact_info.email}}
         <div class="col-xl-3 col-lg-4 col-md-6 contact-widget" data-aos="fade-up" data-aos-delay="100">
           <div class="block text-center">
-            <h3 class="mb-4">Email Address</h3>
+            <h3 class="mb-4">{{i18n `email`}}</h3>
             <ul class="list-unstyled">
               {{range .}}
               {{if .}}
@@ -106,7 +106,7 @@
         {{with site.Params.social}}
         <div class="col-xl-3 col-lg-4 col-md-12 contact-widget" data-aos="fade-up" data-aos-delay="200">
           <div class="block text-center">
-            <h3 class="mb-4">Social Media</h3>
+            <h3 class="mb-4">{{i18n `social_media`}}</h3>
             <ul class="list-unstyled">
               {{range .}}
               {{if .}}
