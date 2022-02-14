@@ -23,7 +23,7 @@
 					</div>
 					<ul class="social-links list-inline mb-0">
 						{{ range .Params.Social }}
-						<li class="list-inline-item"><a href="{{.link | safeURL}}" title="{{.name}}"><i class="{{.icon}}"></i></a></li>
+						<li class="list-inline-item"><a href="{{.link | safeURL}}" target="_blank" title="{{.name}}"><i class="{{.icon}}"></i></a></li>
 						{{ end }}
 					</ul>
 				</div>
