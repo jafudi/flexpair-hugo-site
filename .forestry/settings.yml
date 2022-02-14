@@ -7,22 +7,22 @@ sections:
 - type: heading
   label: Homepage
 - type: document
-  path: exampleSite/content/english/_index.md
+  path: flexpair.com/content/english/_index.md
   label: Homepage (en)
 - type: document
-  path: exampleSite/content/french/_index.md
+  path: flexpair.com/content/french/_index.md
   label: Homepage (fr)
 - type: heading
   label: Author
 - type: directory
-  path: exampleSite/content/english/author
+  path: flexpair.com/content/english/author
   label: Author (en)
   create: all
   match: "*"
   templates:
   - new-author
 - type: directory
-  path: exampleSite/content/french/author
+  path: flexpair.com/content/french/author
   label: Author (fr)
   create: all
   match: "*"
@@ -31,10 +31,10 @@ sections:
 - type: heading
   label: Blog
 - type: document
-  path: exampleSite/content/english/blog/_index.md
+  path: flexpair.com/content/english/blog/_index.md
   label: Blog (en)
 - type: directory
-  path: exampleSite/content/english/blog
+  path: flexpair.com/content/english/blog
   label: Blog Posts (en)
   create: documents
   match: "**/*"
@@ -42,10 +42,10 @@ sections:
   templates:
   - blog-post
 - type: document
-  path: exampleSite/content/french/blog/_index.md
+  path: flexpair.com/content/french/blog/_index.md
   label: Blog (fr)
 - type: directory
-  path: exampleSite/content/french/blog
+  path: flexpair.com/content/french/blog
   label: Blog Posts (fr)
   create: documents
   match: "**/*"
@@ -55,10 +55,10 @@ sections:
 - type: heading
   label: Case Studies
 - type: document
-  path: exampleSite/content/english/case-studies/_index.md
+  path: flexpair.com/content/english/case-studies/_index.md
   label: Case Info (en)
 - type: directory
-  path: exampleSite/content/english/case-studies
+  path: flexpair.com/content/english/case-studies
   label: Case Studies (en)
   create: all
   match: "**/*"
@@ -66,10 +66,10 @@ sections:
   templates:
   - case-studies-page
 - type: document
-  path: exampleSite/content/french/case-studies/_index.md
+  path: flexpair.com/content/french/case-studies/_index.md
   label: Case Info (fr)
 - type: directory
-  path: exampleSite/content/french/case-studies
+  path: flexpair.com/content/french/case-studies
   label: Case Studies (fr)
   create: all
   match: "**/*"
@@ -79,10 +79,10 @@ sections:
 - type: heading
   label: Career
 - type: document
-  path: exampleSite/content/english/career/_index.md
+  path: flexpair.com/content/english/career/_index.md
   label: Career (en)
 - type: directory
-  path: exampleSite/content/english/career
+  path: flexpair.com/content/english/career
   label: Career Posts (en)
   create: all
   match: "**/*"
@@ -90,10 +90,10 @@ sections:
   templates:
   - career-page
 - type: document
-  path: exampleSite/content/french/career/_index.md
+  path: flexpair.com/content/french/career/_index.md
   label: Career (fr)
 - type: directory
-  path: exampleSite/content/french/career
+  path: flexpair.com/content/french/career
   label: Career Posts (fr)
   create: all
   match: "**/*"
@@ -103,33 +103,33 @@ sections:
 - type: heading
   label: Others Page
 - type: document
-  path: exampleSite/content/english/about.md
+  path: flexpair.com/content/english/about.md
   label: About (en)
 - type: document
-  path: exampleSite/content/french/about.md
+  path: flexpair.com/content/french/about.md
   label: About (fr)
 - type: document
-  path: exampleSite/content/english/pricing.md
+  path: flexpair.com/content/english/pricing.md
   label: Pricing (en)
 - type: document
-  path: exampleSite/content/french/pricing.md
+  path: flexpair.com/content/french/pricing.md
   label: Pricing (fr)
 - type: document
-  path: exampleSite/content/english/how-it-works.md
+  path: flexpair.com/content/english/how-it-works.md
   label: How It Works (en)
 - type: document
-  path: exampleSite/content/french/how-it-works.md
+  path: flexpair.com/content/french/how-it-works.md
   label: How It Works (fr)
 - type: document
-  path: exampleSite/content/english/contact.md
+  path: flexpair.com/content/english/contact.md
   label: Contact (en)
 - type: document
-  path: exampleSite/content/french/contact.md
+  path: flexpair.com/content/french/contact.md
   label: Contact (fr)
 - type: heading
   label: All Pages
 - type: directory
-  path: exampleSite/content/english
+  path: flexpair.com/content/english
   label: All Pages (en)
   create: all
   match: "**/*"
@@ -137,7 +137,7 @@ sections:
   templates:
   - new-page
 - type: directory
-  path: exampleSite/content/french
+  path: flexpair.com/content/french
   label: All Pages (fr)
   create: all
   match: "**/*"
@@ -147,25 +147,25 @@ sections:
 - type: heading
   label: Configuration
 - type: document
-  path: exampleSite/config/_default/config.toml
+  path: flexpair.com/config/_default/config.toml
   label: Configuration
 - type: document
-  path: exampleSite/config/_default/params.toml
+  path: flexpair.com/config/_default/params.toml
   label: Parameters
 - type: document
   path: config.toml
   label: Variables & Plugins
 - type: document
-  path: exampleSite/config/_default/languages.toml
+  path: flexpair.com/config/_default/languages.toml
   label: Languages
 - type: document
-  path: exampleSite/config/_default/menus.en.toml
+  path: flexpair.com/config/_default/menus.en.toml
   label: Menu (en)
 - type: document
-  path: exampleSite/config/_default/menus.fr.toml
+  path: flexpair.com/config/_default/menus.fr.toml
   label: Menu (fr)
 - type: directory
-  path: exampleSite/i18n
+  path: flexpair.com/i18n
   label: i18n Translations
   create: all
   match: "**/*"
@@ -177,11 +177,11 @@ file_template: ":filename:"
 build:
   preview_env:
   - HUGO_ENV=staging
-  - HUGO_VERSION=0.81.0
+  - HUGO_VERSION=0.89.4
   preview_output_directory: public
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"
   instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
     -d public
-version: 0.81.0
+version: 0.89.4

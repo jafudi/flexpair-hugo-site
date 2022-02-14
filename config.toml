@@ -1,4 +1,4 @@
-# This file is for render site varibles and plugins
+# This file is for render site variables and plugins
 # don't remove this file.
 # The presence of this file is for compatibility with Blogdown and Forestry.
 #
@@ -14,7 +14,10 @@ white = "#ffffff"
 black = "#000000"
 light = "#FAFAFA"
 
-# font variables
+# font variables: font_size and font_scale is pretty new to our themes. 
+# It’s changed the full website font size. learn more about it 
+# https://type-scale.com/. We have added the whole system of font sizes 
+# to our theme. So you can change the font sizes as per your requirement 
 # base font size for full website, 
 font_size = "16px" # default is 16px
 

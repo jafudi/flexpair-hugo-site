@@ -1,13 +1,14 @@
 ---
-date: "2022-01-16"
-title: "What is our Go-To-Market Strategy?"
-image: "images/blog/01.jpg"
-author_info: 
-  name: "Jens F."
-  image: "images/author/jens.png"
-draft: false
----
+date: 2022-01-16
+title: What is our Go-To-Market Strategy?
+image: images/blog/01.jpg
+author_info:
+  name: Jens F.
+  image: images/author/jens.png
+author: jens
+draft: true
 
+---
 ## Carbon dioxide and waste reduction
 
 - we go beyond the obvious "less business travel" argument

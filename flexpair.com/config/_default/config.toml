@@ -1,25 +1,45 @@
-######################## default configuration ####################
+######################## default configuration ################################
 # https://docs.gethugothemes.com/andromeda/basic-configuration/#default-configuration
+
+# Add your site URL here. Remember, you need to add a trailing slash at the
+# end of the URL
 baseURL = "https://flexpair.com/"
+
+# The main title of your website
 title = "Flexpair"
+
 theme = "andromeda-hugo"
-# post pagination
-paginate = "6" # see https://gohugo.io/extras/pagination/
-# post excerpt
-summaryLength = "10" # see https://gohugo.io/content-management/excerpts/
-# google analytics
-googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
-# disqus short name
-disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
-# disable language
-disableLanguages = [] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
-enableRobotsTXT = false
+
+# Set the number of posts shown on blog overview pages. If you have more than
+# this amount of posts, pagination will be visible to navigate the next set of
+# posts. See https://gohugo.io/extras/pagination/
+paginate = "6" # 
+
+# Decides how many words are in excerpts of your posts when they are displayed
+# as a preview. The default summaryLength is 70 words.
+# See https://gohugo.io/content-management/excerpts/
+summaryLength = "10"
+
+# Google analytics example: UA-123-45, for more info, read the article
+# https://support.google.com/analytics/answer/1008080?hl=en
+googleAnalytics = ""
+
+# Add your Disqus shortname to enable comments on the blog section.
+# To install Disqus please follow the following tutorial:
+# https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/.
+disqusShortname = "themefisher-template"
+
+# Disable language: ["fr"] for example disables French language.
+# See https://gohugo.io/content-management/multilingual/
+disableLanguages = []
+
+enableRobotsTXT  = false
 
 ############################# Modules ##############################
 [module]
 [module.hugoVersion]
 extended = true
-min = "0.89.4"
+min      = "0.89.4"
 
 ############################# Outputs ##############################
 [outputs]
@@ -34,17 +54,17 @@ quality = 100
 ############################# Caches ###############################
 [caches]
 [caches.images]
-dir = ":resourceDir/_gen"
+dir    = ":resourceDir/_gen"
 maxAge = "720h"
 
 [caches.assets]
-dir = ":resourceDir/_gen"
+dir    = ":resourceDir/_gen"
 maxAge = "720h"
 
 ############################# Markup ###############################
 [markup]
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
 
 [markup.highlight]
 style = 'monokai' # see https://xyproto.github.io/splash/docs/all.html
@@ -56,10 +76,10 @@ suffixes = ["webmanifest"]
 
 [mediaTypes."text/netlify"]
 delimiter = ""
-suffixes = [""]
+suffixes  = [""]
 
 ############################ Output Format ###########################
 [outputFormats]
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
-rel = "manifest"
+rel       = "manifest"

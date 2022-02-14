@@ -1,13 +1,14 @@
 ---
-date: "2022-01-16"
-title: "Which problem do we solve?"
-image: "images/blog/01.jpg"
-author_info: 
-  name: "Jens F."
-  image: "images/author/jens.png"
+date: 2022-01-16
+title: Which problem do we solve?
+image: images/blog/01.jpg
+author_info:
+  name: Jens F.
+  image: images/author/jens.png
+author: jens
 draft: false
----
 
+---
 ## Problem
 
 Data science has become location-independent. Still it is lacking a meaningful integration of synchronous and asynchronous work steps in one tool.
