@@ -4,7 +4,7 @@ banner:
   title: "The full spectrum 🌈 of collaboration modes in <u>one</u> environment"
   button: "Get FREE Live Demo Now ▶️"
   button_link: "https://demo.flexpair.com/"
-  image: "images/banner-app.png"
+  image: "images/39156-S22021517560.webp"
 
 # Falls ihr schon einen ersten Prototypen, Klick-Dummy oder sonstiges Vorzeigbares habt – her damit! Es ist immer sinnvoll Bilder oder Videos eures Produktes zu zeigen, um eure Lösung und euren Nutzen zu verdeutlichen und mögliche Zweifel zu eliminieren. Hebt die Produkteigenschaften hervor, hinterlasst bleibenden Eindruck und – noch wichtiger – Verständnis für eure Idee.
 
@@ -39,7 +39,7 @@ brands_carousel:
 features:
   enable: true
   subtitle: "Flexpair is a multicloud private hub"
-  title: "for data science, DevOps and creative teams around the globe"
+  title: "for data science, DevOps and creative teams around the 🌏"
   description: "that combines the benefits of agile and hybrid work with a solid foundation of consistency and data privacy. Realtime and asynchronous co-working become seamlessly integrated, even across time zones. No unnecessary context switches will deplete your concentration anymore.</br> </br> "
   features_blocks:
   - icon: "las la-code-branch"
