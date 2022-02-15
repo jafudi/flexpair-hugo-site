@@ -4,7 +4,7 @@ banner:
   title: "The full spectrum 🌈 of collaboration modes in <u>one</u> environment"
   button: "Get FREE Live Demo Now ▶️"
   button_link: "https://demo.flexpair.com/"
-  image: "images/banner-app.png"
+  image: "images/39156-S22021517560.webp"
 
 # Falls ihr schon einen ersten Prototypen, Klick-Dummy oder sonstiges Vorzeigbares habt – her damit! Es ist immer sinnvoll Bilder oder Videos eures Produktes zu zeigen, um eure Lösung und euren Nutzen zu verdeutlichen und mögliche Zweifel zu eliminieren. Hebt die Produkteigenschaften hervor, hinterlasst bleibenden Eindruck und – noch wichtiger – Verständnis für eure Idee.
 
