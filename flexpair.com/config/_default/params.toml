@@ -17,7 +17,7 @@ logo = "images/SyncopateBoldFlexPAIR.svg"
 
 # Defines the width of the logo in pixels. It doesn’t work with .svg file.
 # Use `x` with logo_width, example: "100x"
-logo_width = "240x"
+logo_width = "9999x"
 
 # logo text will only show when logo is missing.
 logo_text = "Flexpair"

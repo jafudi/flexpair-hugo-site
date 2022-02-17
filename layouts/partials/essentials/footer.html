@@ -97,7 +97,7 @@
           {{ with site.Params.social}}
           <ul class="social-links list-inline">
             {{ range .}}
-            <li class="list-inline-item"><a href="{{.link}}" title="{{.title}}">
+            <li class="list-inline-item"><a href="{{.link}}" target="_blank" title="{{.title}}">
               <i class="{{.icon}}"></i>
             </a></li>
             {{end}}
@@ -123,7 +123,7 @@
 
           {{with site.Params.contact_info}}
           <ul class="footer-links list-unstyled">
-            <li><a href="{{.maps_link}}">
+            <li><a href="{{.maps_link}}" target="_blank">
               {{ if fileExists (add `assets/` .address_img) }}
               {{ $address_img:= resources.Get .address_img }}
               <img loading="lazy" decoding="async" class="img-fluid" src="{{$address_img.RelPermalink}}">
