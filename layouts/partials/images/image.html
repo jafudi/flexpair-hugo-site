@@ -46,7 +46,7 @@
 {{ else }}
 
 <!-- image processing for multiple device -->
-{{ $imageFallback:= $image.Resize "1110x" }}
+{{ $imageFallback:= $image }}
 {{ $imageXL:= $image.Resize "1110x webp" }}
 {{ $imageLG:= $image.Resize "700x webp" }}
 {{ $imageMD:= $image.Resize "600x webp" }}
