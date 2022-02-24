@@ -64,7 +64,7 @@
   <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
   <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 991px)">
   <source srcset="{{ $imageXL.RelPermalink }}" media="(max-width: 1571px)">
-  <source srcset="{{ $imageXXL.RelPermalink }}">
+  <source srcset="{{ $imageXXL.RelPermalink }}" media="(max-width: 9999px)">
   <img loading="lazy" decoding="async" class="{{with $class}}{{.}}{{else}}img-fluid flexpair-img{{end}}" src="{{$imageFallback.RelPermalink}}" alt="{{.Alt}}" width="{{$image.Width}}" height="{{$image.Height}}">
 </picture>
 {{ end }} <!-- end image processing -->
