@@ -47,11 +47,13 @@
 
 <!-- image processing for multiple device -->
 {{ $imageFallback:= $image }}
+{{ $imageXXL:= $image.Resize "3006 webp" }}
 {{ $imageXL:= $image.Resize "1110x webp" }}
 {{ $imageLG:= $image.Resize "700x webp" }}
 {{ $imageMD:= $image.Resize "600x webp" }}
 {{ $imageSM:= $image.Resize "545x webp" }}
 {{ if not $webp }}
+{{ $imageXXL = $image.Resize "3006" }}
 {{ $imageXL = $image.Resize "1110x" }}
 {{ $imageLG = $image.Resize "700x" }}
 {{ $imageMD = $image.Resize "600x" }}
@@ -62,6 +64,7 @@
   <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
   <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 991px)">
   <source srcset="{{ $imageXL.RelPermalink }}" media="(max-width: 1571px)">
+  <source srcset="{{ $imageXXL.RelPermalink }}">
   <img loading="lazy" decoding="async" class="{{with $class}}{{.}}{{else}}img-fluid flexpair-img{{end}}" src="{{$imageFallback.RelPermalink}}" alt="{{.Alt}}" width="{{$image.Width}}" height="{{$image.Height}}">
 </picture>
 {{ end }} <!-- end image processing -->
