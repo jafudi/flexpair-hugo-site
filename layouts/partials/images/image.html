@@ -48,23 +48,23 @@
 <!-- image processing for multiple device -->
 {{ $imageFallback:= $image }}
 {{ $imageXXL:= $image.Resize "3006x webp" }}
-{{ $imageXL:= $image.Resize "3006x webp" }}
-{{ $imageLG:= $image.Resize "700x webp" }}
-{{ $imageMD:= $image.Resize "600x webp" }}
+{{ $imageXL:= $image.Resize "1503x webp" }}
+{{ $imageLG:= $image.Resize "800x webp" }}
+{{ $imageMD:= $image.Resize "650x webp" }}
 {{ $imageSM:= $image.Resize "545x webp" }}
 {{ if not $webp }}
 {{ $imageXXL = $image.Resize "3006x" }}
-{{ $imageXL = $image.Resize "3006x" }}
-{{ $imageLG = $image.Resize "700x" }}
-{{ $imageMD = $image.Resize "600x" }}
+{{ $imageXL = $image.Resize "1503x" }}
+{{ $imageLG = $image.Resize "800x" }}
+{{ $imageMD = $image.Resize "650x" }}
 {{ $imageSM = $image.Resize "545x" }}
 {{ end }}
 <picture>
   <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
   <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
   <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 991px)">
-  <source srcset="{{ $imageXL.RelPermalink }}" media="(max-width: 1571px)">
-  <source srcset="{{ $imageXXL.RelPermalink }}" media="(max-width: 9999px)">
+  <source srcset="{{ $imageXL.RelPermalink }}" media="(max-width: 1599px)">
+  <source srcset="{{ $imageXXL.RelPermalink }}" media="(min-width: 1600px)">
   <img loading="lazy" decoding="async" class="{{with $class}}{{.}}{{else}}img-fluid flexpair-img{{end}}" src="{{$imageFallback.RelPermalink}}" alt="{{.Alt}}" width="{{$image.Width}}" height="{{$image.Height}}">
 </picture>
 {{ end }} <!-- end image processing -->
