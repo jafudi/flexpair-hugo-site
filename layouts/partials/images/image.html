@@ -48,13 +48,13 @@
 <!-- image processing for multiple device -->
 {{ $imageFallback:= $image }}
 {{ $imageXXL:= $image.Resize "3006x webp" }}
-{{ $imageXL:= $image.Resize "1110x webp" }}
+{{ $imageXL:= $image.Resize "3006x webp" }}
 {{ $imageLG:= $image.Resize "700x webp" }}
 {{ $imageMD:= $image.Resize "600x webp" }}
 {{ $imageSM:= $image.Resize "545x webp" }}
 {{ if not $webp }}
 {{ $imageXXL = $image.Resize "3006x" }}
-{{ $imageXL = $image.Resize "1110x" }}
+{{ $imageXL = $image.Resize "3006x" }}
 {{ $imageLG = $image.Resize "700x" }}
 {{ $imageMD = $image.Resize "600x" }}
 {{ $imageSM = $image.Resize "545x" }}
