@@ -35,7 +35,7 @@ font_scale = "1.2" # default is "minorThird": 1.2
 
 # go to https://fonts.google.com/ to find the font you want to use. select your font and copy only the bold part from the URL. and paste it here.
 # example: "Work+Sans:wght@400;500;600"
-font_primary =  "Merriweather" # "Poppins:wght@400;500;600"
+font_primary =  "Dosis" # "Poppins:wght@400;500;600"
 font_primary_type = "serif" # [serif/sans-serif]
 font_secondary = "Ubuntu"
 font_secondary_type = "sans-serif"
