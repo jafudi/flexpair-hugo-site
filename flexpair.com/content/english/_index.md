@@ -38,9 +38,9 @@ brands_carousel:
 # Was macht euch und euer Geschäft einzigartig? Bis hierhin sollte es einfach zu verstehen sein, was eure Stärken sind und welche Vorteile ihr bieten könnt. Welche Technologien oder Innovationen setzt ihr ein, die euer Startup einzigartig machen? 
 features:
   enable: true
-  subtitle: ""
-  title: "We help you build diverse hybrid teams around the 🌏"
-  description: "that combines the benefits of agile and hybrid work with a solid foundation of consistency and data privacy. Realtime and asynchronous co-working become seamlessly integrated, even across time zones. No unnecessary context switches will deplete your concentration anymore.</br> </br> "
+  subtitle: "With our multicloud infrastructure-as-code solution"
+  title: "we help you build diverse hybrid teams around the 🌏"
+  description: "Flexapir combines the benefits of agile and hybrid work with a solid foundation of consistency and data privacy. Realtime and asynchronous co-working become seamlessly integrated, even across time zones. No unnecessary context switches will deplete your concentration anymore.</br> </br> "
   features_blocks:
   - icon: "las la-code-branch"
     title: "Fully Reproducible"
