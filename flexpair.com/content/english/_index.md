@@ -1,8 +1,8 @@
 ---
 # banner
 banner:
-  title: "The full spectrum 🌈 of collaboration modes in <u>one</u> environment"
-  button: "Get FREE Live Demo Now 🚀"
+  title: "Bridging the disconnects between DevOps, Data Science and UX Design for global hybrid work"
+  button: "Get a FREE Live Demo Now 🚀"
   button_link: "https://demo.flexpair.com/"
   image: "images/39156-S22021517560.webp"
 
@@ -38,7 +38,7 @@ brands_carousel:
 # Was macht euch und euer Geschäft einzigartig? Bis hierhin sollte es einfach zu verstehen sein, was eure Stärken sind und welche Vorteile ihr bieten könnt. Welche Technologien oder Innovationen setzt ihr ein, die euer Startup einzigartig machen? 
 features:
   enable: true
-  subtitle: "Flexpair is a multicloud private hub"
+  subtitle: "Flexpair is a first principles solution to reuniting Data Science, DevOps and UX Design in the age of hybrid work"
   title: "for data science, DevOps and creative teams around the 🌏"
   description: "that combines the benefits of agile and hybrid work with a solid foundation of consistency and data privacy. Realtime and asynchronous co-working become seamlessly integrated, even across time zones. No unnecessary context switches will deplete your concentration anymore.</br> </br> "
   features_blocks:
