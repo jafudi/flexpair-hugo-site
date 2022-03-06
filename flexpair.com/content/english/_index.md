@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "Bridging the disconnects between DevOps, Data Science and UX Design"
+  title: "We help you build diverse hybrid teams around the 🌏"
   button: "Get a FREE Live Demo Now 🚀"
   button_link: "https://demo.flexpair.com/"
   image: "images/39156-S22021517560.webp"
@@ -39,7 +39,7 @@ brands_carousel:
 features:
   enable: true
   subtitle: "With our multicloud infrastructure-as-code solution"
-  title: "we help you build diverse hybrid teams around the 🌏"
+  title:  "we bridge the disconnects between DevOps, Data Science and UX Design"
   description: "Flexapir combines the benefits of agile and hybrid work with a solid foundation of consistency and data privacy. Realtime and asynchronous co-working become seamlessly integrated, even across time zones. No unnecessary context switches will deplete your concentration anymore.</br> </br> "
   features_blocks:
   - icon: "las la-code-branch"
