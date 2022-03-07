@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "We help you build diverse hybrid data dream teams around the globe 🌏"
+  title: "We help you build diverse hybrid data teams around the globe 🌏"
   button: "Get a FREE Live Demo Now 🚀"
   button_link: "https://demo.flexpair.com/"
   image: "images/39156-S22021517560.webp"
@@ -38,8 +38,8 @@ brands_carousel:
 features:
   enable: true
   subtitle: "Flexpair is a cloud agnostic infrastructure-as-code solution for"
-  title:  "data scientists, DevOps engineers and UX designers, working literally hand-in-hand 🤝 from their (individual) time zones"
-  description: "Flexpair combines the benefits of agile and hybrid work with a solid foundation of consistency and data privacy. Realtime and asynchronous co-working become seamlessly integrated. No unnecessary context switches will deplete your concentration anymore.</br> </br> "
+  title:  "Enabling data scientists, DevOps engineers and UX designers to work literally hand-in-hand 🤝"
+  description: "Realtime co-editing and asynchronous collaboration styles have been seamlessly integrated so that your valuable concentration is not consumed by context switching anymore."
   features_blocks:
   - icon: "las la-code-branch"
     title: "Fully Reproducible"
