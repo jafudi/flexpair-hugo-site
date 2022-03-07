@@ -39,7 +39,7 @@ brands_carousel:
 features:
   enable: true
   subtitle: "Flexpair is a multicloud infrastructure-as-code solution for"
-  title:  "Asynchronous as well as live interaction without the usual disconnects between DevOps, Data Science And UX Design"
+  title:  "consistent yet self-determined interaction between data scientists, DevOps engineers and UX designers"
   description: "Flexapir combines the benefits of agile and hybrid work with a solid foundation of consistency and data privacy. Realtime and asynchronous co-working become seamlessly integrated, even across time zones. No unnecessary context switches will deplete your concentration anymore.</br> </br> "
   features_blocks:
   - icon: "las la-code-branch"
