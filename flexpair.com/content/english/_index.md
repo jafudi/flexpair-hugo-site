@@ -37,8 +37,8 @@ brands_carousel:
 # Was macht euch und euer Geschäft einzigartig? Bis hierhin sollte es einfach zu verstehen sein, was eure Stärken sind und welche Vorteile ihr bieten könnt. Welche Technologien oder Innovationen setzt ihr ein, die euer Startup einzigartig machen? 
 features:
   enable: true
-  subtitle: "Flexpair is a cloud agnostic infrastructure-as-code solution for"
-  title:  "Enabling data scientists, DevOps engineers and UX designers to work literally hand-in-hand 🤝"
+  subtitle: "Flexpair is a cloud agnostic infrastructure-as-code solution"
+  title:  "enabling data scientists, DevOps engineers and UX designers to work literally hand-in-hand 🤝 from anywhere"
   description: "Realtime co-editing as well as asynchronous collaboration styles have been seamlessly integrated into one reproducible environment so that your valuable concentration is not consumed by context switching anymore."
   features_blocks:
   - icon: "las la-code-branch"
