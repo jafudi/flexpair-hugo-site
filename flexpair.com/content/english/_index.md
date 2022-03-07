@@ -39,7 +39,7 @@ features:
   enable: true
   subtitle: "Flexpair is a cloud agnostic infrastructure-as-code solution"
   title:  "enabling data scientists, DevOps engineers and UX designers to work literally hand-in-hand 🤝 from anywhere"
-  description: "Realtime co-editing as well as asynchronous collaboration styles have been seamlessly integrated into one reproducible environment. So your valuable concentration is not depleted by context switching anymore. And everybody stays on the same page enjoying handover sessions for the first time."
+  description: "Realtime co-editing as well as asynchronous collaboration styles have been seamlessly integrated into one reproducible environment. So your valuable concentration is not depleted by annoying context switches anymore. And everybody stays on the same page enjoying handover sessions for the first time. Demonstrate, collaborate, delegate, meditate, repeat."
   features_blocks:
   - icon: "las la-code-branch"
     title: "Fully Reproducible"
