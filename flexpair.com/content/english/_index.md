@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "We help you build diverse hybrid teams around the 🌏"
+  title: "We help you build diverse hybrid data teams around the globe 🌏"
   button: "Get a FREE Live Demo Now 🚀"
   button_link: "https://demo.flexpair.com/"
   image: "images/39156-S22021517560.webp"
