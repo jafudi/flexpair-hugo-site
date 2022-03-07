@@ -23,7 +23,6 @@ brands_carousel:
   - "images/brands/ibm-cloud.png"
   - "images/brands/oracle.png"
   - "images/brands/ovh-cloud.png"
-  - "images/brands/yandex-cloud.png"
   - "images/brands/telekom-cloud.png"
   - "images/brands/dnsimple.png"
   - "images/brands/docker.png"
