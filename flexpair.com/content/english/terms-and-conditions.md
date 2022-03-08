@@ -213,7 +213,7 @@ Die Analysen erfolgen zum Zweck betriebswirtschaftlicher Auswertungen, des Marke
 
 Sofern diese Analysen oder Profile personenbezogen sind, werden sie mit Kündigung der Nutzer gelöscht oder anonymisiert, sonst nach zwei Jahren ab Vertragsschluss. Im Übrigen werden die gesamtbetriebswirtschaftlichen Analysen und allgemeine Tendenzbestimmungen nach Möglichkeit anonym erstellt.
 
-# Erbringung unserer satzungs- und geschäftsgemäßen Leistungen
+#### Erbringung unserer satzungs- und geschäftsgemäßen Leistungen
 
 Wir verarbeiten die Daten unserer Mitglieder, Unterstützer, Interessenten, Kunden oder sonstiger Personen entsprechend Art. 6 Abs. 1 lit. b. DSGVO, sofern wir ihnen gegenüber vertragliche Leistungen anbieten oder im Rahmen bestehender geschäftlicher Beziehung, z.B. gegenüber Mitgliedern, tätig werden oder selbst Empfänger von Leistungen und Zuwendungen sind. Im Übrigen verarbeiten wir die Daten betroffener Personen gem. Art. 6 Abs. 1 lit. f. DSGVO auf Grundlage unserer berechtigten Interessen, z.B. wenn es sich um administrative Aufgaben oder Öffentlichkeitsarbeit handelt.
 
@@ -221,7 +221,7 @@ Die hierbei verarbeiteten Daten, die Art, der Umfang und der Zweck und die Erfor
 
 Wir löschen Daten, die zur Erbringung unserer satzungs- und geschäftsmäßigen Zwecke nicht mehr erforderlich sind. Dies bestimmt sich entsprechend der jeweiligen Aufgaben und vertraglichen Beziehungen. Im Fall geschäftlicher Verarbeitung bewahren wir die Daten so lange auf, wie sie zur Geschäftsabwicklung, als auch im Hinblick auf etwaige Gewährleistungs- oder Haftungspflichten relevant sein können. Die Erforderlichkeit der Aufbewahrung der Daten wird alle drei Jahre überprüft; im Übrigen gelten die gesetzlichen Aufbewahrungspflichten.
 
-# Datenschutzhinweise im Bewerbungsverfahren
+#### Datenschutzhinweise im Bewerbungsverfahren
 
 Wir verarbeiten die Bewerberdaten nur zum Zweck und im Rahmen des Bewerbungsverfahrens im Einklang mit den gesetzlichen Vorgaben. Die Verarbeitung der Bewerberdaten erfolgt zur Erfüllung unserer (vor)vertraglichen Verpflichtungen im Rahmen des Bewerbungsverfahrens im Sinne des Art. 6 Abs. 1 lit. b. DSGVO Art. 6 Abs. 1 lit. f. DSGVO sofern die Datenverarbeitung z.B. im Rahmen von rechtlichen Verfahren für uns erforderlich wird (in Deutschland gilt zusätzlich § 26 BDSG).
 
@@ -357,7 +357,7 @@ Wir setzen Adsense mit personalisierten Anzeigen ein. Dabei zieht Google auf Gru
 
 Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten, erfahren Sie in der Datenschutzerklärung von Google (https://policies.google.com/technologies/ads) sowie in den Einstellungen für die Darstellung von Werbeeinblendungen durch Google (https://adssettings.google.com/authenticated).
 
-# Google AdWords und Conversion-Messung
+#### Google AdWords und Conversion-Messung
 
 Wir nutzen auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) die Dienste der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, („Google“).
 
@@ -416,7 +416,7 @@ Wir binden die Landkarten des Dienstes “Google Maps” des Anbieters Google Ir
 
 Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes Xing, angeboten durch die XING AG, Dammtorstraße 29-32, 20354 Hamburg, Deutschland, eingebunden werden. Hierzu können z.B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Inhalte dieses Onlineangebotes innerhalb von Xing teilen können. Sofern die Nutzer Mitglieder der Plattform Xing sind, kann Xing den Aufruf der o.g. Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen. Datenschutzerklärung von Xing: https://privacy.xing.com/de/datenschutzerklaerung.
 
-### LinkedIn
+#### LinkedIn
 
 Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes LinkedIn, angeboten durch die LinkedIn Ireland Unlimited Company Wilton Place, Dublin 2, Irland, eingebunden werden. Hierzu können z.B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Inhalte dieses Onlineangebotes innerhalb von LinkedIn teilen können. Sofern die Nutzer Mitglieder der Plattform LinkedIn sind, kann LinkedIn den Aufruf der o.g. Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen. Datenschutzerklärung von LinkedIn: https://www.linkedin.com/legal/privacy-policy.. LinkedIn ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0&status=Active). Datenschutzerklärung: https://www.linkedin.com/legal/privacy-policy, Opt-Out: https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out.
 
