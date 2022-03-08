@@ -79,7 +79,7 @@ our_team:
 our_office:
   enable: true
   subtitle: "Our Locations"
-  title: "Made with Love around the world With Many Offices"
+  title: "Made Local, Going Global"
   description: "We are hiring!"
   office_locations:
   - city: "Heidelberg"
