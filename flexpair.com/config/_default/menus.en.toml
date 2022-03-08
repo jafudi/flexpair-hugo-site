@@ -26,35 +26,35 @@ weight = 9
 name = "Pages"
 hasChildren = true
 
-  [[main]]
-  parent = "Pages"
-  name = "Career"
-  url = "career/"
-  weight = 1
+#   [[main]]
+#   parent = "Pages"
+#   name = "Career"
+#   url = "career/"
+#   weight = 1
 
-  [[main]]
-  parent = "Pages"
-  name = "Pricing"
-  url = "pricing/"
-  weight = 2
+#   [[main]]
+#   parent = "Pages"
+#   name = "Pricing"
+#   url = "pricing/"
+#   weight = 2
 
-  [[main]]
-  parent = "Pages"
-  name = "Job Details"
-  url = "career/job-post-1/"
-  weight = 5
+#   [[main]]
+#   parent = "Pages"
+#   name = "Job Details"
+#   url = "career/job-post-1/"
+#   weight = 5
 
-  [[main]]
-  parent = "Pages"
-  name = "Case Studies"
-  url = "case-studies/"
-  weight = 6
+#   [[main]]
+#   parent = "Pages"
+#   name = "Case Studies"
+#   url = "case-studies/"
+#   weight = 6
 
-  [[main]]
-  parent = "Pages"
-  name = "Case Studies Details"
-  url = "case-studies/case-1/"
-  weight = 7
+#   [[main]]
+#   parent = "Pages"
+#   name = "Case Studies Details"
+#   url = "case-studies/case-1/"
+#   weight = 7
 
   [[main]]
   parent = "Pages"
@@ -62,23 +62,23 @@ hasChildren = true
   url = "terms-and-conditions/"
   weight = 8
 
-  [[main]]
-  parent = "Pages"
-  name = "Changelog"
-  url = "changelog/"
-  weight = 9
+#   [[main]]
+#   parent = "Pages"
+#   name = "Changelog"
+#   url = "changelog/"
+#   weight = 9
 
-  [[main]]
-  parent = "Pages"
-  name = "Sign In"
-  url = "signin/"
-  weight = 10
+#   [[main]]
+#   parent = "Pages"
+#   name = "Sign In"
+#   url = "signin/"
+#   weight = 10
 
-  [[main]]
-  parent = "Pages"
-  name = "Elements"
-  url = "elements/"
-  weight = 11
+#   [[main]]
+#   parent = "Pages"
+#   name = "Elements"
+#   url = "elements/"
+#   weight = 11
   
 [[main]]
 name = "Contact"
