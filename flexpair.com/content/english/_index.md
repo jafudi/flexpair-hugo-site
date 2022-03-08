@@ -1,8 +1,8 @@
 ---
 # banner
 banner:
-  title: "The full spectrum 🌈 of collaboration modes in <u>one</u> environment"
-  button: "Get FREE Live Demo Now 🚀"
+  title: "We help you build diverse hybrid data teams around the globe 🌏"
+  button: "Get a FREE Live Demo Now 🚀"
   button_link: "https://demo.flexpair.com/"
   image: "images/39156-S22021517560.webp"
 
@@ -23,7 +23,6 @@ brands_carousel:
   - "images/brands/ibm-cloud.png"
   - "images/brands/oracle.png"
   - "images/brands/ovh-cloud.png"
-  - "images/brands/yandex-cloud.png"
   - "images/brands/telekom-cloud.png"
   - "images/brands/dnsimple.png"
   - "images/brands/docker.png"
@@ -38,16 +37,16 @@ brands_carousel:
 # Was macht euch und euer Geschäft einzigartig? Bis hierhin sollte es einfach zu verstehen sein, was eure Stärken sind und welche Vorteile ihr bieten könnt. Welche Technologien oder Innovationen setzt ihr ein, die euer Startup einzigartig machen? 
 features:
   enable: true
-  subtitle: "Flexpair is a multicloud private hub"
-  title: "for data science, DevOps and creative teams around the 🌏"
-  description: "that combines the benefits of agile and hybrid work with a solid foundation of consistency and data privacy. Realtime and asynchronous co-working become seamlessly integrated, even across time zones. No unnecessary context switches will deplete your concentration anymore.</br> </br> "
+  subtitle: "Flexpair is a cloud agnostic infrastructure-as-code solution"
+  title:  "enabling data scientists, DevOps engineers and UX designers to work literally hand-in-hand 🤝 from anywhere"
+  description: "Realtime co-editing as well as asynchronous collaboration styles have been seamlessly integrated into one reproducible environment. So your valuable concentration is not depleted by annoying context switches anymore. And everybody stays on the same page enjoying handover sessions for the first time. Demonstrate, collaborate, delegate, meditate, repeat."
   features_blocks:
   - icon: "las la-code-branch"
     title: "Fully Reproducible"
     content: "Flexpair is a Git controlled staging environment that you can replicate at the push of a button for each new feature branch, including all software packages that your project depends on (infrastructure-as-code)."
   - icon: "las la-share-alt"
     title: "Hybrid & Multicloud"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: "We are not tied to a particular cloud provider. You could even deploy Flexpair to your own infrastructure."
   - icon: "las la-handshake"
     title: "Transparent Pricing"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
@@ -56,10 +55,10 @@ features:
     content: "With audio conferencing and mouse sharing built right into this collaborative cloud desktop, task handovers as well as review sessions have never been that interactive."
   - icon: "las la-key"
     title: "Respect for Privacy"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: "Flexpair offers the same privacy you have in a hotel room. Unlike many other SaaS tools which behave more like a video-monitored train station. While they probably do not record the content of your conversations, it is completely out of your control who will see you interacting with whom."
   - icon: "las la-ribbon"
     title: "Diversity Friendly"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: "High internet bandwidth, personal mobility and fixed working times are not a limiting factor."
   - icon: "las la-leaf"
     title: "Resource Efficient"
     content: "Simply scale up and down as needed—across all major cloud providers."
@@ -83,7 +82,7 @@ how_it_works:
 
 # testimonials
 testimonials:   
-  enable: true
+  enable: false
   subtitle: "Our Testimonials"
   title: "Don't take our word for it"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
