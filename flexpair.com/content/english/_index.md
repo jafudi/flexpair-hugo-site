@@ -49,7 +49,7 @@ features:
     content: "We are not tied to a particular cloud provider. You could even deploy Flexpair to your own infrastructure."
   - icon: "las la-handshake"
     title: "Transparent Pricing"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: "Pay per deployment."
   - icon: "las la-random"
     title: "Live or Asynchronous"
     content: "With audio conferencing and mouse sharing built right into this collaborative cloud desktop, task handovers as well as review sessions have never been that interactive."
