@@ -1,7 +1,7 @@
 ---
 date: 2022-02-11
 title: How does our road map look like? Which clouds do we plan to expand to?
-image: images/blog/02.jpg
+image: images/blog/IMG_6252.jpg
 author_info:
   name: Jens F.
   image: images/author/jens.png

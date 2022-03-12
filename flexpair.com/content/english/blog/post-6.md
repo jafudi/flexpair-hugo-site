@@ -1,7 +1,7 @@
 ---
 date: 2022-01-16
 title: What is our Go-To-Market Strategy?
-image: images/blog/01.jpg
+image: images/blog/pexels-fauxels-3184292.jpg
 author_info:
   name: Jens F.
   image: images/author/jens.png

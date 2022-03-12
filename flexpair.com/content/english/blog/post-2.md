@@ -1,7 +1,7 @@
 ---
 date: 2022-02-09
 title: Being multicloud, Flexpair helps against cloud vendor lock-in
-image: images/blog/02.jpg
+image: images/blog/IMG_6251.jpg
 author_info:
   name: Jens F.
   image: images/author/jens.png
