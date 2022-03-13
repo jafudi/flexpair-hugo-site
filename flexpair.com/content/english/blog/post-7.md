@@ -1,12 +1,12 @@
 ---
 date: 2022-02-18
 title: How does working with Flexpair feel like?
-image: images/blog/01.jpg
+image: images/blog/IMG_6242.jpg
 author_info:
   name: Jens F.
   image: images/author/jens.png
 author: jens
-draft: true
+draft: false
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: 2022-01-16
 title: How does Flexpair compare to competitors?
-image: images/blog/01.jpg
+image: "images/blog/2022-03-13_1.jpeg"
 author_info:
   name: Jens F.
   image: images/author/jens.png

@@ -67,7 +67,7 @@ our_team:
   - name: "Jens"
     image: "images/about/team/jens.png"
     designation: "Future Founder / Head of Digital"
-  - name: "Yayoi"
+  - name: "Yoyo"
     image: "images/about/team/yayoi.png"
     designation: "Head of Analog / Chief Designer"
   - name: "Could be You"
