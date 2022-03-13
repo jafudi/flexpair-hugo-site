@@ -1,7 +1,7 @@
 ---
 date: 2021-01-13
 title: What market size do we expect?
-image: images/blog/pexels-john-guccione-wwwadvergroupcom-3483098.jpg
+image: images/blog/IMG_6251.jpg
 author_info:
   name: Jens F.
   image: images/author/jens.png

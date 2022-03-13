@@ -1,12 +1,12 @@
 ---
 date: 2022-01-16
 title: What is our Go-To-Market Strategy?
-image: images/blog/pexels-fauxels-3184292.jpg
+image: images/blog/IMG_6242.jpg
 author_info:
   name: Jens F.
   image: images/author/jens.png
 author: jens
-draft: true
+draft: false
 
 ---
 ## Carbon dioxide and waste reduction
