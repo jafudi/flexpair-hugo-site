@@ -12,7 +12,7 @@ who_we_are:
   title: "Hello, We're Flexpair Here for your Help"
   description: "With over 8 years of [data science experience](https://de.linkedin.com/in/fielenbach) under our belts, we understand that the success of these projects hinges on efficiently sharing work packages between coworkers before jointly delivering them to the client."
 
-  image: "images/about/01.jpg"
+  image: "images/about/osterglocken.jpeg"
 
 # what_we_do
 what_we_do:
@@ -37,7 +37,7 @@ our_mission:
   title: "Main Vision And Mission Of Our Company"
   description: "We were freelance designers and developers, constantly finding ourselve deep vague feedback. leaving a notes from the sticky note piece ."
 
-  image: "images/about/02.jpg"
+  image: "images/about/osterglocken.jpeg"
 
 # about_video
 about_video:
