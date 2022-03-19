@@ -13,6 +13,20 @@
           <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="cobtact image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
           {{end}}
         </div>
+        {{with site.Params.contact_info.phone}}
+        <div class="col-xl-3 col-lg-4 col-md-6 contact-widget" data-aos="fade-up">
+          <div class="block text-center">
+            <h3 class="mb-4">{{i18n `phone`}}</h3>
+            <ul class="list-unstyled">
+              {{range .}}
+              {{if .}}
+              <li><a href="tel:{{.}}"><i class="las la-phone"></i>{{.}}</a></li>
+              {{end}}
+              {{end}}
+            </ul>
+          </div>
+        </div>
+        {{end}}
       </div>
       <div class="col-lg-5 col-md-10" data-aos="fade-up">
         <div class="contact-form">
