@@ -1168,6 +1168,8 @@
 
 .contact-widget {
   margin-top: 1.875rem;
+  display: flex;
+  justify-content: center;
   .block {
     padding: 2.8rem 1.5rem;
     border-radius: 0.75rem;
