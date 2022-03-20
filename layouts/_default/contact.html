@@ -6,7 +6,7 @@
   <div class="container">
     <div class="row justify-content-center align-items-center">
       <div class="col-lg-5 col-md-8 mb-5 mb-lg-0" data-aos="fade-up">
-        <div class="contact-form contact-widget">
+        <div class="contact-form">
           <div class="mb-4">
             <h3>{{i18n `phone`}}</h3>
           </div>
@@ -17,7 +17,7 @@
             <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="cobtact image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
             {{end}}
           </div>
-          <div class="block">
+          <div class="contact-widget">
             {{with site.Params.contact_info.phone}}
             <ul class="list-unstyled">
               {{range .}}
