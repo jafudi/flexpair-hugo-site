@@ -68,7 +68,7 @@
   translation: Company Size
   
 - id: send_a_message
-  translation: Send A Message
+  translation: Send us A Message
   
 - id: send_message
   translation: Send Message
@@ -80,7 +80,7 @@
   translation: Your Message
   
 - id: phone
-  translation: Phone
+  translation: Call our phone support
   
 - id: contact_us
   translation: Contact us
