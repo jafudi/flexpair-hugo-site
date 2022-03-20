@@ -55,11 +55,11 @@ hasChildren = true
 #   url = "case-studies/case-1/"
 #   weight = 7
 
-[[main]]
-parent = "Pages"
-name   = "Terms & Conditions"
-url    = "terms-and-conditions/"
-weight = 8
+# [[main]]
+# parent = "Pages"
+# name   = "Terms & Conditions"
+# url    = "terms-and-conditions/"
+# weight = 8
 
 #   [[main]]
 #   parent = "Pages"
@@ -73,11 +73,11 @@ weight = 8
 #   url = "signin/"
 #   weight = 10
 
-#   [[main]]
-#   parent = "Pages"
-#   name = "Elements"
-#   url = "elements/"
-#   weight = 11
+[[main]]
+parent = "Pages"
+name   = "Elements"
+url    = "elements/"
+weight = 11
 
 [[main]]
 name   = "Contact"
