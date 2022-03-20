@@ -29,12 +29,14 @@
 <!-- cdn image figure -->
 {{ if $caption }}
 <figure class="{{.Scratch.Get `position`}}" role="group" aria-describedby="caption-{{ $caption | markdownify }}">
-  <img title="{{$title}}" loading="lazy" decoding="async" src="{{ $imagePath | absURL }}" alt="{{ $alt }}" class="{{$class}}" width="{{$width}}" height="{{$height}}">
+  <img title="{{$title}}" loading="lazy" decoding="async" src="{{ $imagePath | absURL }}" alt="{{ $alt }}"
+    class="{{$class}}" width="{{$width}}" height="{{$height}}">
   <figcaption id="caption-{{ $caption | markdownify }}">{{$caption | markdownify}}</figcaption>
 </figure>
 {{ else }}
 <!-- cdn image tag -->
-<img title="{{$title}}" loading="lazy" decoding="async" src="{{ $imagePath | absURL }}" alt="{{ $alt }}" class="{{$class}} {{.Scratch.Get `position`}}" width="{{$width}}" height="{{$height}}">
+<img title="{{$title}}" loading="lazy" decoding="async" src="{{ $imagePath | absURL }}" alt="{{ $alt }}"
+  class="{{$class}} {{.Scratch.Get `position`}}" width="{{$width}}" height="{{$height}}">
 {{ end }}
 <!-- /cdn image -->
 
@@ -77,11 +79,15 @@
 {{ else }}
 
 <!-- image processing -->
-{{ $options:= add (add (add (add (string ($width | default $imageWidth)) "x") (string ($height | default $imageHeight))) " webp ") (string $option) }}
+{{ $options:= add (add (add (add (string ($width | default $imageWidth)) "x") (string ($height | default $imageHeight)))
+" webp ") (string $option) }}
 
-{{ if eq $webp "false" }} <!-- if webp false -->
-{{ $options = add (add (add (add (string ($width | default $imageWidth)) "x") (string ($height | default $imageHeight))) " ") (string $option) }}
-{{ end }} <!-- end -->
+{{ if eq $webp "false" }}
+<!-- if webp false -->
+{{ $options = add (add (add (add (string ($width | default $imageWidth)) "x") (string ($height | default $imageHeight)))
+" ") (string $option) }}
+{{ end }}
+<!-- end -->
 
 <!-- image Fit -->
 {{ if eq $command `Fit` }}
@@ -103,12 +109,16 @@
 <!-- image figure -->
 {{ if $caption }}
 <figure class="{{.Scratch.Get `position`}}" role="group" aria-describedby="caption-{{ $caption | markdownify }}">
-  <img title="{{$title}}" loading="lazy" decoding="async" class="{{$class}}" width="{{$width | default $imageWidth }}" height="{{$height | default $imageHeight}}" src="{{.Scratch.Get `image`}}" alt="{{$alt}}" onerror="this.onerror='null';this.src='{{.Scratch.Get `fallback`}}'">
+  <img title="{{$title}}" loading="lazy" decoding="async" class="{{$class}}" width="{{$width | default $imageWidth }}"
+    height="{{$height | default $imageHeight}}" src="{{.Scratch.Get `image`}}" alt="{{$alt}}"
+    onerror="this.onerror='null';this.src='{{.Scratch.Get `fallback`}}'">
   <figcaption id="caption-{{ $caption | markdownify }}">{{$caption | markdownify}}</figcaption>
 </figure>
 {{ else }}
 <!-- image tag -->
-<img title="{{$title}}" loading="lazy" decoding="async" class="{{$class}} {{.Scratch.Get `position`}}" width="{{$width | default $imageWidth }}" height="{{$height | default $imageHeight}}" src="{{.Scratch.Get `image`}}" alt="{{$alt}}" onerror="this.onerror='null';this.src='{{.Scratch.Get `fallback`}}'">
+<img title="{{$title}}" loading="lazy" decoding="async" class="{{$class}} {{.Scratch.Get `position`}}"
+  width="{{$width | default $imageWidth }}" height="{{$height | default $imageHeight}}" src="{{.Scratch.Get `image`}}"
+  alt="{{$alt}}" onerror="this.onerror='null';this.src='{{.Scratch.Get `fallback`}}'">
 {{ end }}
 
 {{ else }}

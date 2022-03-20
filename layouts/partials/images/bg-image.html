@@ -5,7 +5,8 @@
 {{ $webp:= .Webp | default true }}
 
 {{ if or (hasPrefix $imagePath "http") (fileExists (add `static/` (string $imagePath))) }}
-style="background-image: url({{ $imagePath | absURL }});background-size: {{$size}};background-position: {{$position}};background-repeat: {{$repeat}};"
+style="background-image: url({{ $imagePath | absURL }});background-size: {{$size}};background-position:
+{{$position}};background-repeat: {{$repeat}};"
 
 {{ else }}
 
@@ -17,11 +18,13 @@ style="background-image: url({{ $imagePath | absURL }});background-size: {{$size
 {{ $defaultSize:= add (add $width "x") $height }}
 {{ $imageWebp:= $image.Resize (add $defaultSize " webp") }}
 
-style="background-image: url({{ $imageWebp.RelPermalink }});background-size: {{$size}};background-position: {{$position}};background-repeat: {{$repeat}};"
+style="background-image: url({{ $imageWebp.RelPermalink }});background-size: {{$size}};background-position:
+{{$position}};background-repeat: {{$repeat}};"
 
 {{ else }}
 
-style="background-image: url({{ $image.RelPermalink }});background-size: {{$size}};background-position: {{$position}};background-repeat: {{$repeat}};"
+style="background-image: url({{ $image.RelPermalink }});background-size: {{$size}};background-position:
+{{$position}};background-repeat: {{$repeat}};"
 
 {{ end }}
 
