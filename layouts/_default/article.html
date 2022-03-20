@@ -27,9 +27,11 @@
             {{ $img:= resources.Get (.Params.image) }}
             {{ $img:= $img.Fill "70x70" }}
             {{ $imgWebp:= $img.Fill "70x70 webp" }}
-            <img loading="lazy" decoding="async" class="rounded-circle" src="{{ $imgWebp.RelPermalink }}" alt="author image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+            <img loading="lazy" decoding="async" class="rounded-circle" src="{{ $imgWebp.RelPermalink }}"
+              alt="author image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
             {{ else if .Params.Email }}
-            <img loading="lazy" decoding="async" class="rounded-circle" src="https://www.gravatar.com/avatar/{{ md5 . }}?s=70&pg&d=identicon">
+            <img loading="lazy" decoding="async" class="rounded-circle"
+              src="https://www.gravatar.com/avatar/{{ md5 . }}?s=70&pg&d=identicon">
             {{ end }}
           </a>
         </div>

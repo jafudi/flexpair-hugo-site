@@ -14,7 +14,9 @@
             {{ if fileExists (add `assets/` .Params.contact_image) }}
             {{$img:= resources.Get .Params.contact_image }}
             {{$img:= $img.Resize "575x"}}
-            <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="cobtact image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+            <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}"
+              src="{{$img.RelPermalink}}" alt="cobtact image"
+              onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
             {{end}}
           </div>
           <div class="contact-widget">
@@ -39,18 +41,21 @@
             <p id="form-status" class="form-status"></p>
             <div class="form-group">
               <label for="name">{{i18n `full_name`}}</label>
-              <input class="form-control shadow-none" id="name" name="{{i18n `full_name`}}" type="text" placeholder="{{i18n `full_name`}}" required>
+              <input class="form-control shadow-none" id="name" name="{{i18n `full_name`}}" type="text"
+                placeholder="{{i18n `full_name`}}" required>
             </div>
             <div class="form-group">
               <label for="email">{{i18n `email`}}</label>
-              <input class="form-control shadow-none" id="email" name="{{i18n `email`}}" type="email" placeholder="{{i18n `email`}}" required>
+              <input class="form-control shadow-none" id="email" name="{{i18n `email`}}" type="email"
+                placeholder="{{i18n `email`}}" required>
             </div>
             <div class="form-group">
               <label for="message">{{i18n `your_message`}}</label>
               <textarea class="form-control shadow-none" id="message" name="Comment" rows="4" required></textarea>
             </div>
 
-            <button class="btn btn-primary w-100 mt-4" type="submit" aria-label="Send Message">{{i18n `send_message`}}</button>
+            <button class="btn btn-primary w-100 mt-4" type="submit" aria-label="Send Message">{{i18n
+              `send_message`}}</button>
           </form>
         </div>
       </div>
