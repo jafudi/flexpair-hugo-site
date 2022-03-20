@@ -8,7 +8,7 @@ our_values:
   enable: true
   subtitle: "Our Values"
   title: "Discover Yourself Newly With Our Platform"
-  description: "We were freelance designers and developers, constantly finding ourselve deep vague feedback. This made every client and team leaving a notes from the sticky note on a piece of paper?"
+  description: "We were freelance designers and developers, constantly finding ourselves deep vague feedback. This made every client and team leaving a notes from the sticky note on a piece of paper?"
 
   button_link: "#open-position"
   button_label: "View Open Positions"
@@ -21,7 +21,7 @@ benefit:
   enable: true
   subtitle: "Your Benefits"
   title: "Live Your Best Life"
-  description: "We were freelance designers developders, constantly finding <br> ourselve deep vague feedback. This made every client and team"
+  description: "We were freelance designers developers, constantly finding <br> ourselves deep vague feedback. This made every client and team"
 
   benefits:
   - title: "Annual travel and credit Too"

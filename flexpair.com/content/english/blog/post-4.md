@@ -56,6 +56,7 @@ draft: false
 - Public IP address attribute: `access_ip_v4`
 
 ### Digital Ocean
+
 - 11 cities
 - Only approved accelerators
 - `digitalocean_droplet` ([Verified API](https://registry.terraform.io/providers/digitalocean/digitalocean/latest/docs/resources/droplet))

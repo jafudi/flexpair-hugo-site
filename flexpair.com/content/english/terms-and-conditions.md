@@ -29,7 +29,7 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 
 Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
-Quelle: https://www.e-recht24.de
+Quelle: <https://www.e-recht24.de>
 
 ### Datenschutzerklärung
 
@@ -188,7 +188,7 @@ Die Löschung der Daten erfolgt, wenn die Daten zur Erfüllung vertraglicher ode
 
 #### Externe Zahlungsdienstleister
 
-Wir setzen externe Zahlungsdienstleister ein, über deren Plattformen die Nutzer und wir Zahlungstransaktionen vornehmen können (z.B., jeweils mit Link zur Datenschutzerklärung, Paypal (https://www.paypal.com/de/webapps/mpp/ua/privacy-full), Klarna (https://www.klarna.com/de/datenschutz/), Skrill (https://www.skrill.com/de/fusszeile/datenschutzrichtlinie/), Giropay (https://www.giropay.de/rechtliches/datenschutz-agb/), Visa (https://www.visa.de/datenschutz), Mastercard (https://www.mastercard.de/de-de/datenschutz.html), American Express (https://www.americanexpress.com/de/content/privacy-policy-statement.html)
+Wir setzen externe Zahlungsdienstleister ein, über deren Plattformen die Nutzer und wir Zahlungstransaktionen vornehmen können (z.B., jeweils mit Link zur Datenschutzerklärung, Paypal (<https://www.paypal.com/de/webapps/mpp/ua/privacy-full>), Klarna (<https://www.klarna.com/de/datenschutz/>), Skrill (<https://www.skrill.com/de/fusszeile/datenschutzrichtlinie/>), Giropay (<https://www.giropay.de/rechtliches/datenschutz-agb/>), Visa (<https://www.visa.de/datenschutz>), Mastercard (<https://www.mastercard.de/de-de/datenschutz.html>), American Express (<https://www.americanexpress.com/de/content/privacy-policy-statement.html>)
 
 Im Rahmen der Erfüllung von Verträgen setzen wir die Zahlungsdienstleister auf Grundlage des Art. 6 Abs. 1 lit. b. DSGVO ein. Im Übrigen setzen wir externe Zahlungsdienstleister auf Grundlage unserer berechtigten Interessen gem. Art. 6 Abs. 1 lit. f. DSGVO ein, um unseren Nutzern effektive und sichere Zahlungsmöglichkeit zu bieten.
 
@@ -254,11 +254,11 @@ Im Rahmen der Inanspruchnahme unserer Registrierungs- und Anmeldefunktionen sowi
 
 #### DISQUS-Kommentarfunktion
 
-Wir setzen auf Grundlage unserer berechtigten Interessen an einer effizienten, sicheren und nutzerfreundlichen Kommentarverwaltung gem. Art. 6 Abs. 1 lit. f. DSGVO den Kommentardienst DISQUS, angeboten von der DISQUS, Inc., 301 Howard St, Floor 3 San Francisco, California- 94105, USA, ein. DISQUS ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten: https://www.privacyshield.gov/participant?id=a2zt0000000TRkEAAW&status=Active.
+Wir setzen auf Grundlage unserer berechtigten Interessen an einer effizienten, sicheren und nutzerfreundlichen Kommentarverwaltung gem. Art. 6 Abs. 1 lit. f. DSGVO den Kommentardienst DISQUS, angeboten von der DISQUS, Inc., 301 Howard St, Floor 3 San Francisco, California- 94105, USA, ein. DISQUS ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten: <https://www.privacyshield.gov/participant?id=a2zt0000000TRkEAAW&status=Active>.
 
 Zur Nutzung der DISQUS Kommentarfunktion können Nutzer sich über ein eigenes DISQUS-Nutzer-Konto oder einen bestehende Social-Media-Konten (z.B. OpenID, Facebook, Twitter oder Google) anmelden. Hierbei werden die Anmeldedaten der Nutzer durch DISQUS von den Plattformen bezogen. Es ist ebenfalls möglich, die DISQUS-Kommentarfunktion als Gast, ohne Erstellung oder Verwendung Nutzerkontos bei DISQUS oder einem der angegebenen Social-Media-Anbieter, zu nutzen.
 
-Wir betten lediglich DISQUS mit seinen Funktionen in unsere Website ein, wobei wir auf die Kommentare der Nutzer Einfluss nehmen können. Die Nutzer treten jedoch in eine unmittelbare Vertragsbeziehung mit DISQUS, in deren Rahmen DISQUS die Kommentare der Nutzer verarbeitet und ein Ansprechpartner für etwaige Löschung der Daten der Nutzer ist. Wir verweisen hierbei auf die Datenschutzerklärung von DISQUS: https://help.disqus.com/terms-and-policies/disqus-privacy-policy und weisen die Nutzer ebenfalls darauf hin, dass sie davon ausgehen können, dass DISQUS neben dem Kommentarinhalt auch deren IP-Adresse und den Zeitpunkt des Kommentars speichert sowie Cookies auf den Rechnern der Nutzer speichert und zur Darstellung von Werbung nutzen kann. Nutzer können jedoch der Verarbeitung ihrer Daten zwecks Darstellung von Anzeigen widersprechen: https://disqus.com/data-sharing-settings.
+Wir betten lediglich DISQUS mit seinen Funktionen in unsere Website ein, wobei wir auf die Kommentare der Nutzer Einfluss nehmen können. Die Nutzer treten jedoch in eine unmittelbare Vertragsbeziehung mit DISQUS, in deren Rahmen DISQUS die Kommentare der Nutzer verarbeitet und ein Ansprechpartner für etwaige Löschung der Daten der Nutzer ist. Wir verweisen hierbei auf die Datenschutzerklärung von DISQUS: <https://help.disqus.com/terms-and-policies/disqus-privacy-policy> und weisen die Nutzer ebenfalls darauf hin, dass sie davon ausgehen können, dass DISQUS neben dem Kommentarinhalt auch deren IP-Adresse und den Zeitpunkt des Kommentars speichert sowie Cookies auf den Rechnern der Nutzer speichert und zur Darstellung von Werbung nutzen kann. Nutzer können jedoch der Verarbeitung ihrer Daten zwecks Darstellung von Anzeigen widersprechen: <https://disqus.com/data-sharing-settings>.
 
 #### Kommentare und Beiträge
 
@@ -274,7 +274,7 @@ Die im Rahmen der Kommentare und Beiträge mitgeteilte Informationen zur Person,
 
 Unser Onlineangebot nutzt den Dienst „Akismet“, der von der Automattic Inc., 60 29th Street #343, San Francisco, CA 94110, USA, angeboten wird. Die Nutzung erfolgt auf Grundlage unserer berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f) DSGVO. Mit Hilfe dieses Dienstes werden Kommentare echter Menschen von Spam-Kommentaren unterschieden. Dazu werden alle Kommentarangaben an einen Server in den USA verschickt, wo sie analysiert und für Vergleichszwecke vier Tage lang gespeichert werden. Ist ein Kommentar als Spam eingestuft worden, werden die Daten über diese Zeit hinaus gespeichert. Zu diesen Angaben gehören der eingegebene Name, die Emailadresse, die IP-Adresse, der Kommentarinhalt, der Referrer, Angaben zum verwendeten Browser sowie dem Computersystem und die Zeit des Eintrags.
 
-Nähere Informationen zur Erhebung und Nutzung der Daten durch Akismet finden sich in den Datenschutzhinweisen von Automattic: https://automattic.com/privacy/.
+Nähere Informationen zur Erhebung und Nutzung der Daten durch Akismet finden sich in den Datenschutzhinweisen von Automattic: <https://automattic.com/privacy/>.
 
 Nutzer können gerne Pseudonyme nutzen, oder auf die Eingabe des Namens oder der Emailadresse verzichten. Sie können die Übertragung der Daten komplett verhindern, indem Sie unser Kommentarsystem nicht nutzen. Das wäre schade, aber leider sehen wir sonst keine Alternativen, die ebenso effektiv arbeiten.
 
@@ -324,15 +324,15 @@ Logfile-Informationen werden aus Sicherheitsgründen (z.B. zur Aufklärung von M
 
 Wir setzen auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) Google Analytics, einen Webanalysedienst der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland („Google“) ein. Google verwendet Cookies. Die durch das Cookie erzeugten Informationen über Benutzung des Onlineangebotes durch die Nutzer werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.
 
-Google ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active).
+Google ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (<https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active>).
 
 Google wird diese Informationen in unserem Auftrag benutzen, um die Nutzung unseres Onlineangebotes durch die Nutzer auszuwerten, um Reports über die Aktivitäten innerhalb dieses Onlineangebotes zusammenzustellen und um weitere, mit der Nutzung dieses Onlineangebotes und der Internetnutzung verbundene Dienstleistungen, uns gegenüber zu erbringen. Dabei können aus den verarbeiteten Daten pseudonyme Nutzungsprofile der Nutzer erstellt werden.
 
 Wir setzen Google Analytics nur mit aktivierter IP-Anonymisierung ein. Das bedeutet, die IP-Adresse der Nutzer wird von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt.
 
-Die von dem Browser des Nutzers übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Die Nutzer können die Speicherung der Cookies durch eine entsprechende Einstellung ihrer Browser-Software verhindern; die Nutzer können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf ihre Nutzung des Onlineangebotes bezogenen Daten an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter folgendem Link verfügbare Browser-Plugin herunterladen und installieren: http://tools.google.com/dlpage/gaoptout?hl=de.
+Die von dem Browser des Nutzers übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Die Nutzer können die Speicherung der Cookies durch eine entsprechende Einstellung ihrer Browser-Software verhindern; die Nutzer können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf ihre Nutzung des Onlineangebotes bezogenen Daten an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter folgendem Link verfügbare Browser-Plugin herunterladen und installieren: <http://tools.google.com/dlpage/gaoptout?hl=de>.
 
-Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten, erfahren Sie in der Datenschutzerklärung von Google (https://policies.google.com/privacy) sowie in den Einstellungen für die Darstellung von Werbeeinblendungen durch Google (https://adssettings.google.com/authenticated).
+Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten, erfahren Sie in der Datenschutzerklärung von Google (<https://policies.google.com/privacy>) sowie in den Einstellungen für die Darstellung von Werbeeinblendungen durch Google (<https://adssettings.google.com/authenticated>).
 
 Die personenbezogenen Daten der Nutzer werden nach 14 Monaten gelöscht oder anonymisiert.
 
@@ -348,19 +348,19 @@ Wir setzen Google Analytics ein, um die durch innerhalb von Werbediensten Google
 
 Wir nutzen auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) die Dienste der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland („Google“).
 
-Google ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active).
+Google ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (<https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active>).
 
 Wir Nutzen den Dienst AdSense, mit dessen Hilfe Anzeigen in unsere Webseite eingeblendet und wir für deren Einblendung oder sonstige Nutzung eine Entlohnung erhalten. Zu diesen Zwecken werden Nutzungsdaten, wie z.B. der Klick auf eine Anzeige und die IP-Adresse der Nutzer verarbeitet, wobei die IP-Adresse um die letzten beiden Stellen gekürzt wird. Daher erfolgt die Verarbeitung der Daten der Nutzer pseudonymisiert.
 
 Wir setzen Adsense mit personalisierten Anzeigen ein. Dabei zieht Google auf Grundlage der von Nutzern besuchten Websites oder verwendeten Apps und den so erstellten Nutzerprofilen Rückschlüsse auf deren Interessen. Werbetreibende nutzen diese Informationen, um ihre Kampagnen an diesen Interessen auszurichten, was für Nutzer und Werbetreibende gleichermaßen von Vorteil ist. Für Google sind Anzeigen dann personalisiert, wenn erfasste oder bekannte Daten die Anzeigenauswahl bestimmen oder beeinflussen. Dazu zählen unter anderem frühere Suchanfragen, Aktivitäten, Websitebesuche, die Verwendung von Apps, demografische und Standortinformationen. Im Einzelnen umfasst dies: demografisches Targeting, Targeting auf Interessenkategorien, Remarketing sowie Targeting auf Listen zum Kundenabgleich und Zielgruppenlisten, die in DoubleClick Bid Manager oder Campaign Manager hochgeladen wurden.
 
-Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten, erfahren Sie in der Datenschutzerklärung von Google (https://policies.google.com/technologies/ads) sowie in den Einstellungen für die Darstellung von Werbeeinblendungen durch Google (https://adssettings.google.com/authenticated).
+Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten, erfahren Sie in der Datenschutzerklärung von Google (<https://policies.google.com/technologies/ads>) sowie in den Einstellungen für die Darstellung von Werbeeinblendungen durch Google (<https://adssettings.google.com/authenticated>).
 
 #### Google AdWords und Conversion-Messung
 
 Wir nutzen auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) die Dienste der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, („Google“).
 
-Google ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active).
+Google ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (<https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active>).
 
 Wir nutzen das Onlinemarketingverfahren Google „AdWords“, um Anzeigen im Google-Werbe-Netzwerk zu platzieren (z.B., in Suchergebnissen, in Videos, auf Webseiten, etc.), damit sie Nutzern angezeigt werden, die ein mutmaßliches Interesse an den Anzeigen haben. Dies erlaubt uns Anzeigen für und innerhalb unseres Onlineangebotes gezielter anzuzeigen, um Nutzern nur Anzeigen zu präsentieren, die potentiell deren Interessen entsprechen. Falls einem Nutzer z.B. Anzeigen für Produkte angezeigt werden, für die er sich auf anderen Onlineangeboten interessiert hat, spricht man hierbei vom „Remarketing“. Zu diesen Zwecken wird bei Aufruf unserer und anderer Webseiten, auf denen das Google-Werbe-Netzwerk aktiv ist, unmittelbar durch Google ein Code von Google ausgeführt und es werden sog. (Re)marketing-Tags (unsichtbare Grafiken oder Code, auch als „Web Beacons“ bezeichnet) in die Webseite eingebunden. Mit deren Hilfe wird auf dem Gerät der Nutzer ein individuelles Cookie, d.h. eine kleine Datei abgespeichert (statt Cookies können auch vergleichbare Technologien verwendet werden). In dieser Datei wird vermerkt, welche Webseiten der Nutzer aufgesucht, für welche Inhalte er sich interessiert und welche Angebote der Nutzer geklickt hat, ferner technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung des Onlineangebotes.
 
@@ -368,7 +368,7 @@ Ferner erhalten wir ein individuelles „Conversion-Cookie“. Die mit Hilfe des
 
 Die Daten der Nutzer werden im Rahmen des Google-Werbe-Netzwerks pseudonym verarbeitet. D.h. Google speichert und verarbeitet z.B. nicht den Namen oder E-Mailadresse der Nutzer, sondern verarbeitet die relevanten Daten cookie-bezogen innerhalb pseudonymer Nutzerprofile. D.h. aus der Sicht von Google werden die Anzeigen nicht für eine konkret identifizierte Person verwaltet und angezeigt, sondern für den Cookie-Inhaber, unabhängig davon wer dieser Cookie-Inhaber ist. Dies gilt nicht, wenn ein Nutzer Google ausdrücklich erlaubt hat, die Daten ohne diese Pseudonymisierung zu verarbeiten. Die über die Nutzer gesammelten Informationen werden an Google übermittelt und auf Googles Servern in den USA gespeichert.
 
-Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten, erfahren Sie in der Datenschutzerklärung von Google (https://policies.google.com/technologies/ads) sowie in den Einstellungen für die Darstellung von Werbeeinblendungen durch Google (https://adssettings.google.com/authenticated).
+Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten, erfahren Sie in der Datenschutzerklärung von Google (<https://policies.google.com/technologies/ads>) sowie in den Einstellungen für die Darstellung von Werbeeinblendungen durch Google (<https://adssettings.google.com/authenticated>).
 
 #### Onlinepräsenzen in sozialen Medien
 
@@ -384,10 +384,10 @@ Für eine detaillierte Darstellung der jeweiligen Verarbeitungen und der Widersp
 
 Auch im Fall von Auskunftsanfragen und der Geltendmachung von Nutzerrechten, weisen wir darauf hin, dass diese am effektivsten bei den Anbietern geltend gemacht werden können. Nur die Anbieter haben jeweils Zugriff auf die Daten der Nutzer und können direkt entsprechende Maßnahmen ergreifen und Auskünfte geben. Sollten Sie dennoch Hilfe benötigen, dann können Sie sich an uns wenden.
 
-- Facebook, -Seiten, -Gruppen, (Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland) auf Grundlage einer Vereinbarung über gemeinsame Verarbeitung personenbezogener Daten – Datenschutzerklärung: https://www.facebook.com/about/privacy/, speziell für Seiten: https://www.facebook.com/legal/terms/information_about_page_insights_data , Opt-Out: https://www.facebook.com/settings?tab=ads und http://www.youronlinechoices.com, Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active.
-- Google/ YouTube (Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) – Datenschutzerklärung:  https://policies.google.com/privacy, Opt-Out: https://adssettings.google.com/authenticated, Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active.
-- LinkedIn (LinkedIn Ireland Unlimited Company Wilton Place, Dublin 2, Irland) – Datenschutzerklärung https://www.linkedin.com/legal/privacy-policy , Opt-Out: https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out, Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0&status=Active.
-- Xing (XING AG, Dammtorstraße 29-32, 20354 Hamburg, Deutschland) – Datenschutzerklärung/ Opt-Out: https://privacy.xing.com/de/datenschutzerklaerung.
+- Facebook, -Seiten, -Gruppen, (Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland) auf Grundlage einer Vereinbarung über gemeinsame Verarbeitung personenbezogener Daten – Datenschutzerklärung: <https://www.facebook.com/about/privacy/>, speziell für Seiten: <https://www.facebook.com/legal/terms/information_about_page_insights_data> , Opt-Out: <https://www.facebook.com/settings?tab=ads> und <http://www.youronlinechoices.com>, Privacy Shield: <https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active>.
+- Google/ YouTube (Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) – Datenschutzerklärung:  <https://policies.google.com/privacy>, Opt-Out: <https://adssettings.google.com/authenticated>, Privacy Shield: <https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active>.
+- LinkedIn (LinkedIn Ireland Unlimited Company Wilton Place, Dublin 2, Irland) – Datenschutzerklärung <https://www.linkedin.com/legal/privacy-policy> , Opt-Out: <https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out>, Privacy Shield: <https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0&status=Active>.
+- Xing (XING AG, Dammtorstraße 29-32, 20354 Hamburg, Deutschland) – Datenschutzerklärung/ Opt-Out: <https://privacy.xing.com/de/datenschutzerklaerung>.
 
 #### Einbindung von Diensten und Inhalten Dritter
 
@@ -397,26 +397,26 @@ Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse d
 
 #### Vimeo
 
-Wir können die Videos der Plattform “Vimeo” des Anbieters Vimeo Inc., Attention: Legal Department, 555 West 18th Street New York, New York 10011, USA, einbinden. Datenschutzerklärung: https://vimeo.com/privacy. Wir weisen darauf hin, dass Vimeo Google Analytics einsetzen kann und verweisen hierzu auf die Datenschutzerklärung (https://policies.google.com/privacy) sowie Opt-Out-Möglichkeiten für Google-Analytics (http://tools.google.com/dlpage/gaoptout?hl=de) oder die Einstellungen von Google für die Datennutzung zu Marketingzwecken (https://adssettings.google.com/).
+Wir können die Videos der Plattform “Vimeo” des Anbieters Vimeo Inc., Attention: Legal Department, 555 West 18th Street New York, New York 10011, USA, einbinden. Datenschutzerklärung: <https://vimeo.com/privacy>. Wir weisen darauf hin, dass Vimeo Google Analytics einsetzen kann und verweisen hierzu auf die Datenschutzerklärung (<https://policies.google.com/privacy>) sowie Opt-Out-Möglichkeiten für Google-Analytics (<http://tools.google.com/dlpage/gaoptout?hl=de>) oder die Einstellungen von Google für die Datennutzung zu Marketingzwecken (<https://adssettings.google.com/>).
 
 #### Youtube
 
-Wir binden die Videos der Plattform “YouTube” des Anbieters Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, ein. Datenschutzerklärung: https://www.google.com/policies/privacy/, Opt-Out: https://adssettings.google.com/authenticated.
+Wir binden die Videos der Plattform “YouTube” des Anbieters Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, ein. Datenschutzerklärung: <https://www.google.com/policies/privacy/>, Opt-Out: <https://adssettings.google.com/authenticated>.
 
 #### Google ReCaptcha
 
-Wir binden die Funktion zur Erkennung von Bots, z.B. bei Eingaben in Onlineformularen („ReCaptcha“) des Anbieters GGoogle Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, ein. Datenschutzerklärung: https://www.google.com/policies/privacy/, Opt-Out: https://adssettings.google.com/authenticated.
+Wir binden die Funktion zur Erkennung von Bots, z.B. bei Eingaben in Onlineformularen („ReCaptcha“) des Anbieters GGoogle Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, ein. Datenschutzerklärung: <https://www.google.com/policies/privacy/>, Opt-Out: <https://adssettings.google.com/authenticated>.
 
 #### Google Maps
 
-Wir binden die Landkarten des Dienstes “Google Maps” des Anbieters Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, ein. Zu den verarbeiteten Daten können insbesondere IP-Adressen und Standortdaten der Nutzer gehören, die jedoch nicht ohne deren Einwilligung (im Regelfall im Rahmen der Einstellungen ihrer Mobilgeräte vollzogen), erhoben werden. Die Daten können in den USA verarbeitet werden. Datenschutzerklärung: https://www.google.com/policies/privacy/, Opt-Out: https://adssettings.google.com/authenticated.
+Wir binden die Landkarten des Dienstes “Google Maps” des Anbieters Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, ein. Zu den verarbeiteten Daten können insbesondere IP-Adressen und Standortdaten der Nutzer gehören, die jedoch nicht ohne deren Einwilligung (im Regelfall im Rahmen der Einstellungen ihrer Mobilgeräte vollzogen), erhoben werden. Die Daten können in den USA verarbeitet werden. Datenschutzerklärung: <https://www.google.com/policies/privacy/>, Opt-Out: <https://adssettings.google.com/authenticated>.
 
 #### Xing
 
-Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes Xing, angeboten durch die XING AG, Dammtorstraße 29-32, 20354 Hamburg, Deutschland, eingebunden werden. Hierzu können z.B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Inhalte dieses Onlineangebotes innerhalb von Xing teilen können. Sofern die Nutzer Mitglieder der Plattform Xing sind, kann Xing den Aufruf der o.g. Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen. Datenschutzerklärung von Xing: https://privacy.xing.com/de/datenschutzerklaerung.
+Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes Xing, angeboten durch die XING AG, Dammtorstraße 29-32, 20354 Hamburg, Deutschland, eingebunden werden. Hierzu können z.B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Inhalte dieses Onlineangebotes innerhalb von Xing teilen können. Sofern die Nutzer Mitglieder der Plattform Xing sind, kann Xing den Aufruf der o.g. Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen. Datenschutzerklärung von Xing: <https://privacy.xing.com/de/datenschutzerklaerung>.
 
 #### LinkedIn
 
-Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes LinkedIn, angeboten durch die LinkedIn Ireland Unlimited Company Wilton Place, Dublin 2, Irland, eingebunden werden. Hierzu können z.B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Inhalte dieses Onlineangebotes innerhalb von LinkedIn teilen können. Sofern die Nutzer Mitglieder der Plattform LinkedIn sind, kann LinkedIn den Aufruf der o.g. Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen. Datenschutzerklärung von LinkedIn: https://www.linkedin.com/legal/privacy-policy.. LinkedIn ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0&status=Active). Datenschutzerklärung: https://www.linkedin.com/legal/privacy-policy, Opt-Out: https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out.
+Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes LinkedIn, angeboten durch die LinkedIn Ireland Unlimited Company Wilton Place, Dublin 2, Irland, eingebunden werden. Hierzu können z.B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Inhalte dieses Onlineangebotes innerhalb von LinkedIn teilen können. Sofern die Nutzer Mitglieder der Plattform LinkedIn sind, kann LinkedIn den Aufruf der o.g. Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen. Datenschutzerklärung von LinkedIn: <https://www.linkedin.com/legal/privacy-policy>.. LinkedIn ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (<https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0&status=Active>). Datenschutzerklärung: <https://www.linkedin.com/legal/privacy-policy>, Opt-Out: <https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out>.
 
 [Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke](https://datenschutz-generator.de)
