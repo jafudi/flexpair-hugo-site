@@ -10,9 +10,13 @@
 						{{ $img:= resources.Get (.Params.image) }}
 						{{ $img:= $img.Resize "100x" }}
 						{{ $imgWebp:= $img.Resize "100x webp" }}
-						<img loading="lazy" decoding="async" class="rounded-circle border-primary mx-auto"  style="border:3px solid" width="100" src="{{ $imgWebp.RelPermalink }}" alt="author image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+						<img loading="lazy" decoding="async" class="rounded-circle border-primary mx-auto"
+							style="border:3px solid" width="100" src="{{ $imgWebp.RelPermalink }}" alt="author image"
+							onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
 						{{ else if .Params.Email }}
-						<img loading="lazy" decoding="async" class="rounded-circle border-primary mx-auto"  style="border:3px solid" width="100" src="https://www.gravatar.com/avatar/{{ md5 .Params.Email }}?s=150&pg&d=identicon">
+						<img loading="lazy" decoding="async" class="rounded-circle border-primary mx-auto"
+							style="border:3px solid" width="100"
+							src="https://www.gravatar.com/avatar/{{ md5 .Params.Email }}?s=150&pg&d=identicon">
 						{{ end }}
 						<figcaption class="mt-4">
 							<h2 class="h3">{{ .Title }}</h2>
@@ -23,7 +27,8 @@
 					</div>
 					<ul class="social-links list-inline mb-0">
 						{{ range .Params.Social }}
-						<li class="list-inline-item"><a href="{{.link | safeURL}}" target="_blank" title="{{.name}}"><i class="{{.icon}}"></i></a></li>
+						<li class="list-inline-item"><a href="{{.link | safeURL}}" target="_blank" title="{{.name}}"><i
+									class="{{.icon}}"></i></a></li>
 						{{ end }}
 					</ul>
 				</div>
@@ -42,8 +47,9 @@
 								{{$img:= resources.Get . }}
 								{{$img:= $img.Fill "570x280 "}}
 								{{$imgWebp:= $img.Fill "570x280 webp"}}
-								<img loading="lazy" decoding="async" class="card-img-top h-auto" width="{{$img.Width}}" height="{{$img.Height}}"
-									src="{{$imgWebp.RelPermalink}}" alt="blog-post" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+								<img loading="lazy" decoding="async" class="card-img-top h-auto" width="{{$img.Width}}"
+									height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="blog-post"
+									onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
 								{{else}}
 								<div class="image-fallback">
 									<img src="" alt="">
@@ -52,11 +58,13 @@
 								{{end}}
 							</a>
 							<div class="card-body p-4">
-								<h3 class="card-title h4"><a href="{{ .RelPermalink }}" title="{{ .Title }}" style="line-height: 1.5">{{ .Title }}</a></h3>
+								<h3 class="card-title h4"><a href="{{ .RelPermalink }}" title="{{ .Title }}"
+										style="line-height: 1.5">{{ .Title }}</a></h3>
 								<p class="mb-0">{{ .Plain | truncate 75 }}</p>
 							</div>
 							<div class="card-footer bg-transparent border-top-0 px-4">
-								<span>{{.PublishDate.Format "Jan 02, 2006"}} - {{.ReadingTime}} {{i18n `min_read`}}</span>
+								<span>{{.PublishDate.Format "Jan 02, 2006"}} - {{.ReadingTime}} {{i18n
+									`min_read`}}</span>
 							</div>
 						</article>
 					</div>

@@ -6,7 +6,8 @@
       <div class="col-lg-8 col-md-10">
         <div class="d-block d-md-flex align-items-center justify-content-between">
           <div>
-            <h1 style="line-height:1.2">{{i18n `lets_meet`}} <span class="d-block text-primary">{{.Title | markdownify}}</span></h1>
+            <h1 style="line-height:1.2">{{i18n `lets_meet`}} <span class="d-block text-primary">{{.Title |
+                markdownify}}</span></h1>
 
             <div class="d-block d-sm-flex border-top mt-4 pt-4">
               <div class="mr-5">
@@ -27,7 +28,8 @@
           <div class="mt-4 mt-md-0" style="max-width: 200px">
             {{ if and (.Params.logo) (fileExists (add `assets/` .Params.logo)) }}
             {{ $img:= resources.Get (.Params.logo) }}
-            <img loading="lazy" decoding="async" class="img-fluid mb-3 mb-md-0" src="{{ $img.RelPermalink }}" alt="brand image">
+            <img loading="lazy" decoding="async" class="img-fluid mb-3 mb-md-0" src="{{ $img.RelPermalink }}"
+              alt="brand image">
             {{ end }}
           </div>
         </div>
