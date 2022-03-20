@@ -56,7 +56,7 @@ This is the start of dummy description text. You can change it whenever you want
 
 #### v1.0.1 (March 15,2019)
 {{< changelog >}}
-{{< badge type="depreciate" >}}
+{{< badge type="deprecate" >}}
 * Enhance or improve [User experience](#!), our Site, or our Service.
 * Process transactions.
 * Send emails about our [Site or respond to](#!) inquiries.

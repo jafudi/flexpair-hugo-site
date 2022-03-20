@@ -4,7 +4,7 @@ date: "2021-07-16"
 layout: "changelog"
 draft: false
 
-description: "We are looking for a personal financial planning pro (Certified Financial Planner™ <br> preferred) who will lead our client advising efforts. You will be a fiduciary who works with"
+description: "This is a placeholder for a proper description."
 ---
 
 #### v1.0.4 (January 19,2020)
@@ -56,7 +56,7 @@ This is the start of dummy description text. You can change it whenever you want
 
 #### v1.0.1 (March 15,2019)
 {{< changelog >}}
-{{< badge type="depreciate" >}}
+{{< badge type="deprecate" >}}
 * Enhance or improve [User experience](#!), our Site, or our Service.
 * Process transactions.
 * Send emails about our [Site or respond to](#!) inquiries.
