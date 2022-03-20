@@ -6,11 +6,11 @@ favicon512 = "images/favicons/favicon512px.png"
 favicon192 = "images/favicons/favicon192px.png"
 favicon180 = "images/favicons/favicon180px.png"
 favicon144 = "images/favicons/favicon144px.png"
-favicon96 = "images/favicons/favicon96px.png"
-favicon72 = "images/favicons/favicon72px.png"
-favicon48 = "images/favicons/favicon48px.png"
-favicon32 = "images/favicons/favicon32px.png"
-favicon16 = "images/favicons/favicon16px.png"
+favicon96  = "images/favicons/favicon96px.png"
+favicon72  = "images/favicons/favicon72px.png"
+favicon48  = "images/favicons/favicon48px.png"
+favicon32  = "images/favicons/favicon32px.png"
+favicon16  = "images/favicons/favicon16px.png"
 
 # Place your logo in the assets/images folder and put the path here.
 logo = "images/SyncopateBoldFlexPAIR.svg"
@@ -36,20 +36,20 @@ footer_info = "The full spectrum of collaboration modes in one environment. For 
 career_form_action = "#" # career form works with https://formspree.io
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
-custom_script= "" 
+custom_script = ""
 
 # mainSections defines the section names that you want to show on your website.
 # It’s an array, so you can add more sections to show. For more information,
 # see https://gohugo.io/functions/where/#mainsections.
-mainSections= ["blog"]
+mainSections = ["blog"]
 
 # contact information showing in the footer and contact page
 [contact_info]
-address = "Bergheimerstr. 7, Heidelberg, Germany"
-phone = ["+49-6221-7189618"]
-email = ["flexpair@icloud.com"]
+address     = "Bergheimerstr. 7, Heidelberg, Germany"
+phone       = ["+49-6221-7189618"]
+email       = ["flexpair@icloud.com"]
 address_img = "images/address.png"
-maps_link = "https://goo.gl/maps/ikqiZGc6SZQzxaeL7"
+maps_link   = "https://goo.gl/maps/ikqiZGc6SZQzxaeL7"
 
 # imaging processing
 [imaging]
@@ -64,14 +64,14 @@ quality = 100
 # any logo or image, leave the preloader field empty. So it will show just a
 #  white screen when every component is loading.
 [preloader]
-enable = true
+enable    = true
 preloader = "images/favicons/loader.svg" # use svg
 
 # Navigation button
 [navigation_button]
 enable = true
-label = "Sign Up Now 🚀"
-link = "signup/"
+label  = "Sign Up Now 🚀"
+link   = "signup/"
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
@@ -92,44 +92,44 @@ image = "images/og-image.jpg"
 # matomo tracking: see https://matomo.org/
 [matomo]
 enable = false
-url = "" # your matomo url
-id = "" # your matomo id
+url    = ""    # your matomo url
+id     = ""    # your matomo id
 
 # baidu analytics: see https://tongji.baidu.com/
 [baidu]
-enable = false
-analytics_id = "" # Your ID
+enable       = false
+analytics_id = ""    # Your ID
 
 # plausible analytics: see https://plausible.io/
 [plausible]
 enable = false
-domain = "" # yourdomain.com
+domain = ""    # yourdomain.com
 
 # counter analytics: see https://counter.dev/setup.html
 [counter]
-enable = false
-username = "" # your username
+enable   = false
+username = ""    # your username
 
 # site verifications
 [site_verification]
-google = "" # Your verification code
-bing = "" # Your verification code
-baidu = "" # Your verification code
+google   = "" # Your verification code
+bing     = "" # Your verification code
+baidu    = "" # Your verification code
 facebook = "" # Your verification code
 
 # cookies
 [cookies]
-enable = true
+enable      = true
 expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content     = "This site uses cookies. By continuing to use this website, you agree to their use."
+button      = "I Accept"
 
 # call-to-action
 [cta]
-enable = true
-title = "Your support is highly appreciated"
-content = "Please help us to continuously improve Flexpair by making the donation you can afford."
-button = "Buy us a coffee or ☕☕"
+enable      = true
+title       = "Your support is highly appreciated"
+content     = "Please help us to continuously improve Flexpair by making the donation you can afford."
+button      = "Buy us a coffee or ☕☕"
 button_link = "https://www.buymeacoffee.com/flexpair"
 
 ############################# social networks #################################
@@ -139,16 +139,15 @@ button_link = "https://www.buymeacoffee.com/flexpair"
 # for this theme. You can choose more icons from https://icons8.com/line-awesome
 [[social]]
 title = "LinkedIn"
-icon = "lab la-linkedin-in"
-link = "https://de.linkedin.com/in/fielenbach"
+icon  = "lab la-linkedin-in"
+link  = "https://de.linkedin.com/in/fielenbach"
 
 [[social]]
 title = "GitHub"
-icon = "lab la-github"
-link = "https://github.com/jafudi"
+icon  = "lab la-github"
+link  = "https://github.com/jafudi"
 
 [[social]]
 title = "GitLab"
-icon = "lab la-gitlab"
-link = "https://gitlab.com/Jafudi"
-
+icon  = "lab la-gitlab"
+link  = "https://gitlab.com/Jafudi"

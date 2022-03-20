@@ -9,10 +9,10 @@
 # customize your color and font from here.
 [params.variables]
 primary_color = "#157878"
-border_color = "#e4e4e4"
-white = "#ffffff"
-black = "#000000"
-light = "#FAFAFA"
+border_color  = "#e4e4e4"
+white         = "#ffffff"
+black         = "#000000"
+light         = "#FAFAFA"
 
 # font variables: font_size and font_scale is pretty new to our themes. 
 # It’s changed the full website font size. learn more about it 
@@ -35,11 +35,11 @@ font_scale = "1.2" # default is "minorThird": 1.2
 
 # go to https://fonts.google.com/ to find the font you want to use. select your font and copy only the bold part from the URL. and paste it here.
 # example: "Work+Sans:wght@400;500;600"
-font_primary = "Open Sans:wght@400;500;600" # "Poppins:wght@400;500;600"
-font_primary_type = "sans-serif" # [serif/sans-serif]
-font_secondary = "Ubuntu"
+font_primary        = "Open Sans:wght@400;500;600" # "Poppins:wght@400;500;600"
+font_primary_type   = "sans-serif"                 # [serif/sans-serif]
+font_secondary      = "Ubuntu"
 font_secondary_type = "sans-serif"
-font_icon = "Line Awesome Free"
+font_icon           = "Line Awesome Free"
 
 
 ############################# Plugins ##############################

@@ -2,13 +2,13 @@
 
 # main menu
 [[main]]
-name = "Home"
-url = ""
+name   = "Home"
+url    = ""
 weight = 1
 
 [[main]]
-name = "About"
-url = "about/"
+name   = "About"
+url    = "about/"
 weight = 4
 
 # [[main]]
@@ -17,18 +17,18 @@ weight = 4
 # weight = 5
 
 [[main]]
-name = "Pricing"
-url = "pricing/"
+name   = "Pricing"
+url    = "pricing/"
 weight = 6
 
 [[main]]
-name = "Blog"
-url = "blog/"
+name   = "Blog"
+url    = "blog/"
 weight = 7
 
 [[main]]
-weight = 9
-name = "Pages"
+weight      = 9
+name        = "Pages"
 hasChildren = true
 
 #   [[main]]
@@ -55,11 +55,11 @@ hasChildren = true
 #   url = "case-studies/case-1/"
 #   weight = 7
 
-  [[main]]
-  parent = "Pages"
-  name = "Terms & Conditions"
-  url = "terms-and-conditions/"
-  weight = 8
+[[main]]
+parent = "Pages"
+name   = "Terms & Conditions"
+url    = "terms-and-conditions/"
+weight = 8
 
 #   [[main]]
 #   parent = "Pages"
@@ -78,30 +78,30 @@ hasChildren = true
 #   name = "Elements"
 #   url = "elements/"
 #   weight = 11
-  
+
 [[main]]
-name = "Contact"
-url = "contact/"
+name   = "Contact"
+url    = "contact/"
 weight = 15
 
 
 # footer menu
 [[footer]]
-name = "About"
-url = "about/"
+name   = "About"
+url    = "about/"
 weight = 1
 
 [[footer]]
-name = "How It Works"
-url = "how-it-works/"
+name   = "How It Works"
+url    = "how-it-works/"
 weight = 2
 
 [[footer]]
-name = "Terms & Conditions"
-url = "terms-and-conditions/"
+name   = "Terms & Conditions"
+url    = "terms-and-conditions/"
 weight = 3
 
 [[footer]]
-name = "Changelog"
-url = "changelog/"
+name   = "Changelog"
+url    = "changelog/"
 weight = 4

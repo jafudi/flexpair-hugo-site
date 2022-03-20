@@ -33,7 +33,7 @@ disqusShortname = ""
 # See https://gohugo.io/content-management/multilingual/
 disableLanguages = ["fr"]
 
-enableRobotsTXT  = false
+enableRobotsTXT = false
 
 ############################# Modules ##############################
 [module]
