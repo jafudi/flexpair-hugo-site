@@ -32,10 +32,7 @@ footer_info = "The full spectrum of collaboration modes in one environment. For 
 # third-party service. You can use any of Airform, https://formspree.io, or Formsubmit.
 # Go to any of the sites that you preferred, and get your form action from there.
 # Then, paste it here. If you use Airform, your form action will be like this: 
-# https://airform.io/your@email.com.
-contact_form_action = "https://formspree.io/f/xgernlzd"
-
-# career form action
+# https://airform.io/your@email.com.n
 career_form_action = "#" # career form works with https://formspree.io
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
