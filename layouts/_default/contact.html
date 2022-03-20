@@ -6,18 +6,18 @@
   <div class="container">
     <div class="row justify-content-center align-items-center">
       <div class="col-lg-5 col-md-8 mb-5 mb-lg-0" data-aos="fade-up">
-        <div class="contact-form">
+        <div class="contact-form contact-widget">
           <div class="mb-4">
             <h3>{{i18n `phone`}}</h3>
           </div>
-          <div class="block text-center">
+          <div>
             {{ if fileExists (add `assets/` .Params.contact_image) }}
             {{$img:= resources.Get .Params.contact_image }}
             {{$img:= $img.Resize "575x"}}
             <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="cobtact image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
             {{end}}
           </div>
-          <div class="contact-widget">
+          <div class="block">
             {{with site.Params.contact_info.phone}}
             <ul class="list-unstyled">
               {{range .}}
@@ -53,62 +53,6 @@
             <button class="btn btn-primary w-100 mt-4" type="submit" aria-label="Send Message">{{i18n `send_message`}}</button>
           </form>
         </div>
-      </div>
-    </div>
-
-    <div class="section pb-0">
-      <div class="row justify-content-center">
-        <div class="col-12">
-          <div class="section-title text-center" data-aos="fade-up">
-            <p class="text-uppercase">{{i18n `contact_us`}}</p>
-            <h2 class="title">{{i18n `get_in_touch`}}</h2>
-          </div>
-        </div>
-
-        {{with site.Params.contact_info.phone}}
-        <div class="col-xl-3 col-lg-4 col-md-6 contact-widget" data-aos="fade-up">
-          <div class="block text-center">
-            <h3 class="mb-4">{{i18n `phone`}}</h3>
-            <ul class="list-unstyled">
-              {{range .}}
-              {{if .}}
-              <li><a href="tel:{{.}}"><i class="las la-phone"></i>{{.}}</a></li>
-              {{end}}
-              {{end}}
-            </ul>
-          </div>
-        </div>
-        {{end}}
-
-        {{with site.Params.contact_info.email}}
-        <div class="col-xl-3 col-lg-4 col-md-6 contact-widget" data-aos="fade-up" data-aos-delay="100">
-          <div class="block text-center">
-            <h3 class="mb-4">{{i18n `email`}}</h3>
-            <ul class="list-unstyled">
-              {{range .}}
-              {{if .}}
-              <li><a href="mailto:{{.}}"><i class="las la-envelope-open-text"></i>{{.}}</a></li>
-              {{end}}
-              {{end}}
-            </ul>
-          </div>
-        </div>
-        {{end}}
-
-        {{with site.Params.social}}
-        <div class="col-xl-3 col-lg-4 col-md-12 contact-widget" data-aos="fade-up" data-aos-delay="200">
-          <div class="block text-center">
-            <h3 class="mb-4">{{i18n `social_media`}}</h3>
-            <ul class="list-unstyled">
-              {{range .}}
-              {{if .}}
-              <li><a href="{{.link}}"><i class="{{.icon}}"></i>{{.title}}</a></li>
-              {{end}}
-              {{end}}
-            </ul>
-          </div>
-        </div>
-        {{end}}
       </div>
     </div>
   </div>
