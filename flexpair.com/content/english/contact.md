@@ -1,5 +1,5 @@
 ---
-title: "contact"
+title: "Get in touch"
 layout: "contact"
 draft: false
 
