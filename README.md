@@ -1,6 +1,5 @@
 # <h1 align=center>Andromeda Light | <a target="_blank" href="https://demo.gethugothemes.com/andromeda-light" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fandromeda-light%2F">Page Speed (90%)</a></h1>
 
-
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.83.1" alt="Contributors">
     <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.83.1&color=f00&logo=hugo" />
@@ -26,10 +25,11 @@
 </p>
 
 ---
+
 ## Discover Free & Premium Features
 
-Featurees | [Andromeda LIght](https://github.com/gethugothemes/andromeda-light)  | [Andromeda Premium](https://gethugothemes.com/products/andromeda/?ref=github) | 
-:------------ |    :----:    |     :----:    | 
+Featurees | [Andromeda LIght](https://github.com/gethugothemes/andromeda-light)  | [Andromeda Premium](https://gethugothemes.com/products/andromeda/?ref=github) |
+:------------ |    :----:    |     :----:    |
 Google analytics support                   | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
 image optimize with hugo pipe              | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
 CSS and Js bundle with hugo pipe           | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
@@ -50,7 +50,6 @@ Caching enable                             | ![](https://demo.gethugothemes.com/
 Priority Support                           | ![](https://demo.gethugothemes.com/icons/x.png) | ![](https://demo.gethugothemes.com/icons/tick.png) |
 Get It Now | [![download-light](https://demo.gethugothemes.com/icons/download.png)](https://github.com/gethugothemes/andromeda-light/archive/refs/heads/master.zip) | [![download](https://demo.gethugothemes.com/icons/grab.png)](https://gethugothemes.com/products/andromeda/?ref=github)
 
-
 ## Local development
 
 ```bash
@@ -63,6 +62,7 @@ $ cd andromeda-light/flexpair.com/
 # Start local dev server
 $ hugo server --themesDir ../..
 ```
+
 Or Check out [Full Documentation](https://docs.gethugothemes.com/andromeda/?ref=github).
 
 ## Content Management System
@@ -77,19 +77,21 @@ you will be able to edit and preview your site.
 Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
 
 ## Prefer a video? (Hugo + Netlify + Forestry)
+
 Build your website with **Andromeda Light Hugo** theme by following these easy steps (No Coding Required!)
 [Video Tutorial](https://youtu.be/ResipmZmpDU).
 
 <!-- reporting issue -->
 ## Reporting Issues
+
 We use GitHub Issues as the official bug tracker for the andromeda light Template. Please Search [existing
 issues](https://github.com/gethugothemes/andromeda-light/issues). Someone may have already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new
 issue](https://github.com/gethugothemes/andromeda-light/issues).
 
-
 <!-- licence -->
 ## License
+
 Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
 [Gethugothemes](https://gethugothemes.com)
 
@@ -100,6 +102,7 @@ share those images.
 
 <!-- resources -->
 ## Special Thanks
+
 - [Bootstrap](https://getbootstrap.com)
 - [Jquery](https://jquery.com)
 - [Aos](https://michalsnik.github.io/aos)
@@ -109,8 +112,7 @@ share those images.
 - [Google Fonts](https://fonts.google.com)
 - [All Contributors](https://github.com/gethugothemes/andromeda-light/graphs/contributors)
 
-
 ## Hire Us
+
 We are available for **Hiring** for your next HUGO project. Please, check our
 [services](https://gethugothemes.com/services/?ref=github)
-
