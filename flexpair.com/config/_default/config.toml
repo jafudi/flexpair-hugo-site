@@ -27,13 +27,13 @@ googleAnalytics = ""
 # Add your Disqus shortname to enable comments on the blog section.
 # To install Disqus please follow the following tutorial:
 # https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/.
-disqusShortname = "themefisher-template"
+disqusShortname = ""
 
 # Disable language: ["fr"] for example disables French language.
 # See https://gohugo.io/content-management/multilingual/
 disableLanguages = ["fr"]
 
-enableRobotsTXT  = false
+enableRobotsTXT = false
 
 ############################# Modules ##############################
 [module]

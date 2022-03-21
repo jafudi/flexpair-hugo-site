@@ -19,7 +19,7 @@ draft: false
 ## Inclusion through maximum flexibility
 
 - looks and sexual identity does not matter on Flexpair ⚧️🦄
-- let anxiety related to being in front of a camera or among people not stop you 🎗️🧘 
+- let anxiety related to being in front of a camera or among people not stop you 🎗️🧘
 - care for your child and about your career 👶🌡️
 - source your top talent worldwide 🌍🧑🏿‍💻
 

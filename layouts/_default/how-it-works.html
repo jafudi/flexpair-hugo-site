@@ -23,7 +23,9 @@
             {{$img:= resources.Get .video_thumbnail }}
             {{$img:= $img.Resize "700x "}}
             {{$imgWebp:= $img.Resize "700x webp"}}
-            <img loading="lazy" decoding="async" class="img-fluid video-thumb" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="Video Thumbnail" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+            <img loading="lazy" decoding="async" class="img-fluid video-thumb" width="{{$img.Width}}"
+              height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="Video Thumbnail"
+              onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
             {{end}}
           </div>
         </div>
@@ -55,7 +57,8 @@
           {{ if fileExists (add `assets/` .image) }}
           {{$img:= resources.Get .image }}
           {{$img:= $img.Resize "575x"}}
-          <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Thumbnail" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+          <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}"
+            src="{{$img.RelPermalink}}" alt="Thumbnail" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
           {{end}}
         </div>
       </div>

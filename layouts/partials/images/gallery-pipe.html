@@ -11,7 +11,8 @@
 
 
 
-{{ if or (eq $imageExt `.jpg`) (eq $imageExt `.jpeg`) (eq $imageExt `.png`) (eq $imageExt `.webp`) (eq $imageExt `.svg`) (eq $imageExt `.gif`) (eq $imageExt `.ico`) }}
+{{ if or (eq $imageExt `.jpg`) (eq $imageExt `.jpeg`) (eq $imageExt `.png`) (eq $imageExt `.webp`) (eq $imageExt `.svg`)
+(eq $imageExt `.gif`) (eq $imageExt `.ico`) }}
 
 <!-- image height, width (if not svg) -->
 {{ if eq $imageExt `.svg` }}
@@ -28,14 +29,19 @@
 {{ if or (eq $imageExt `.gif`) (eq $imageExt `.svg`) }}
 {{ $context.Set `image` $image.RelPermalink }}
 
-{{ else }} <!-- else of checking .gif and .svg -->
+{{ else }}
+<!-- else of checking .gif and .svg -->
 
 <!-- image processing -->
-{{ $option:= add (add (add (add (string ($width | default $imageWidth)) "x") (string ($height | default $imageHeight))) " webp ") (string $option) }}
+{{ $option:= add (add (add (add (string ($width | default $imageWidth)) "x") (string ($height | default $imageHeight)))
+" webp ") (string $option) }}
 
-{{ if eq $webp "false" }} <!-- if webp false -->
-{{ $option = add (add (add (add (string ($width | default $imageWidth)) "x") (string ($height | default $imageHeight))) " ") (string $option) }}
-{{ end }} <!-- end -->
+{{ if eq $webp "false" }}
+<!-- if webp false -->
+{{ $option = add (add (add (add (string ($width | default $imageWidth)) "x") (string ($height | default $imageHeight)))
+" ") (string $option) }}
+{{ end }}
+<!-- end -->
 
 <!-- start of if not .gif and .svg -->
 <!-- start of image command -->
@@ -51,8 +57,10 @@
 {{ else }}
 {{ $context.Set `image` ($image.Resize $option).RelPermalink }}
 {{ $context.Set `imageFallback` ($image.Resize (replace $option `webp` ``)).RelPermalink }}
-{{ end }} <!-- end of image command -->
+{{ end }}
+<!-- end of image command -->
 
-{{ end }} <!-- end of checking .gif and .svg -->
+{{ end }}
+<!-- end of checking .gif and .svg -->
 
 {{ end }}

@@ -15,18 +15,17 @@
 [en]
 languageName = "En"
 languageCode = "en-us"
-contentDir = "content/english"
-weight = 1
+contentDir   = "content/english"
+weight       = 1
 # copyright
 copyright = "Made in Heidelberg © 2022 by JF. All Rights Reserved."
-
 
 
 ################################### French language #####################################
 [fr]
 languageName = "Fr"
 languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
+contentDir   = "content/french"
+weight       = 2
 # copyright
 copyright = "Made in Heidelberg © 2022 by JF. All Rights Reserved."

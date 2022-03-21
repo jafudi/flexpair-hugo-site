@@ -56,6 +56,7 @@ draft: false
 - Public IP address attribute: `access_ip_v4`
 
 ### Digital Ocean
+
 - 11 cities
 - Only approved accelerators
 - `digitalocean_droplet` ([Verified API](https://registry.terraform.io/providers/digitalocean/digitalocean/latest/docs/resources/droplet))
@@ -67,13 +68,6 @@ draft: false
 - [Startups can apply for](https://telekomhilft.telekom.de/t5/TechBoost/ct-p/techboost) 15k EUR
 - `opentelekomcloud_compute_instance_v2` ([Community API](https://registry.terraform.io/providers/opentelekomcloud/opentelekomcloud/latest/docs/resources/compute_instance_v2))
 - Public IP address attribute: `access_ip_v4`
-
-### Yandex.Cloud
-
-- 3 cities
-- [Startups can apply for](https://cloud.yandex.com/cloud-boost) up to 12k USD
-- `yandex_compute_instance` ([Community API](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/compute_instance))
-- Public IP address attribute: `network_interface.0.nat_ip_address`
 
 ## Cloud-init support but no free tier with sufficient RAM allowance
 

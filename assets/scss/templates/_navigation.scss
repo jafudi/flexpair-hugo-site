@@ -22,7 +22,7 @@ header {
   z-index: 1000;
   background-color: $white;
   padding: 1.8rem 0;
-  transition: .15s ease-out;
+  transition: 0.15s ease-out;
 
   @include tablet {
     padding: 1.25rem 0;
@@ -63,7 +63,7 @@ header {
     font-size: 2.25rem;
     color: lighten($black, 13.33);
     border: 0;
-    transition: .3s ease;
+    transition: 0.3s ease;
 
     @include tablet {
       font-size: 2rem;
@@ -97,12 +97,12 @@ header {
 
     .nav-link:hover,
     &.active .nav-link {
-      color: $primary-color !important
+      color: $primary-color !important;
     }
     &.dropdown .nav-link::after {
       display: inline-block;
-      vertical-align: .255em;
-      content: "";
+      vertical-align: 0.255em;
+      content: '';
       height: 0.56rem;
       width: 0.56rem;
       border: 2px solid;
@@ -124,11 +124,11 @@ header {
 
     li {
       &:first-child {
-        margin-top: 0.75rem
+        margin-top: 0.75rem;
       }
 
       &:last-child {
-        margin-bottom: 0.75rem
+        margin-bottom: 0.75rem;
       }
     }
 
@@ -145,7 +145,7 @@ header {
         color: $primary-color;
         background-color: rgba($primary-color, 0.07);
       }
-      
+
       &.active {
         color: $primary-color;
         background-color: transparent;
@@ -158,7 +158,7 @@ header {
     }
   }
 
-  @media (min-width:991px) {
+  @media (min-width: 991px) {
     .dropdown-menu {
       display: block;
       visibility: hidden;
@@ -170,7 +170,7 @@ header {
       background-color: transparent;
       &::after {
         position: absolute;
-        content: "";
+        content: '';
         height: 0;
         width: 100%;
         top: 0;
@@ -185,7 +185,7 @@ header {
       li {
         transform: translateY(1.25rem);
         opacity: 0;
-        transition: .1s;
+        transition: 0.1s;
       }
     }
 
@@ -199,13 +199,13 @@ header {
       li {
         opacity: 1;
         transform: translateY(0);
-        transition: .4s cubic-bezier(0.165, 0.84, 0.44, 1);
+        transition: 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
       }
       $base-time: 0.05;
       $max-menu-item: 12;
       @for $i from 1 through $max-menu-item {
         li:nth-child(#{$i}) {
-          transition-delay: $i*$base-time+s;
+          transition-delay: $i * $base-time + s;
         }
       }
     }

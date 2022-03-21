@@ -77,7 +77,7 @@ intro_video:
 # how_it_works
 how_it_works:   
   enable: true
-  section: "how-it-works" # content comming from how-it-works page
+  section: "how-it-works" # content coming from how-it-works page
 
 
 # testimonials

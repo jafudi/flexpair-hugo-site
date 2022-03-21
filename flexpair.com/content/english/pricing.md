@@ -13,9 +13,9 @@ pricing_card:
 # pricing table
 - name : "Essentials"
   content : "Nam ex Magnam ratione corporis harum minus quae laudantium, ullam quaerat Illum"
-  currency: "$"
-  monthly_price : "39"
-  yearly_price : "139"
+  currency: "€"
+  monthly_price : "0"
+  yearly_price : "0"
   featured : false
   button_label : "Grab This Deal"
   button_link : "#"
@@ -28,9 +28,9 @@ pricing_card:
 # pricing table
 - name : "Team"
   content : "Sed a ratione nemo adipisci doloribus quisquam aut sapiente quibusdam illum debitis."
-  currency: "$"
-  monthly_price : "99"
-  yearly_price : "199"
+  currency: "€"
+  monthly_price : "9"
+  yearly_price : "99"
   featured : true
   button_label : "Grab This Deal"
   button_link : "#"
@@ -43,9 +43,9 @@ pricing_card:
 # pricing table
 - name : "Professional"
   content : "Iusto optio voluptatem numquam natus totam ea vero minus nihil libero non!"
-  currency: "$"
-  monthly_price : "129"
-  yearly_price : "229"
+  currency: "€"
+  monthly_price : "99"
+  yearly_price : "999"
   featured : false
   button_label : "Grab This Deal"
   button_link : "#"

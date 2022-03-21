@@ -35,7 +35,7 @@ our_mission:
   enable: false
   subtitle: "OUR MISSION"
   title: "Main Vision And Mission Of Our Company"
-  description: "We were freelance designers and developers, constantly finding ourselve deep vague feedback. leaving a notes from the sticky note piece ."
+  description: "We were freelance designers and developers, constantly finding ourselves deep vague feedback. leaving a notes from the sticky note piece ."
 
   image: "images/about/osterglocken.jpeg"
 
@@ -54,7 +54,7 @@ brands_carousel:
   enable: false
   subtitle: "Our Clients"
   title: "Trusted by Thousands Companies"
-  section: "/" # brand images comming form _index.md
+  section: "/" # brand images coming form _index.md
 
 
 # our team

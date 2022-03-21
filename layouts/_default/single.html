@@ -1,7 +1,8 @@
 {{ define "main" }}
 
 <!-- checking blog -->
-{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
+{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq
+.Section "categories") (eq .Section "tags") }}
 
 <!-- strat of blog-details -->
 <section class="section-sm pt-0">
@@ -13,7 +14,8 @@
         {{$img:= resources.Get . }}
         {{$img:= $img.Resize "1020x "}}
         {{$imgWebp:= $img.Resize "1020x webp"}}
-        <img loading="lazy" decoding="async" class="w-100 rounded-lg" src="{{$imgWebp.RelPermalink}}" alt="blog-post" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+        <img loading="lazy" decoding="async" class="w-100 rounded-lg" src="{{$imgWebp.RelPermalink}}" alt="blog-post"
+          onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
         {{end}}
         {{end}}
       </div>
@@ -29,9 +31,11 @@
                 {{ $img:= resources.Get (.Params.image) }}
                 {{ $img:= $img.Fill "70x70" }}
                 {{ $imgWebp:= $img.Fill "70x70 webp" }}
-                <img loading="lazy" decoding="async" class="rounded-circle" src="{{ $imgWebp.RelPermalink }}" alt="author image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+                <img loading="lazy" decoding="async" class="rounded-circle" src="{{ $imgWebp.RelPermalink }}"
+                  alt="author image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
                 {{ else if .Params.Email }}
-                <img loading="lazy" decoding="async" class="rounded-circle" src="https://www.gravatar.com/avatar/{{ md5 . }}?s=70&pg&d=identicon">
+                <img loading="lazy" decoding="async" class="rounded-circle"
+                  src="https://www.gravatar.com/avatar/{{ md5 . }}?s=70&pg&d=identicon">
                 {{ end }}
               </a>
             </div>
@@ -72,8 +76,9 @@
           <h2 class="title">{{i18n `related_articles`}}</h2>
         </div>
       </div>
-      
-      {{ $related := (where site.RegularPages "Section" "in" site.Params.mainSections) | intersect (where site.RegularPages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
+
+      {{ $related := (where site.RegularPages "Section" "in" site.Params.mainSections) | intersect (where
+      site.RegularPages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
       {{ range first 2 $related }}
       <div class="col-lg-5">
         {{ .Render "article" }}

@@ -22,7 +22,9 @@
           {{ if fileExists (add `assets/` .image) }}
           {{$img:= resources.Get .image }}
           {{$img:= $img.Resize "560x"}}
-          <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Video Thumbnail" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+          <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}"
+            src="{{$img.RelPermalink}}" alt="Video Thumbnail"
+            onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
           {{end}}
         </div>
       </div>
@@ -98,7 +100,8 @@
           <div class="col-lg-{{.width}} col-md-4 col-sm-6 mt-4 {{.custom_class}}">
             {{ if fileExists (add `assets/` .image) }}
             {{$img:= resources.Get .image }}
-            <img loading="lazy" decoding="async" class="w-100 rounded-lg" src="{{$img.RelPermalink}}" alt="gallery image">
+            <img loading="lazy" decoding="async" class="w-100 rounded-lg" src="{{$img.RelPermalink}}"
+              alt="gallery image">
             {{end}}
           </div>
           {{end}}
@@ -130,7 +133,8 @@
                   <div class="listing-item bg-white text-center mb-4">
                     <h3 class="mb-2 font-weight-bold">{{.Title | markdownify}}</h3>
                     <h6 class="text-black-800 mb-3">{{.Params.job_nature | markdownify}}</h6>
-                    <a href="{{.RelPermalink}}" class="h5 text-primary stretched-link">{{i18n `view_listing`}}<i class="las la-angle-right ml-1"></i></a>
+                    <a href="{{.RelPermalink}}" class="h5 text-primary stretched-link">{{i18n `view_listing`}}<i
+                        class="las la-angle-right ml-1"></i></a>
                   </div>
                 </div>
                 {{end}}

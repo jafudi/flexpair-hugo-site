@@ -32,6 +32,6 @@
 <!-- CDN plugins -->
 {{ range site.Params.plugins.css }}
 {{ if findRE "^http" .link }}
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="{{ .link | relURL }}" {{.attributes | safeHTMLAttr}} >
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="{{ .link | relURL }}" {{.attributes | safeHTMLAttr}}>
 {{ end }}
 {{ end }}
