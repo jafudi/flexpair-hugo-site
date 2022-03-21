@@ -13,31 +13,36 @@ draft: false
 
 ## Cloud-init support and 12 months free tier
 
-### Oracle Cloud Infrastructure (already adopted)
+ {{< collapse "Oracle Cloud Infrastructure (already adopted)" >}}
 
 - 2% global market share, 19 cities
 - [Fixed startup discount](https://www.oracle.com/de/startup/) of 500 USD
 - `oci_core_instance` ([Official API](https://registry.terraform.io/providers/hashicorp/oci/latest/docs/resources/core_instance))
+ {{< /collapse >}}
 
-### Amazon EC2 (already adopted)
+  {{< collapse "Amazon EC2 (already adopted)" >}}
 
 - 33% global market share, 21 cities
 - [Fixed startup discount](https://aws.amazon.com/de/activate/founders/) of 1350 USD
 - `aws_instance` ([Official API](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance))
+ {{< /collapse >}}
 
-### Microsoft Azure
+  {{< collapse "Microsoft Azure" >}}
 
 - 18% global market share, 52 cities
 - Only B2B startups can receive credits beyond the free account
 - `azurerm_linux_virtual_machne` ([Official API](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/linux_virtual_machine))
 - Public IP address attribute: `public_ip_address`
+ {{< /collapse >}}
 
-### Alibaba Cloud
+
+  {{< collapse "Alibaba Cloud" >}}
 
 - 6% global market share, 22 cities
 - [Startups can apply for](https://www.alibabacloud.com/de/startup/join-us) up to 10k USD
 - `alicloud_instance` ([Verified API](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/resources/instance))
 - Public IP address attribute: `public_ip`
+ {{< /collapse >}}
 
 ## Cloud-init support and 1 month free tier
 
