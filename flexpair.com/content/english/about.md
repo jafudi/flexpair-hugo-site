@@ -20,22 +20,22 @@ what_we_do:
   subtitle: "Our Values"
   title: "Flexpair is for people who want to"
   block:
-  - title: "Be free where and when to work"
+  - title: "Be free where and when to work and"
     content: "TBD"
 
-  - title: "Collaborate hands-on in realtime"
+  - title: "also Collaborate hands-on in realtime"
     content: "TBD"
     
-  - title: "Celebrate everyone's creativity"
+  - title: "Celebrate everyone's creativity and"
     content: "TBD"
 
-  - title: "Establish a consistent environment"
+  - title: "also stablish a consistent environment"
     content: "Make everything reproducible, from network infrastructure to software configuration."
 
-  - title: "Avoid energy waste where possible"
+  - title: "Avoid energy waste where possible and"
     content: "Travel responsibly. Minimize computational and band width requirements."
 
-  - title: "Take data protection seriously"
+  - title: "Also take data protection seriously"
     content: "Collect personal data only where necessary. Use strong encryption."
     
 
