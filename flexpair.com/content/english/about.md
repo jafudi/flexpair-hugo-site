@@ -17,17 +17,26 @@ who_we_are:
 # what_we_do
 what_we_do:
   enable: true
-  subtitle: "by following clear design principles"
-  title: "We aim at three overarching goals"
+  subtitle: "Our Values"
+  title: "Flexpair is for people who want to"
   block:
-  - title: "Meaningful hybrid data science"
-    content: "Make everything reproducible → *cloud infrastructure, installed software, knowledge transfer"
+  - title: "Be free where and when to work"
+    content: "TBD"
 
-  - title: "Diversity, equity and inclusion"
-    content: "Provide secure and easy access → *strong encryption, zero local install, respect for privacy"
+  - title: "Collaborate hands-on in realtime"
+    content: "TBD"
     
-  - title: "Preserving our beautiful planet"
-    content: "Minimize the use of resources → *RAM and band width requirements, no duplicate hardware"
+  - title: "Celebrate everyone's creativity"
+    content: "TBD"
+
+  - title: "Establish a consistent environment"
+    content: "Make everything reproducible, from network infrastructure to software configuration."
+
+  - title: "Avoid energy waste where possible"
+    content: "Travel responsibly. Minimize computational and band width requirements."
+
+  - title: "Take data protection seriously"
+    content: "Collect personal data only where necessary. Use strong encryption."
     
 
 # our_mission
