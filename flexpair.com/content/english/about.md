@@ -27,7 +27,7 @@ what_we_do:
     content: "collaborate hands-on in realtime"
     
   - title: "Cultivate diversity"
-    content: "Celebrate everyone's unique creative power."
+    content: "We especially value the perspectives of talent from diverse ethnic backgrounds or any kind of chronic physical or mental illness / disability."
 
   - title: "and consistency"
     content: "Establish a consistent environment. Make everything reproducible, from network infrastructure to software configuration."
