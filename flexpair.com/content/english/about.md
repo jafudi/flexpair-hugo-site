@@ -27,7 +27,7 @@ what_we_do:
     content: "Transitions between demonstrating, realtime collaborating and delegating should happen without any interruptions."
     
   - title: "Cultivate diversity …"
-    content: "Including unique perspectives created by ethnic background or the experience of dealing with mental health issues."
+    content: "Inclusive of unique perspectives created by e.g. ethnic background or the experience of dealing with mental health issues."
 
   - title: "and consistency"
     content: "Make everything reproducible, from network infrastructure to software configuration."
