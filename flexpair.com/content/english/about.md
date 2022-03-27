@@ -21,7 +21,7 @@ what_we_do:
   title: "Flexpair is for people who want to"
   block:
   - title: "Work independently"
-    content: "Be free where and when to work"
+    content: "Independent of office presence, fixed working times, being in the same time zone or even broad band internet connection."
 
   - title: "and interactively"
     content: "collaborate hands-on in realtime"
