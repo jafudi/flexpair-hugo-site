@@ -24,13 +24,13 @@ what_we_do:
     content: "Independent of office presence, fixed working times, being in the same time zone or even broad band internet connection."
 
   - title: "and interactively"
-    content: "collaborate hands-on in realtime"
+    content: "Transitions between demonstrating, realtime collaborating and delegating should happen without any interruptions."
     
   - title: "Cultivate diversity …"
-    content: "Including unique perspectives created by ethnic background or the experience of dealing with mental health issues"
+    content: "Including unique perspectives created by ethnic background or the experience of dealing with mental health issues."
 
   - title: "and consistency"
-    content: "Establish a consistent environment. Make everything reproducible, from network infrastructure to software configuration."
+    content: "Make everything reproducible, from network infrastructure to software configuration."
 
   - title: "Protect our planet …"
     content: "Avoid energy waste where possible. Travel responsibly. Minimize computational and band width requirements."
