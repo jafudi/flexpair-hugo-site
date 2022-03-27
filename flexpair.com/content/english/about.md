@@ -27,7 +27,7 @@ what_we_do:
     content: "collaborate hands-on in realtime"
     
   - title: "Cultivate diversity"
-    content: "Including the perspectives of talent with chronic (also mental) disease as well as diverse ethnic backgrounds."
+    content: "Including the perspectives of talent with chronic (also mental) disease as well as from diverse ethnic backgrounds."
 
   - title: "and consistency"
     content: "Establish a consistent environment. Make everything reproducible, from network infrastructure to software configuration."
