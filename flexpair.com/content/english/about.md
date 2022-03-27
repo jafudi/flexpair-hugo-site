@@ -20,19 +20,19 @@ what_we_do:
   subtitle: "Our Values"
   title: "Flexpair is for people who want to"
   block:
-  - title: "Work independently"
+  - title: "Work independently…"
     content: "Independent of office presence, fixed working times, being in the same time zone or even broad band internet connection."
 
   - title: "and interactively"
     content: "collaborate hands-on in realtime"
     
-  - title: "Cultivate diversity"
+  - title: "Cultivate diversity…"
     content: "Including the perspectives of talent with chronic (also mental) disease as well as from diverse ethnic backgrounds."
 
   - title: "and consistency"
     content: "Establish a consistent environment. Make everything reproducible, from network infrastructure to software configuration."
 
-  - title: "Protect our planet"
+  - title: "Protect our planet…"
     content: "Avoid energy waste where possible. Travel responsibly. Minimize computational and band width requirements."
 
   - title: "and their privacy"
