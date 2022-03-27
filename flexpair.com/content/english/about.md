@@ -23,19 +23,19 @@ what_we_do:
   - title: "Be free where and when to work"
     content: "TBD"
 
-  - title: "And collaborate hands-on in realtime"
+  - title: "collaborate hands-on in realtime"
     content: "TBD"
     
   - title: "Celebrate everyone's creativity"
     content: "TBD"
 
-  - title: "And establish a consistent environment"
+  - title: "establish a consistent environment"
     content: "Make everything reproducible, from network infrastructure to software configuration."
 
   - title: "Avoid energy waste where possible"
     content: "Travel responsibly. Minimize computational and band width requirements."
 
-  - title: "And take data protection seriously"
+  - title: "take data protection seriously"
     content: "Collect personal data only where necessary. Use strong encryption."
     
 
