@@ -26,8 +26,8 @@ what_we_do:
   - title: "and interactively"
     content: "collaborate hands-on in realtime"
     
-  - title: "Cultivate creativity"
-    content: "Celebrate everyone's creativity"
+  - title: "Cultivate diversity"
+    content: "Celebrate everyone's unique creative power."
 
   - title: "and consistency"
     content: "Establish a consistent environment. Make everything reproducible, from network infrastructure to software configuration."
