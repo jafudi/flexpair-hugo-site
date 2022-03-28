@@ -11,7 +11,7 @@ draft: false
 ---
 <!-- Solch eine Folie am Ende des Pitch Decks erzeugt Glaubwürdigkeit. Hier solltet ihr zeigen was ihr bis zum Status Quo alles erreicht und unternommen habt, um eure Idee zu validieren. Genauso interessant ist es auch zu wissen, was eure nächsten Schritte sind bzw. sein könnten. Solltet ihr bis dato schon Erfolge oder relevante Zahlen, wie Umsatz, Anzahl Kunden und/oder Nutzer, etc. generiert haben: platziert sie präsent auf dieser Folie. -->
 
-## Cloud-init support and 12 months free tier
+### Cloud-init support and 12 months free tier
 
 {{< collapse "Oracle Cloud Infrastructure (already adopted)" >}}
 
@@ -43,7 +43,7 @@ draft: false
 - Public IP address attribute: `public_ip`
 {{< /collapse >}}
 
-## Cloud-init support and 1 month free tier
+### Cloud-init support and 1 month free tier
 
 {{< collapse "IBM Cloud" >}}
 
@@ -77,7 +77,7 @@ draft: false
 - Public IP address attribute: `access_ip_v4`
 {{< /collapse >}}
 
-## Cloud-init support but no free tier with sufficient RAM allowance
+### Cloud-init support but no free tier with sufficient RAM allowance
 
 {{< collapse "Google Compute Engine" >}}
 
