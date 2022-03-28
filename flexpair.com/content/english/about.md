@@ -30,7 +30,7 @@ what_we_do:
     content: "Including unique perspectives created by ethnic background or the experience of dealing with mental health issues."
 
   - title: "and consistency"
-    content: "Make everything reproducible through automation: From network and compute infrastructure to software configuration."
+    content: "Make everything reproducible through automation: From virtual infrastructure to software configuration."
 
   - title: "Protect our planet …"
     content: "Avoid energy waste where possible. Travel responsibly. Minimize computational and band width requirements."
