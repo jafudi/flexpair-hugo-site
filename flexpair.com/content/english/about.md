@@ -27,16 +27,16 @@ what_we_do:
     content: "Transitions between demonstrating, realtime collaborating and delegating should happen without any interruptions."
     
   - title: "Cultivate diversity …"
-    content: "Inclusive of unique perspectives created by ethnic background or the experience of dealing with mental health issues."
+    content: "Including unique perspectives created by ethnic background or the experience of dealing with mental health issues."
 
   - title: "and consistency"
-    content: "Make everything reproducible through automation, from network infrastructure over choice of VM image to software configuration."
+    content: "Make everything reproducible through automation: From network and compute infrastructure to software configuration."
 
   - title: "Protect our planet …"
     content: "Avoid energy waste where possible. Travel responsibly. Minimize computational and band width requirements."
 
   - title: "and their privacy"
-    content: "Take data protection seriously. Collect personal data only where necessary. Use strong encryption."
+    content: "Take data protection seriously. Collect personal data only where necessary. Always use strong encryption."
     
 
 # our_mission
