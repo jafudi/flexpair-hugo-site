@@ -43,6 +43,8 @@ draft: false
 - Public IP address attribute: `public_ip`
 {{< /collapse >}}
 
+<br>
+
 ### Cloud-init support and 1 month free tier
 
 {{< collapse "IBM Cloud" >}}
@@ -76,6 +78,8 @@ draft: false
 - `opentelekomcloud_compute_instance_v2` ([Community API](https://registry.terraform.io/providers/opentelekomcloud/opentelekomcloud/latest/docs/resources/compute_instance_v2))
 - Public IP address attribute: `access_ip_v4`
 {{< /collapse >}}
+
+<br>
 
 ### Cloud-init support but no free tier with sufficient RAM allowance
 
