@@ -121,8 +121,3 @@ testimonials:
     image: "images/user-img/10-i.jpg"
 
 ---
-
-
-Can I add some more text to this page?
-
-{{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" options="" zoomable="true" >}}
