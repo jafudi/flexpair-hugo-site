@@ -9,7 +9,7 @@ author: jens
 draft: false
 
 ---
-## Problem
+### Problem
 
 Data science has become location-independent. Still it is lacking a meaningful integration of synchronous and asynchronous work steps in one tool.
 
@@ -25,7 +25,7 @@ Data science has become location-independent. Still it is lacking a meaningful i
 
 <!-- Nach dem Intro geht es normalerweise um das Problem, was euer Produkt oder eure Dienstleistung für einen potenziellen Markt löst. Vermeidet hier komplizierte Formulierungen oder diskutable Argumente. In der Regel sind drei sehr klare und unwiderlegbare Aussagen völlig ausreichend. Lasst keine Zweifel aufkommen und formuliert diese Folie so, dass jeder das Problem nachvollziehen kann. -->
 
-## Solution
+### Solution
 
 1. Automatically create an identical clone of a standardized staging environment whenever opening a merge request for a feature branch.
 

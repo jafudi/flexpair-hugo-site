@@ -9,21 +9,21 @@ author: jens
 draft: false
 
 ---
-## Carbon dioxide and waste reduction
+### Carbon dioxide and waste reduction
 
 - we go beyond the obvious "less business travel" argument
 - no need for a second or third notebook, because Flexpair fully runs in your favorite browser
 - Not so fun fact: Did you know that the production of a notebook until you switch it on the first time produces as much CO2 as driving about 1200 km with your car?
 - Ubuntu 20.04 LTS with lightweight LXQt desktop requires only 1 GB of RAM (often available for free)
 
-## Inclusion through maximum flexibility
+### Inclusion through maximum flexibility
 
 - looks and sexual identity does not matter on Flexpair ⚧️🦄
 - let anxiety related to being in front of a camera or among people not stop you 🎗️🧘
 - care for your child and about your career 👶🌡️
 - source your top talent worldwide 🌍🧑🏿‍💻
 
-## Personal boundaries and data protection
+### Personal boundaries and data protection
 
 - Flexpair deliberately does not offer video conferencing. Because remote work should not feel like being a lone wolf in one moment and like Big Brother in the next.
 - if you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions.
