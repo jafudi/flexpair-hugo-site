@@ -33,7 +33,7 @@ Did you come here for something in particular or just general Riker-bashing? And
 2.  We have a saboteur aboard. 
 3.  you appeared for an instant to be in two places at once.
 
-</hr>
+<hr>
 
 ### Unordered list
 * Quisque sem ipsum, placerat nec tortor vel, blandit vestibulum libero. Morbi sollicitudin viverra justo

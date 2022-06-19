@@ -14,48 +14,17 @@ draft: false
 
  We do not waste valuable bandwidth for stuttering video. We instead focus on live co-editing and pleasant, high quality audio.
 
-|                         | Share via Zoom | VS Code Live Share | Virtual desktops | Cloud IDEs (Gitpod) | Flexpair |
-|-------------------------|----------------|--------------------|------------------|---------------------|----------|
-| Appear on screen        | Yes            | No                 | No               | No                  | No       |
-| Hear each other         | Yes            | Yes                | No               | No                  | Yes      |
-| Share the mouse         | Yes            | No                 | No               | No                  | Yes      |
-| Pair programming        | Yes            | Yes                | No               | Yes                 | Yes      |
-| Listen together         | No             | No                 | No               | No                  | Yes      |
-| Team email inbox        | No             | No                 | No               | No                  | Yes      |
-| Asynchronous access     | No             | No                 | Yes              | Yes                 | Yes      |
-| Zero local installation | No             | No                 | Depends          | Yes                 | Yes      |
-| Git controlled config   | No             | No                 | No               | Yes                 | Yes      |
-| Re-deploy in minutes    | No             | No                 | No               | Yes                 | Yes      |
-| Persistent workspace    | Yes            | Yes                | Yes              | No                  | Yes      |
-| Requires fast upload    | Yes            | No                 | No               | No                  | No       |
-| Combine multi-cloud     | Not applicable | Not applicable     | No               | No                  | Yes      |
-| Usable beyond coding    | Yes            | No                 | Yes              | No                  | Yes      |
-| Windows environment     | Yes            | Yes                | Yes              | No                  | No       |
-| Own your own data       | No             | Yes                | Yes              | No                  | Yes      |
-
 <!-- https://www.tablesgenerator.com -->
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bobw{font-weight:bold;text-align:center;vertical-align:bottom}
-.tg .tg-18q7{background-color:#70AD47;text-align:center;vertical-align:bottom}
-.tg .tg-31j1{background-color:#FFC000;text-align:center;vertical-align:bottom}
-.tg .tg-j6zm{font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-7zrl{text-align:left;vertical-align:bottom; white-space:nowrap;}
-.tg .tg-rtra{background-color:#ED7D31;text-align:center;vertical-align:bottom}
-@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
 <div class="tg-wrap"><table class="tg">
+<!-- [html-validate-disable-block element-required-attributes : th scope not present] -->
 <thead>
   <tr>
-    <th class="tg-j6zm"></th>
-    <th class="tg-bobw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Share via Zoom</span></th>
-    <th class="tg-bobw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">VS Code Live Share</span></th>
-    <th class="tg-bobw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Virtual desktops</span></th>
-    <th class="tg-bobw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Cloud IDEs (Gitpod)</span></th>
-    <th class="tg-bobw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Flexpair</span></th>
+    <th class="tg-j6zm" scope="col"></th>
+    <th class="tg-bobw" scope="col"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Share via Zoom</span></th>
+    <th class="tg-bobw" scope="col"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">VS Code Live Share</span></th>
+    <th class="tg-bobw" scope="col"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Virtual desktops</span></th>
+    <th class="tg-bobw" scope="col"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Cloud IDEs (Gitpod)</span></th>
+    <th class="tg-bobw" scope="col"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Flexpair</span></th>
   </tr>
 </thead>
 <tbody>
