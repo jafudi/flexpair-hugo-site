@@ -22,7 +22,7 @@ package = "netlify-plugin-visual-diff"
 [plugins.inputs]
 serverUrl = "https://eyesapi.applitools.com" # The public Eyes server
 ignoreSelector = ".btn .social-links"
-failBuildOnDiff = true
+failBuildOnDiff = false
 concurrency = 1
 
 [[plugins.inputs.browser]]
