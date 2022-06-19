@@ -51,11 +51,11 @@ draft: false
 <thead>
   <tr>
     <th class="tg-j6zm"></th>
-    <th class="tg-bobw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Share via Zoom</span></th>
-    <th class="tg-bobw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">VS Code Live Share</span></th>
-    <th class="tg-bobw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Virtual desktops</span></th>
-    <th class="tg-bobw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Cloud IDEs (Gitpod)</span></th>
-    <th class="tg-bobw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Flexpair</span></th>
+    <th class="tg-bobw" scope="col"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Share via Zoom</span></th>
+    <th class="tg-bobw" scope="col"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">VS Code Live Share</span></th>
+    <th class="tg-bobw" scope="col"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Virtual desktops</span></th>
+    <th class="tg-bobw" scope="col"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Cloud IDEs (Gitpod)</span></th>
+    <th class="tg-bobw" scope="col"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Flexpair</span></th>
   </tr>
 </thead>
 <tbody>
