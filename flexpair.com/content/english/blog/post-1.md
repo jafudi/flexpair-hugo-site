@@ -15,20 +15,6 @@ draft: false
  We do not waste valuable bandwidth for stuttering video. We instead focus on live co-editing and pleasant, high quality audio.
 
 <!-- https://www.tablesgenerator.com -->
-<!-- [html-validate-disable-next element-permitted-content] -->
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bobw{font-weight:bold;text-align:center;vertical-align:bottom}
-.tg .tg-18q7{background-color:#70AD47;text-align:center;vertical-align:bottom}
-.tg .tg-31j1{background-color:#FFC000;text-align:center;vertical-align:bottom}
-.tg .tg-j6zm{font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-7zrl{text-align:left;vertical-align:bottom; white-space:nowrap;}
-.tg .tg-rtra{background-color:#ED7D31;text-align:center;vertical-align:bottom}
-@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
 <div class="tg-wrap"><table class="tg">
 <!-- [html-validate-disable-block element-required-attributes : th scope not present] -->
 <thead>
