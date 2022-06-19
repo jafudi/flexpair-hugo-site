@@ -17,6 +17,13 @@ Referrer-Policy = "same-origin"
 Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
 
 [[plugins]]
+package = "netlify-plugin-html-validate"
+
+[plugins.inputs]
+ext = "html"
+config = "htmlvalidate.json"
+
+[[plugins]]
 package = "netlify-plugin-visual-diff"
 
 [plugins.inputs]
