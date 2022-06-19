@@ -14,26 +14,6 @@ draft: false
 
  We do not waste valuable bandwidth for stuttering video. We instead focus on live co-editing and pleasant, high quality audio.
 
-<!-- [html-validate-disable-block element-required-attributes : th scope not present] -->
-|                         | Share via Zoom | VS Code Live Share | Virtual desktops | Cloud IDEs (Gitpod) | Flexpair |
-|-------------------------|----------------|--------------------|------------------|---------------------|----------|
-| Appear on screen        | Yes            | No                 | No               | No                  | No       |
-| Hear each other         | Yes            | Yes                | No               | No                  | Yes      |
-| Share the mouse         | Yes            | No                 | No               | No                  | Yes      |
-| Pair programming        | Yes            | Yes                | No               | Yes                 | Yes      |
-| Listen together         | No             | No                 | No               | No                  | Yes      |
-| Team email inbox        | No             | No                 | No               | No                  | Yes      |
-| Asynchronous access     | No             | No                 | Yes              | Yes                 | Yes      |
-| Zero local installation | No             | No                 | Depends          | Yes                 | Yes      |
-| Git controlled config   | No             | No                 | No               | Yes                 | Yes      |
-| Re-deploy in minutes    | No             | No                 | No               | Yes                 | Yes      |
-| Persistent workspace    | Yes            | Yes                | Yes              | No                  | Yes      |
-| Requires fast upload    | Yes            | No                 | No               | No                  | No       |
-| Combine multi-cloud     | Not applicable | Not applicable     | No               | No                  | Yes      |
-| Usable beyond coding    | Yes            | No                 | Yes              | No                  | Yes      |
-| Windows environment     | Yes            | Yes                | Yes              | No                  | No       |
-| Own your own data       | No             | Yes                | Yes              | No                  | Yes      |
-
 <!-- https://www.tablesgenerator.com -->
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -49,6 +29,7 @@ draft: false
 .tg .tg-rtra{background-color:#ED7D31;text-align:center;vertical-align:bottom}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
 <div class="tg-wrap"><table class="tg">
+<!-- [html-validate-disable-block element-required-attributes : th scope not present] -->
 <thead>
   <tr>
     <th class="tg-j6zm"></th>

@@ -129,12 +129,14 @@ alert(s);
 <hr>
 
 ### Table
+<div>
 <!-- [html-validate-disable-block element-required-attributes : th scope not present] -->
 | #           | First             | Last              | Handle  |
 | :-----------: | :-------------:     |:-------------:    | :-----:|
 | **1**      | Row:1 Cell:1      | Row:1 Cell:2      | Row:1 Cell:3 |
 | **2**      | Row:2 Cell:1      | Row:2 Cell:2      |   Row:2 Cell:3 |
 | **3**      | Row:3 Cell:1      | Row:3 Cell:2      |    Row:3 Cell:3 |
+</div>
 <hr>
 
 ### Collapse
