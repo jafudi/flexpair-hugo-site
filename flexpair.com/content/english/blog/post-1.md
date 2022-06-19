@@ -15,6 +15,7 @@ draft: false
  We do not waste valuable bandwidth for stuttering video. We instead focus on live co-editing and pleasant, high quality audio.
 
 <!-- https://www.tablesgenerator.com -->
+<!-- [html-validate-disable-next element-permitted-content] -->
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-size:14px;
@@ -32,7 +33,7 @@ draft: false
 <!-- [html-validate-disable-block element-required-attributes : th scope not present] -->
 <thead>
   <tr>
-    <th class="tg-j6zm"></th>
+    <th class="tg-j6zm" scope="col"></th>
     <th class="tg-bobw" scope="col"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Share via Zoom</span></th>
     <th class="tg-bobw" scope="col"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">VS Code Live Share</span></th>
     <th class="tg-bobw" scope="col"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Virtual desktops</span></th>
