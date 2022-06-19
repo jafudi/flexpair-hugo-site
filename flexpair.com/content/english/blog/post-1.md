@@ -14,6 +14,7 @@ draft: false
 
  We do not waste valuable bandwidth for stuttering video. We instead focus on live co-editing and pleasant, high quality audio.
 
+<!-- [html-validate-disable-block element-required-attributes : th scope not present] -->
 |                         | Share via Zoom | VS Code Live Share | Virtual desktops | Cloud IDEs (Gitpod) | Flexpair |
 |-------------------------|----------------|--------------------|------------------|---------------------|----------|
 | Appear on screen        | Yes            | No                 | No               | No                  | No       |
